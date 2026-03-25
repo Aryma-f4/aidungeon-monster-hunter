@@ -1,0 +1,2330 @@
+[
+  {
+    "keys": "Elder Dragons",
+    "value": "Elder Dragons defy typical classification and reside outside of the standard ecosystem. These rare creatures possess immense power and have lived since ancient times. Unlike other monster types, which categorize by shared traits, Elder Dragons stand unique. They often resemble dragons but exhibit traits that do not fit any known category. Their immense power and longevity set them apart from all other monsters.",
+    "type": "Classification ",
+    "title": "Elder Dragons",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Flying Wyverns",
+    "value": "Flying Wyverns are large, bipedal monsters with two wings. Known for their mastery of flight, most have powerful wings for sustained flight. However, some are quadrupedal, using wings as forearms for enhanced land movement. Others are flightless or wingless despite their classification. These variations make Flying Wyverns adaptable and diverse, dominating the monster population in the world.",
+    "type": "Classification ",
+    "title": "Flying Wyverns",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Bird Wyverns",
+    "value": "Bird Wyverns are small to medium-sized, bipedal creatures with slender bodies. They are divided into two types: Flying Bird Wyverns and Theropod Bird Wyverns. Flying Bird Wyverns have developed wings and sharp beaks, behaving like birds. Theropod Bird Wyverns are flightless, with long tails and powerful legs, living in a social hierarchy led by a dominant alpha male. Both types exhibit unique characteristics, making them adaptable and diverse within their ecosystem.",
+    "type": "Classification ",
+    "title": "Bird Wyverns",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Leviathans",
+    "value": "Leviathans are large wyverns with lithe, serpentine bodies and exceptional speed. They dominate aquatic environments like swamps and marshes, but some adapt to land by 'swimming' through sand, snow, or lava. As top predators, they outclass many other monsters in their ecosystems.",
+    "type": "Classification ",
+    "title": "Leviathans",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Brute Wyverns",
+    "value": "Brute Wyverns are flightless monsters resembling non-fictional theropods. They use powerful hindlimbs to move around and have small forelimbs. Most Brute Wyverns can barely use their forelimbs, but some have developed them for combat. These monsters are well adapted for life on land and rely on their robust legs for movement.",
+    "type": "Classification ",
+    "title": "Brute Wyverns",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Fanged Beasts",
+    "value": "Fanged Beasts are beastly, mammalian creatures that lack wings, though some have the ability to glide. They are often much faster than other larger threats. Known for their sharp fangs and agile movements, they dominate both land and aerial environments with their unique gliding capabilities. Fanged Beasts adapt quickly to their surroundings, making them formidable predators in various ecosystems.",
+    "type": "Classification ",
+    "title": "Fanged Beasts",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Fanged Wyverns",
+    "value": "Fanged Wyverns are quadrupedal monsters with wingless forelimbs larger than their hindlimbs. Some, like Odogaron and Tobi-Kadachi, stand on their limbs, while others, like Great Jagras and Dodogama, drag their bodies with limbs spread to the sides. Despite their differences, many Fanged Wyverns exhibit agility and speed, though some are less nimble.",
+    "type": "Classification ",
+    "title": "Fanged Wyverns",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "HR 1-3",
+    "value": "Hunters in HR 1-3 face beginner-level quests. At HR 1, Hunters gain access to introductory quests with easier monsters. As they progress to HR 2, quests offer moderate challenges. By HR 3, Hunters encounter tougher monsters and more complex objectives. The items available to Hunters increase in quality, allowing them to take on more dangerous foes. Hunters can join and initiate online quests within their rank, expanding their experience and earning higher rewards. Achieving these ranks prepares Hunters for more demanding adventures.",
+    "type": "Rank",
+    "title": "HR 1-3",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "HR 4-7",
+    "value": "Hunters reaching HR 4-7 unlock challenging quests and rare items. They gain access to higher-level armor and weapons in shops. New monsters and locations become available, including the Frostpeak Highlands and the Volcanic Region. Hunters can now join more difficult online quests and face formidable foes like the Rathalos and Diablos. These ranks require skill and strategy, pushing hunters to master their combat techniques and teamwork. Completing quests in this range often rewards unique materials and gear, essential for progressing further.",
+    "type": "Rank",
+    "title": "HR 4-7",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "HR 7 and above",
+    "value": "Hunters in HR 7 and above face the most challenging quests. These quests feature formidable monsters with complex attack patterns and high damage output. Hunters gain access to elite items and rare materials, allowing them to craft top-tier weapons and armor. Joining online quests at this rank requires significant skill and experience. Achieving HR 7 and above signifies a Hunter's mastery and readiness for the most dangerous adventures.",
+    "type": "Rank",
+    "title": "HR 7 and above",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Hunter's Guild",
+    "value": "The Hunter's Guild is a central governing association dedicated to maintaining ecological balance and preventing species extinction. It comprises skilled hunters and researchers who conduct quests to protect the environment from monster threats. The Guild enforces strict rules to ensure fair hunting practices and sustainable resource use. It offers training, resources, and a ranking system for hunters to grow in skill. The Guild also collaborates with local communities, fostering mutual understanding and cooperation.",
+    "type": "faction",
+    "title": "The Hunter's Guild",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Wyverians",
+    "value": "Wyverians possess long pointed ears and four digits on their hands and feet. Their lifespan is extremely long, potentially immortal. Originating from wyverns, they exhibit human-like features, with some retaining scales and claw-like nails on their extremities. They excel in advanced technologies, dominating complex blacksmithing. Wyverians hold top social positions, often leading in the Guild and as merchants. Their appearance varies greatly, with young ones roughly human-sized, adults taller, and elders short.",
+    "type": "race",
+    "title": "Wyverians",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Troverians",
+    "value": "Troverians are a short and stocky race of extremely industrious blacksmiths, miners, and builders. Although quite adept in their own right, they revere Wyverian blacksmiths for their skill, and claim to have learned blacksmithing from Wyverians in the distant past. Little else is known about them, as they tend to be rare outside of their native home in Harth and do not often venture afar.",
+    "type": "race",
+    "title": "Troverians",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Felynes",
+    "value": "Felynes are small cat-like people, typically beige with brown markings, though colors and patterns vary. They live in small villages with their close cousins, the Melynx. Felynes pass down tales orally, paint pictograms, and build crude statues from rocks. Extremely hardy, they burrow into cliffs and construct buildings using natural materials. Integrated into human and Wyverian society, they often serve as cooks, cleaners, salespeople, or farmhands. Some become Palicos, aiding hunters. They are considered the lowest caste but are valued for their resourcefulness and companionship.",
+    "type": "race",
+    "title": "Felynes",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Melynx",
+    "value": "Melynx are the close cousins of Felynes, known for their black and white fur with black and pink markings. They wear handkerchiefs and pouches made of woven green grasses and carry cat paw staves. Melynx are notorious thieves, often stealing from hunters in the field without provocation. Despite their kleptomania, they do not steal from members of their own village or hunters visiting their villages. Melynx share a love for felvine, a plant with strong catnip-like properties, which hunters can use to their advantage.",
+    "type": "race",
+    "title": "Melynx",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Shakalakas",
+    "value": "Shakalakas are small, green-skinned, goblin-like creatures, distantly related to Felynes and Melynx. Known for wearing masks and their dancing, they are extremely aggressive and attack hunters who wander too close. Living in primitive tribal societies, each tribe is headed by a larger King Shakalaka who wears a flaming barbecue spit as a crown. Shakalakas change masks quickly to hide their faces, and young ones quest for their lifelong mask upon reaching adulthood.",
+    "type": "race",
+    "title": "Shakalakas",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Kirin",
+    "value": "Kirin resembles a unicorn with a lion-like face and scales instead of fur. It has a mane of fur, a bushy tail tip, and tufts of fur on its shoulders and hooves. Black stripes run along its sides and legs, and its eyes are crimson. Kirin crackles with stray electricity and can summon lightning. It wreaths itself in lightning to harden its hide. Kirin relies on lightning strikes and its agility to attack, rarely using physical attacks. It can run circles around foes, gore them with its horn, and quickly dart away.",
+    "type": "Elder dragon",
+    "title": "Kirin",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Lao-Shan Lung",
+    "value": "Lao-Shan Lung bears a hulking copper red body with a cream-colored underbelly. It has numerous dark grey spikes on its neck, back, and tail. Its limbs are comparatively small with dark grey hands and feet. Its head features eight large horns that curve backwards and a smaller horn on the front that points upwards and curves back slightly. Its mouth has small teeth with several larger teeth on the outside. Lao-Shan Lung relies solely on its immense physical bulk and strength, being strong enough to smash through huge forts and barrel straight through villages and towns without a second thought.",
+    "type": "Elder dragon",
+    "title": "Lao-Shan Lung",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Ashen Lao-Shan Lung",
+    "value": "Ashen Lao-Shan Lung has a muted grey-blue carapace from years of volcanic debris. It retains the immense strength of regular Lao-Shan Lung, capable of crushing cities. Its body is harder to penetrate due to solidified ash and soot. Extremely docile, it only attacks when feeding is disrupted. It ignores hunters but destroys structures in its path.",
+    "type": "Elder dragon",
+    "title": "Ashen Lao-Shan Lung",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Fatalis",
+    "value": "Fatalis resembles a traditional European dragon, with a long, serpentine neck and tail, along with a pair of large, yet muscular wings. Its body is covered in rigid black scales and lined with white spines along its back. Fatalis can destroy kingdoms with its flame breath, which can produce streams of fire or explosive blasts. It can radiate heat to melt metal and pin down foes. Fatalis exhibits extreme strength and stamina, using its whip-like tail, powerful jaws, and limbs to batter attackers. It also possesses extraordinary self-recovery abilities.",
+    "type": "Elder dragon ",
+    "title": "Fatalis",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Crimson Fatalis",
+    "value": "Crimson Fatalis is a Fatalis whose scales have turned a reddish-crimson from generations in the Volcano. Its body is mostly black, but red scales cover its chest, neck, undertail, and wing tips. One horn is extremely overgrown. Known for its extreme aggression, Crimson Fatalis attacks without hesitation, driven by eternal rage. It inhabits the Volcanic Belt, blending into the fiery environment. Its natural element is lava, and it uses this to incinerate anything in its path.",
+    "type": "Elder dragon ",
+    "title": "Crimson Fatalis",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "White Fatalis",
+    "value": "White Fatalis stands out with luminous white scales and a line of fur down its back and tail. Its antler-like horns and less reptilian head set it apart from its relatives. When enraged, its throat and chest glow red with red lightning sparks. It can summon red lightning storms, produce electrical projectiles, and imbue its claws with red lightning. Observed in remote areas like Tower and Castle Schrade, its natural environment remains unknown.",
+    "type": "Elder dragon ",
+    "title": "White Fatalis",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Kushala Daora",
+    "value": "Kushala Daora is a dragon with metallic skin, large wings, and backward-curving horns. It manipulates wind to create tornadoes and violent storms, and generates a wind barrier that strengthens with anger. This barrier can deflect attacks and blow back hunters. The dragon can inflict ailments like frostbite with freezing winds. Poison or a broken horn can weaken its wind barrier. Kushala Daora can also produce Dragon element to empower its physical attacks.",
+    "type": "Elder dragon ",
+    "title": "Kushala Daora",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Rusted Kushala Daora",
+    "value": "Rusted Kushala Daora is an Elder Dragon with rusted metallic skin. Unlike its normal counterpart, it behaves aggressively, using physical attacks like biting and charging. It stays on the ground more often and uses its aerial turnaround bite frequently. After jumping back, it can immediately attack with a charge or wind blast, skipping the usual taunt. Its roar and screeches are distinct from those of Kushala Daora.",
+    "type": "Elder dragon ",
+    "title": "Rusted Kushala Daora",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Chameleos",
+    "value": "Chameleos has a purple and white hide and a horn at the tip of its nose. Its large, orb-like eyes can move independently, and its long tongue can steal items from a distance. It uses its purple wings to control poison fog and its leaf-like tail to fan high-pressure winds. Chameleos camouflages itself using electric currents, but loses this ability if its horn breaks or tail severs. It creates thick fog, toxic clouds, acid blobs, and fatigue-inducing gas. Unpredictable in battle, it steals items and poisons hunters, though it prefers to avoid combat unless necessary.",
+    "type": "Elder dragon ",
+    "title": "Chameleos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Lunastra",
+    "value": "Lunastra is a dragon with leonine features and a cool coloration. She has a prominent mane, large fangs, and a distinct crest that resembles a crown. Her wings are covered in fur. Lunastra uses her Flame Sac to produce a fire breathing effect. She can create highly flammable powder and spread it using her fur-covered wings. She then ignites the powder by gnashing her teeth to create sparks, causing explosions around her. The range of the explosions varies based on the color of the sparks, with red sparks indicating close-range explosions and yellow sparks indicating distant ones.",
+    "type": "Elder dragon ",
+    "title": "Lunastra",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Amatsu",
+    "value": "Amatsu, an Elder Dragon, boasts a pale white body with golden horns and flesh tendrils. It has vestigial feet and nearly useless back legs but uses its finned limbs to swim through the sky. Amatsu controls storms, summoning gales, tornadoes, and torrential rains. It fires pressurized water blasts and harnesses lightning. Its abilities intensify with injury. Amatsu's presence causes catastrophic damage, driving other monsters away and threatening entire cities.",
+    "type": "Elder dragon ",
+    "title": "Amatsu",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Teostra",
+    "value": "Teostra is a large dragon with leonine features and a fiery red coloration. It has a grand mane, large fangs, and curved horns. Its fur-covered wings and tail make it distinct. Teostra breathes powerful streams of fire and creates explosive powder from its scales. It attacks intruders ruthlessly and cooperates with Lunastra. Older Teostra may be calmer but still fiercely defend their territory.",
+    "type": "Elder dragon ",
+    "title": "Teostra",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Yama Tsukami",
+    "value": "Yama Tsukami is an Elder Dragon with an octopus-like body, covered in moss, algae, and other plant life. It has four thick tentacles, two large whiskers, and human-like teeth and gums. Yama Tsukami produces gas to keep itself afloat and float midair. It has a symbiotic relationship with Great Thunderbugs, which it shelters and which explode to attack threats. Yama Tsukami releases burning gas from its pores and can travel long distances without stopping. It becomes docile after feeding but becomes hostile if cornered.",
+    "type": "Elder dragon ",
+    "title": "Yama Tsukami",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Alatreon",
+    "value": "Alatreon is a regal, quadrupedal Elder Dragon covered in backward-facing black scales with a blade-like texture. It has spiked armor on its chest, powerful limbs with sharp claws, and a long, muscular tail. Its head features a beaklike mouth and two large, serrated horns that curve outward. Alatreon controls all elements: Dragon, Fire, Ice, Thunder, and Water. It shoots flame, freezes air, summons lightning, sprays flammable fluid, and infuses its body with draconic energy. Breaking its horns temporarily weakens its elemental powers.",
+    "type": "Elder dragon ",
+    "title": "Alatreon",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Jhen Mohran",
+    "value": "Jhen Mohran is an extremely large monster, with a long, almost serpentine body shape. It has sturdy, sharp-ended tusks on its head and a rocky spine with valuable minerals along its back. Due to vestigial back legs, it moves by dragging its body or swimming in the sand. Normally calm, Jhen Mohran attacks approaching Dragonships by ramming them with its body and throwing stones from its back. It largely ignores hunters climbing on its back, focusing instead on the Dragonship. Jhen Mohran only inhabits the Great Desert.",
+    "type": "Elder dragon ",
+    "title": "Jhen Mohran",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Hallowed Jhen Mohran",
+    "value": "The Hallowed Jhen Mohran stands slightly taller than its common counterpart, distinguished by its deep violet ore-like hide. Its strength surpasses the average Jhen Mohran, capable of withstanding and inflicting higher damage. It remains calm unless provoked, but fiercely retaliates against Desert/Dragon Ships it perceives as rivals. Found in the Great Desert, it exhibits unique patterns of attack and movement, distinct from its kin.",
+    "type": "Elder dragon ",
+    "title": "Hallowed Jhen Mohran",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Ceadeus",
+    "value": "Ceadeus resembles a giant whale with a face similar to a Dunkleosteus. It has a prominent beard of fur and two massive horns, which constantly grow and eventually overtake the creature’s eyes, leaving it blind. Luminous organs line the monster's underside as well as the top of its mouth, which turn from blue to red when it is enraged. Ceadeus can cause rubble to fall, smash open large walls, and even cause earthquakes by ramming its horns against the walls of the caverns it inhabits. It can also expel large quantities of water from its mouth as a powerful beam.",
+    "type": "Elder dragon ",
+    "title": "Ceadeus",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Goldbeard Ceadeus",
+    "value": "The Goldbeard Ceadeus, distinguishable by its darker coloring, boasts a lustrous golden hide and darker brown underbelly. Unlike the regular Ceadeus, both of its large horns are symmetrical, overtaking its single remaining eye. Notably, these horns can break off, yielding a total of four carves. Found in the deep ocean, this subspecies displays greater strength and more aggressive behavior.",
+    "type": "Elder dragon ",
+    "title": "Goldbeard Ceadeus",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Dire Miralis",
+    "value": "Dire Miralis is a very large, semi-aquatic Elder Dragon. Its body structure is reminiscent of Fatalis, with relatively short limbs and a long tail and neck. Its body is filled with a magma-like substance which pools at the base of the tail, the chest, and at each shoulder. Each of these pools directs magma flow to certain parts of the body. On its back are a pair of wing-like appendages. Seemingly useless in terms of flight, these 'wings' feature cannon-like chutes which can extrude globules of magma, both as a means of defense and as a way to jettison excess magma. Dire Miralis's head features a frill-like structure and an upturned snout.",
+    "type": "Elder dragon ",
+    "title": "Dire Miralis",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Oroshi Kirin",
+    "value": "Oroshi Kirin has a dark navy blue body with violet stripes, a black mane with light purple tips, and luminous red eyes. Its horn is larger with a pinkish color and a spiraling ridge. Oroshi Kirin is more aggressive than the standard Kirin and summons ice shards for defense. It can only be found in the Everwood or Tower Summit.",
+    "type": "Elder dragon ",
+    "title": "Oroshi Kirin",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Shagaru Magala",
+    "value": "Shagaru Magala is the mature form of Gore Magala, with a body covered in glittering golden scales and dark brown horns, claws, and spiky protrusions. Its wings now resemble golden scaly sheets shaped like stars when expanded. Shagaru Magala is stronger, more agile, and ferocious, using enhanced physical attacks and Frenzy Virus abilities like explosive scale pools and ground energy eruptions. It can also enter a True Frenzy state, where its pale areas turn purple, and Frenzy Crystals form on its neck and horns, accompanied by a light purple and white aura.",
+    "type": "Elder dragon ",
+    "title": "Shagaru Magala",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Dah'ren Mohran",
+    "value": "Dah'ren Mohran is a large, whale-like dragon covered in jagged armor plating. Its forelegs and back feature spine-like protrusions, and its face boasts a single gigantic, knife-like horn extending several meters. Unlike its relative Jhen Mohran, Dah'ren Mohran's body is more aggressive in appearance. It uses its horn to spear prey and its spines to defend against predators. Dah'ren Mohran's primary goal is to protect its territory, and it becomes extremely aggressive when threatened. It is known to create powerful shockwaves by slamming its body onto the ground.",
+    "type": "Elder dragon ",
+    "title": "Dah'ren Mohran",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Dalamadur",
+    "value": "Dalamadur is a massive serpentine Elder Dragon with a snake-like face, bright red eyes, numerous fangs, and hook-like spikes along its body. It has clawed forearms, small hind spurs, and glowing chest vents. Dalamadur tunnels through stone with ease and can cause massive tremors. It immobilizes foes with its paralytic tongue and breathes a burning substance. It also summons meteor-like projectiles. Living in the Heavenly Mountains, Dalamadur violently defends its territory, causing falling debris with its burrowing.",
+    "type": "Elder dragon ",
+    "title": "Dalamadur",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Shah Dalamadur",
+    "value": "Shah Dalamadur appears as a Dalamadur with a white tone, red-orange spines, and enlarged facial spikes. It is the same size as a regular Dalamadur. This monster has shed its skin due to age and shares abilities like immense size, paralytic tongue, burning breath, and summoning meteors. However, its recent molting leaves it unable to control body temperature, fluctuating wildly between hardened resistance when cold and vulnerability with extreme heat when hot. Shah Dalamadur exhibits increased aggression likely due to feeling vulnerable after shedding its skin.",
+    "type": "Elder dragon ",
+    "title": "Shah Dalamadur",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Gogmazios",
+    "value": "Gogmazios is an Elder Dragon with a massive body, resembling Gore Magala and Shagaru Magala, but with larger wingarms. It has red eyes, rows of sharp teeth, and a glowing pattern on its chest that looks like a scowl. Its body, covered in indigo scales and spines, secretes sticky tar to immobilize prey. An ancient dragonator is lodged in its back. Despite its size, it can fly due to powerful wings and a light skeleton. Gogmazios fires superheated oil beams and uses its size to batter opponents. It eats sulfur and gunpowder, raiding armories aggressively.",
+    "type": "Elder dragon ",
+    "title": "Gogmazios",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Nakarkos",
+    "value": "Nakarkos is a massive cephalopod-like monster with glowing yellow eyes and a sharp beak. Its blue skin features turquoise bioluminescent spots. Nakarkos covers itself in self-made bones for protection and camouflage. Its two primary tentacles, tipped with skulls, resemble a two-headed skeletal dragon. Nakarkos can coat enemies in sticky mucus, burrow through earth, and swim adeptly. It replaces its tentacle skulls with body parts from other monsters, gaining new abilities. Nakarkos fires Dragon energy beams and devours entire ecosystems, including powerful Wyverns, to feed its insatiable appetite.",
+    "type": "Elder dragon ",
+    "title": "Nakarkos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Valstrax",
+    "value": "Valstrax, a slender Elder Dragon, is covered in silver scales. It uses its jet-engine-like chest vents to generate thrust. Valstrax has fused trident wings that can expel Dragon element flames, manipulate air flow for flight and attacks, and even create massive explosions. Known for its incredible agility and high speed, it executes its deadliest move, 'Around the World,' by flying as a blazing red comet and hitting the ground at breakneck velocity. Valstrax is a highly maneuverable, durable adversary with versatile attacks, making it a formidable foe in any engagement.",
+    "type": "Elder dragon ",
+    "title": "Valstrax",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Narwa the Allmother",
+    "value": "Narwa the Allmother is an apex serpent with dark purple skin and bright purple elongated tails and thundersacs. Her eyes alternate between yellow and red. She achieves this form by consuming Wind Serpent Ibushi's lifeforce, granting her control over wind and enhanced electricity. Narwa summons stronger, faster electrical attacks and powerful wind blasts. She can lift Dragonators magnetically and summon floating stone platforms. She fertilizes her eggs in this state and attacks similarly to her original form but with greater power and range.",
+    "type": "Elder dragon ",
+    "title": "Narwa the Allmother",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Thunder Serpent Narwa",
+    "value": "Thunder Serpent Narwa is an Elder Dragon with a leviathan-like body and short, fin-like hind legs. It features double jaws and multiple sacs along its body. Narwa has golden and orange tendrils running from head to tail and large, backward-facing horns. It uses its thunder sacs and electromagnetic force to levitate and fly. Narwa prefers long-range attacks using electricity, such as blasts and beams, and can magnetically manipulate metal objects. Its body builds up electricity in battle, making its attacks increasingly violent.",
+    "type": "Elder dragon ",
+    "title": "Thunder Serpent Narwa",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Nergigante",
+    "value": "Nergigante is a dragon with a bristly appearance. It is covered in spikes that constantly regrow as they're broken off. It has two massive horns similar to a bull. The monster's hide is primarily black with purple and orange accents. Nergigante is constantly regenerating its skin as it attacks and is struck by hunters. It will slowly grow white spikes on certain body parts, which harden over time. Hunters must try to break the white spikes before they harden. Once they have hardened, its attacks deal more damage.",
+    "type": "Elder dragon ",
+    "title": "Nergigante",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Ruiner Nergigante",
+    "value": "Ruiner Nergigante has darker scales and a carapace compared to Nergigante. It features black metallic spikes between its bone spikes. Initially slow and predictable, it becomes more brutal as it takes damage. The metallic spikes grow as it loses health, causing a bigger 'spike burst' effect and inflicting Bleeding. Ruiner Nergigante is intelligent and patient, letting others weaken prey before attacking. It is fiercely aggressive and hunts with great ferocity, surpassing the strength of its normal variant.",
+    "type": "Elder dragon ",
+    "title": "Ruiner Nergigante",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Xeno'jiiva",
+    "value": "Xeno'jiiva is a large dragon with an otherworldly appearance. It has two eyes and six orange sensory organs running up the length of its horns. Parts of its body glow ethereal blue, making its skin appear crystalline and translucent. Its wings are frayed at the edge of the membrane and are grayish-blue in color. When enraged, its torso glows a hot red and orange. Xeno'jiiva wields absorbed bioenergy as bright blue flame-like energy, firing explosive bursts or concentrated beams that can cause Dragonblight or Fireblight.",
+    "type": "Elder dragon ",
+    "title": "Xeno'jiiva",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Safi'jiiva",
+    "value": "Safi'jiiva is a large red dragon that evolved from its juvenile form Xeno'jiiva. It has rigid scales, a bent posture with chest close to the ground, and spikes from its neck to the tail. Unlike Xeno'jiiva, it has a natural appearance but can draw, manipulate, and reshape ecosystem bioenergy on a wide scale. In combat, Safi'jiiva unleashes high-power energy attacks. It also can lure other monsters and absorbs ambient energy for attacks, giving it a 'perfect being' reputation.",
+    "type": "Elder dragon ",
+    "title": "Safi'jiiva",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Vaal Hazak",
+    "value": "Vaal Hazak is a long, slender Elder Dragon with silver scales hidden under a fleshy red veil. It has a double lower jaw with extremely long, sharp fangs. Its head features two bright yellow spots and small red eyes. Vaal Hazak has sickle-shaped claws on its toes and wingtips. It buries itself in bone piles and charges up Effluvium for powerful attacks, leaving behind Tainted Flesh. It can spew concentrated streams of Effluvium or release noxious clouds, weakening its victims. Vaal Hazak gathers Effluvium to heal itself, killing its victims in the process.",
+    "type": "Elder dragon ",
+    "title": "Vaal Hazak",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Blackveil Vaal Hazak",
+    "value": "Blackveil Vaal Hazak resembles Vaal Hazak but has green and milky-white scales and moss-like pustules. These pustules emit Effluvium and cover its head, rendering it blind. If removed, it regains sight. A passive creature, it attacks only when provoked, using Effluvium to locate prey and infect monsters. Its moss spreads, transforming the environment. A thick green fog indicates its presence. Its breath creates a smog-like gas that adheres to the ground, altering its habitat.",
+    "type": "Elder dragon ",
+    "title": "Blackveil Vaal Hazak",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Malzeno",
+    "value": "Malzeno has a dragon-like body covered in dark scales. Swarms of flying leech-like Qurio creatures cover its neck, chest, and front legs. Its wings appear dull grey on top but reveal a red underside. Each wing has a giant talon. It possesses three curved claws on its front legs and two large golden horns. Its tail ends in three movable prongs to catch prey. Malzeno can envelop its body in a swarm of Qurio for defense. It attacks using its claws, talons, and by spitting Qurio to drain life from its targets.",
+    "type": "Elder dragon ",
+    "title": "Malzeno",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Kulve Taroth",
+    "value": "Kulve Taroth is a very large, lizard-like dragon covered in a beautiful golden mantle. Its golden scales feature lapis lazuli spiral horns, and emerald-like patches underneath. It moves slowly due to its heavy mantle but gains incredible speed when the mantle is shed. Kulve Taroth breathes superheated air and melts gold in its path, causing molten gold to rain from ceilings. Initially docile, it attacks when provoked or its mantle is broken. Fleeing occurs if hunters' damage is too low. It enters Fury Mode when enough body parts are broken, increasing its power.",
+    "type": "Elder dragon ",
+    "title": "Kulve Taroth",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Behemoth",
+    "value": "The Behemoth, from another world, is a colossal quadruped with purple skin and spiked black hair along its back. It boasts exceptional strength and the rare ability to wield magic. Its abilities include summoning windstorms, meteor showers, thunderbolts, and self-healing. It is extremely aggressive, whether innate or due to its transport to the New World. Behemoths' red-glowing eyes and bodies indicate enmity. Taming one demands a team of elite hunters equipped with top-notch gear and advanced tactics.",
+    "type": "Elder dragon ",
+    "title": "Behemoth",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Velkhana",
+    "value": "Velkhana is an Elder Dragon with a slim, upright body covered in crystalline blue scales. It has a tiara-like crown of small horns and can summon ice to cover its wings, limbs, and tail. Velkhana controls cold through ore-infused scales, breathing supercooled fluid to flash-freeze foes. It creates walls and exploding spikes of ice, and can form icy armor. Velkhana disperses freezing clouds and rains chunks of ice. It is highly agile, using its spear-like tail to strike from multiple angles. If its tail is cut off, it creates an ice prosthetic.",
+    "type": "Elder dragon ",
+    "title": "Velkhana",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Namielle",
+    "value": "Namielle, an Elder Dragon, combines features of manta rays, deep-sea fish, and jellyfish. Its black and light blue wings have rainbow luminescence. When charged, its blue parts glow. Namielle produces watery mucus for hydration and attacks. It glides through air but moves clumsily on land until it spreads water. It uses water to slide, create shock waves, and wash away foes. Electricity-producing organs allow it to electrify water, causing violent steam explosions. Overuse of water leaves it vulnerable and dried out.",
+    "type": "Elder dragon ",
+    "title": "Namielle",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Shara Ishvalda",
+    "value": "Shara Ishvalda is a large dragon with two forms. Initially, it appears bulky, covered in rocks and minerals, with its head obscured. It lacks wings, instead having four-fingered hand-like appendages. In its true form, it is lithe and athletic, with bark-like and stone-like hide in bright colors. It manipulates earth using sonic vibrations from its fingers, creating quicksand, tunnels, tremors, and explosions. Its vibrations can collapse landmasses and alter biomes. Shara Ishvalda is nearly blind, relying on a sensory organ in its forehead. Its subterranean lifestyle and unique abilities make it a formidable monster.",
+    "type": "Elder dragon ",
+    "title": "Shara Ishvalda",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Primordial Malzeno",
+    "value": "Primordial Malzeno has a sturdy appearance with silver and gold plates and blades. It lacks Qurio and its wing membranes are dark bluish-purple. Its abilities include great physical strength and agility, enhanced by its armored wings. In its Bloodrage state, the armor blackens, and it glows magenta. If severely injured, it enters a Bloodlust state where its body turns black with orange light, and it uses its fiery form to attack fiercely. Primordial Malzeno prefers a knightly combat style with precise strikes, wielding its armor and tail skillfully.",
+    "type": "Elder dragon ",
+    "title": "Primordial Malzeno",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Gaismagorm",
+    "value": "Gaismagorm is a massive Elder Dragon with a pseudowyvern-like gait. It crawls using its front legs and dexterous forearms, adapted from its wings. Its tail has five spikes, and its head features two horns, beady yellow eyes, and a split mouth with hooks. Gaismagorm expels energy absorbed from Qurio through vents, enhancing its attacks. When enraged, it sheds crystallized Qurio, radiating red feather-like protrusions, and its vents erupt with flames. The Qurio swarm around it, violently protective of their host.",
+    "type": "Elder dragon ",
+    "title": "Gaismagorm",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Basarios",
+    "value": "Basarios is the juvenile form of Gravios with a hard, mossy carapace for protection. It rarely uses its wings and prefers burrowing, blending with rocks. It releases sleeping gas, poisonous gas, and sometimes a fire plume. It hurls lava balls and uses a powerful lava beam. It charges at opponents rather than attacking from a distance.",
+    "type": "Flying wyvern ",
+    "title": "Basarios",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Gravios",
+    "value": "Gravios is a colossal wyvern covered in a dense, stone-like armored shell. It towers over most wyverns and measures several dozen feet in length. Despite having large wings, its size and weight limit its flight. Its thick tail ends in a mace-like club. Gravios expels knockout gas from gaps in its underside and flammable gas as a waste product. It inhabits volcanoes and swamps, eating rocks and minerals. Gravios is docile until provoked, fiercely territorial, and incubates its juvenile Basarios in large volcanic areas.",
+    "type": "Flying wyvern ",
+    "title": "Gravios",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Black Gravios",
+    "value": "Black Gravios is a common Gravios whose shell has undergone a chemical change due to an abnormally high body temperature, making it closer to a Variant classification. It is covered in a black hide with red spines and is larger and heavier than the common Gravios. Black Gravios is more proficient in the use of its heat beam, thanks to its sturdier body. Far more aggressive than its grey counterpart, it will attack on sight and commonly expels explosive gas. Black Gravios inhabits swamps, volcanoes, and even forests like the Everwood, where ore deposits are abundant.",
+    "type": "Flying wyvern ",
+    "title": "Black Gravios",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Diablos",
+    "value": "Diablos are large, bipedal wyverns with armor plating. They possess bull-like horns and tusk-like fangs, and a heavy, studded club on their tail. They can burrow underground, and their powerful legs allow high-speed charges. Known herbivores, Diablos eat desert cacti but remain aggressively territorial, battling with their horns. Though unable to sustain flight, their broad wings aid escape from sand. Diablos use a roar to stun adversaries and surprise prey with their burrowing tactic, making them a formidable creature.",
+    "type": "Flying wyvern ",
+    "title": "Diablos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Black Diablos",
+    "value": "Black Diablos are female Diablos in heat, identified by their black shell during mating season. Extremely aggressive, they use the sand for ambushes and attack intruders, including other Diablos and monsters like Tigrex. Highly territorial, they are found in deserts and can tunnel through sand. Their aggression peaks during this time, making them one of the most hostile creatures in the Desert.",
+    "type": "Flying wyvern ",
+    "title": "Black Diablos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Khezu",
+    "value": "Khezu are large, pale Wyverns with flabby, rubbery hide that they keep damp. Their blood vessels and veins show through their skin. They have specialized orifices in their tails for electrical attacks and suction pad-like toes for climbing. Their eyes have regressed, but they possess a superb sense of smell. Hermaphrodites, they reproduce by paralyzing prey and injecting their young, known as Whelps. Khezu dwell in caves, where they can cling to ceilings and ambush prey, though they venture out when food becomes scarce.",
+    "type": "Flying wyvern ",
+    "title": "Khezu",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Red Khezu",
+    "value": "The Red Khezu has a fatty, blood-red hide. It has greater control over its extendable neck than the common species and possesses a more potent thunder sac. The Red Khezu behaves much like an ordinary Khezu; however, it is capable of using a unique neck-thrusting attack. This subspecies, interestingly, is immune to Fire and weak to Water, unlike the Khezu. Red Khezu live generally in the same areas as normal Khezu.",
+    "type": "Flying wyvern ",
+    "title": "Red Khezu",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Monoblos",
+    "value": "Monoblos are large wyverns with brown, rock-hard carapace, resembling Diablos but with a Styracosaurus-like head featuring a beaked mouth, a spiral nasal horn, and a large frill. They have small yellow eyes, spikes of various sizes, and a tail club lined with spikes. Lacking breath attacks, their roar is lethal. They tunnel in desert sands to ambush threats and fight with horn-thrusts and tail-swings. Aggressive and quick to anger, their crown gains red streaks when enraged, increasing their speed and strength.",
+    "type": "Flying wyvern ",
+    "title": "Monoblos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Rathalos",
+    "value": "Rathalos is a large, bipedal wyvern with a spiny, armored hide. Its outer shell is bright red with black markings. It possesses a flame sac for deadly flaming projectiles and poisonous talons. Its long, thick tail ends in a heavy spiked club. Rathalos is an expert flyer, hunting from the skies with surprise aerial attacks. On the ground, it uses powerful legs and its clubbed tail. Highly territorial, Rathalos chases away intruders and carries prey away to eat in private. It is the apex predator of the Ancient Forest.",
+    "type": "Flying wyvern ",
+    "title": "Rathalos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Azure Rathalos",
+    "value": "Azure Rathalos is a subspecies of Rathalos, distinguished by its azure shell, lime green wing webbing, and a single red spike on its tail. It boasts higher stamina, health, and attack power compared to regular Rathalos. This wyvern exhibits exceptional aggression and intelligence, becoming even more fierce during mating season. It resides in forests, hills, and occasionally volcanic areas, using its powerful wings to stay airborne longer and deliver devastating fire breath and poisonous claw attacks.",
+    "type": "Flying wyvern ",
+    "title": "Azure Rathalos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Silver Rathalos",
+    "value": "Silver Rathalos is a rare Rathalos species with a shining silver carapace and black markings along the spine. Larger than average, he activates an 'Incandescent' state where his head, chest, and neck-wings area ignite with blue flames. He frequently uses triple fireballs and aerial claw attacks, preferring aerial combat. On the ground, he relies on tail whips over bites and charges less often. Known for his rage, his attacks become even more aggressive in the Incandescent state. Hunters often find him atop ancient Towers, and he is occasionally relocated for special event hunts in Arenas.",
+    "type": "Flying wyvern ",
+    "title": "Silver Rathalos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Rathian",
+    "value": "Rathian is a medium-sized true flying wyvern with a dull, muted green hide and a long chin spike. Her upper back and wingtips feature moss-like fur. She generates flaming projectiles and can release potent fire blasts. Her tail has sharp, poisonous needles for close combat. Rathian can run at high speeds and has keen vision. Flash Bombs are useful in combat.",
+    "type": "Flying wyvern ",
+    "title": "Rathian",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Pink Rathian",
+    "value": "Pink Rathian has a heavily-armored body and greater health and attack power than her green relative. She often appears in quests alongside the Azure Rathalos. Her attacks are stronger and faster than those of a normal Rathian, while her other traits remain similar to the green Rathian.",
+    "type": "Flying wyvern ",
+    "title": "Pink Rathian",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Gold Rathian",
+    "value": "Gold Rathian is a rare Rathian species with an exceptionally strong golden shell covering her body. This shell makes it difficult for Hunters to land a hit without their weapons bouncing off. She is slightly larger than the average Rathian. When she activates her 'Incandescent' state, her head, chest, and the area between her neck and wings are engulfed in blue flames. Gold Rathian is weakest to the Thunder Element and, like all Rathians, can inflict Poison ailment.",
+    "type": "Flying wyvern ",
+    "title": "Gold Rathian",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Akantor",
+    "value": "Akantors are massive wyverns dwelling in magma, covered in reddish black spikes and durable shells. They possess large sharp claws and tusks nearly as long as their head. Classified as Flying Wyverns, they lost flight capabilities and now have small wing nubs. Akantors can cause environmental damage, and their corrosive fluid and sonic roars make them extremely deadly. Highly aggressive, they attack almost anything on sight, often taking down prey with their immense strength and powerful roars.",
+    "type": "Flying wyvern ",
+    "title": "Akantor",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Nargacuga",
+    "value": "Nargacuga is a black-scaled wyvern resembling a predatory black panther. It has nightmarish red eyes and dark fur, suggesting nocturnal predation. Found in the Great Forest, Jungle, and Old Swamp, it uses its bladed wings and spiked tail in combat. Its tail, prehensile and flexible, can produce rattling sounds. Nargacuga can jump long distances and becomes enraged by loud noises, causing its eyes to glow and tail spikes to protrude. It rests in high, hard-to-reach trees, relying on its natural senses to detect hunters.",
+    "type": "Flying wyvern ",
+    "title": "Nargacuga",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Tigrex",
+    "value": "Tigrex is a large, quadrupedal wyvern characterized by its massive head and jaws, powerful limbs, and striking yellow/blue striped coloration. It uses its powerful lungs to produce extremely loud, concussive roars. Tigrex rarely flies but excels at gliding and running at high speeds. It relies on brute strength and intimidation, flushing its skin to a bright-red glow during intense combat. Tigrex does not use elemental attacks, focusing solely on physical prowess.",
+    "type": "Flying wyvern ",
+    "title": "Tigrex",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Ukanlos",
+    "value": "Ukanlos, though a Flying Wyvern, lacks wings. It has a silvery-white carapace with jagged fins and a small face featuring glowing yellow eyes. Its massive, shovel-like chin flings ice and digs through frozen surfaces. Ukanlos swims through ice using its fins and can produce a devastating ice beam. Despite its size, it leaps by slamming its tail. A solitary creature, Ukanlos is fiercely territorial in remote, frozen regions like the Snowy Mountains and the Polar Field.",
+    "type": "Flying wyvern ",
+    "title": "Ukanlos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Barioth",
+    "value": "Barioth is a quadrupedal Flying Wyvern, with a saber-toothed cat head, icy white plates, amber tusks, and spiked neck, spine, and tail. Aggressive and territorial, it attacks hunters on sight. It can slide on ice using its claws, tail-slam, homing glide from the sky, and spit an icy ball that creates a powerful tornado, inflicting Snowman Status. Inhabiting the Tundra and Snowy Mountains, Barioth preys on large herbivores, eating Popo or Anteka when fatigued.",
+    "type": "Flying wyvern ",
+    "title": "Barioth",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Sand Barioth",
+    "value": "Sand Barioth is a large flying wyvern with an orange-yellow color scheme, a blood red head, and deep indigo tusks with blood red tips. Unlike its frosty cousins, the Sand Barioth creates dust devils to hurtle at hunters. Known for its high aggression, it soaks itself in the blood of its kills to stay cool in the desert heat. The Sand Barioth inhabits the Sandy Plains and Trese Desert.",
+    "type": "Flying wyvern ",
+    "title": "Sand Barioth",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Giggi",
+    "value": "Giggi are relatively featureless flying wyverns, spawning from large organic globules called 'Giggi Sacs' in dark caves. They have grey bodies with purple markings, small stubby arms, and round mouths with small yet sharp teeth used to drain victims' bodily fluids. Giggi produce weak poison and leech onto prey to nourish themselves and grow bigger. Though not aggressive, they are gluttonous and chase down anything they deem prey, fleeing upon exposure to light. Giggi and their cocoons can be found in various environments, from the Volcano to the Flooded Forest.",
+    "type": "Flying wyvern ",
+    "title": "Giggi",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Gigginox",
+    "value": "Gigginox are blind, cave-dwelling wyverns that detect prey using body heat. Unlike Khezu, they have a flat, agile body with grey-white topskin and dark red underskin. Their elastic neck and tail can stretch twice their length. They can attach to ceilings and drag hunters down to consume them. Gigginox spit poison, release poisonous gas, and lay gelatinous globs called Giggi Sacs. When enraged, their topskin darkens. They have sharp teeth and can flip quickly. Their purple glowing eye-like markings can be broken.",
+    "type": "Flying wyvern ",
+    "title": "Gigginox",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Baleful Gigginox",
+    "value": "Baleful Gigginox has a golden color on its top and dark bruise-black on its underside. Its heat-sensing organs glow green, unlike the normal Gigginox's purple. It uses Thunder and Paralysis instead of Poison, producing explosive electrical blob sacs. When enraged, its golden skin turns bloody red. Highly aggressive and territorial, it kills smaller predators near its lair. It lives mainly in the freezing caves of the Tundra.",
+    "type": "Flying wyvern ",
+    "title": "Baleful Gigginox",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Green Nargacuga",
+    "value": "The Green Nargacuga has mossy green fur, a prehensile tail ending in a bright red spike, and bright yellow eyes. It moves with advanced agility and performs a tail slam followed by a jump smash, stunning hunters if successful. Highly aggressive and bloodthirsty, it resides in the Misty Peaks, the Deserted Island, and the Flooded Forest.",
+    "type": "Flying wyvern ",
+    "title": "Green Nargacuga",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Lucent Nargacuga",
+    "value": "The Lucent Nargacuga, also called the Moon Swift Wyvern, has metallic azure scales, patches of white fur, and a golden chest. It can turn invisible and extend venomous spikes from its tail. Lucent Nargacuga are highly territorial and strike with cunning. They live primarily in the Tower 3 and Forlorn Arena, with occasional sightings in the Great Forest. They perform double tail slams and all tail attacks emit venomous spikes when extended, making them deadly predators under fog or night cover.",
+    "type": "Flying wyvern ",
+    "title": "Lucent Nargacuga",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Astalos",
+    "value": "Astalos is a Flying Wyvern with dark green plating and a bright-colored underside. Its wings resemble those of a Glasswing butterfly, and its tail, which is almost half its length, ends in two pairs of earwig-like pincers. Astalos generates green electricity by rubbing its body parts, releasing it through its wings, tail, and horn. Hyper-aggressive, it attacks Hunters and other monsters on sight, using dive-bombing strikes, paralyzing tail strikes, and electrical blasts. It can also breathe electricity that splits into two pillars upon impact.",
+    "type": "Flying wyvern ",
+    "title": "Astalos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Boltreaver Astalos",
+    "value": "Boltreaver Astalos has a slight turquoise tint on its scales and shell. Its wing claws, tail pincers, and head crest are all much larger than those of a regular Astalos. It can supercharge itself beyond normal individuals and manipulate electromagnetism. It generates a blade-like beam of electricity from its head crest. Boltreaver Astalos are extremely aggressive, always attacking even unseen foes. Hunters require a special permit to hunt it.",
+    "type": "Flying wyvern ",
+    "title": "Boltreaver Astalos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Ruby Basarios",
+    "value": "Ruby Basarios is a variant of Basarios with pink crystals on its back and a moss-covered body. Its shell is highly resistant to damage. It launches crystals by shaking its body. Ruby Basarios buries itself in the earth, camouflaging as a rock. It attacks if disturbed but remains passive when approached while buried.",
+    "type": "Flying wyvern ",
+    "title": "Ruby Basarios",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Bloodbath Diabolos",
+    "value": "Bloodbath Diabolos, after losing one of its horns, developed a new warped horn, while its remaining horn grew extremely large. Blue blood covers its face, wings, and tail. It wields greater strength and aggression, charging foes at incredible speeds despite its size. Angered, it displays flame-shaped veins on its body and releases steam that causes explosions due to its elevated body temperature, enabling it to change direction swiftly during charges.",
+    "type": "Flying wyvern ",
+    "title": "Bloodbath Diabolos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Silverwind Nargacuga",
+    "value": "Silverwind Nargacuga resembles a normal Nargacuga but features white fur and scales in bright striped patterns. It possesses more spikes on its tail that protrude constantly and often grows larger than typical Nargacuga. Faster and stronger, it expertly throws tail spines. Notably, Silverwind Nargacuga generates powerful shockwaves with fast tail swings, cutting through opponents' defenses and causing deep gashes. Unlike regular Nargacuga, it attacks from a distance and displays heightened aggression.",
+    "type": "Flying wyvern ",
+    "title": "Silverwind Nargacuga",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Dreadking Rathalos",
+    "value": "The Dreadking Rathalos bears a strong resemblance to normal Rathalos, but is larger with thicker talons and tail spines. Its crimson scales and iridescent black plating set it apart. The wings are a darker brown with cream-colored markings. Dreadking Rathalos shoot fireballs that drain hunter health, and their venomous talons contain Noxious Poison. They can fire three fireballs at a time, like their female counterparts.",
+    "type": "Flying wyvern ",
+    "title": "Dreadking Rathalos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Dreadqueen Rathian",
+    "value": "Dreadqueen Rathian are larger than normal Rathian, with purple-tinted scales that secrete poison. They possess the same moveset as relatives but also use their poisonous tails to inflict various levels of poison. They combine flame bites and tail attacks for increased danger. When enraged, they fly high and plummet down, striking targets with their tails. Ultra-aggressive and territorial, hunting them requires a special permit.",
+    "type": "Flying wyvern ",
+    "title": "Dreadqueen Rathian",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Seregios",
+    "value": "Seregios is a medium-sized bipedal wyvern covered in lustrous gold scales. Its face features red markings around the eyes which continue along its body, its head being topped with a single, backwards-curving horn. Its feet are zygodactyl in nature, with two toes facing forward and two toes facing backward. Each of Seregios's scales can swivel individually as it will use them to perform a rattling display when agitated. Seregios can fire its quill-like scales at attackers as well as using its powerful feet and talons to slash and grasp prey and foes alike.",
+    "type": "Flying wyvern ",
+    "title": "Seregios",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Grimclaw Tigrex",
+    "value": "Grimclaw Tigrex have blue forelimbs and heads with pulsating veins that turn red when enraged. They throw large boulders and snowballs, and produce explosive roars unexpectedly. Unlike Brute Tigrex, they can sharply turn and throw projectiles after missing a charge. Their evolved forelimbs allow for more powerful attacks.",
+    "type": "Flying wyvern ",
+    "title": "Grimclaw Tigrex",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Molten Tigrex",
+    "value": "Molten Tigrex features striking blood red coloration interspersed with bright blue spines and claws. Slightly larger than other Tigrex, it creates explosive blasts while charging, spinning, and biting. Its attacks leave a target with explosive powder that detonates over time. It has two rage modes: the first increases speed and enables the Brute Tigrex's stampede attack, while the second state involves explosive roar, visible veins, and lunge spin attack. Highly aggressive, it fiercely defends its territory.",
+    "type": "Flying wyvern ",
+    "title": "Molten Tigrex",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Frostfang Barioth",
+    "value": "Frostfang Barioth is a formidable flying wyvern with tusks that are dark at the base and icy white at the front. Its fur is thick and aged-looking, especially on its forelimbs and face. The monster's body is covered in frost, reflecting its ability to breathe sub-zero air. This breath leaves frost trails that slow hunters. It also expels explosive ice projectiles and retains its physical strength, dealing heavy damage with its icy breath and powerful movements.",
+    "type": "Flying wyvern ",
+    "title": "Frostfang Barioth",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Bazelgeuse",
+    "value": "Bazelgeuse is a large Flying Wyvern with thick, heavy scales that shine bronze. Its bulky upper body and large wingspan make it a formidable foe. Bazelgeuse uses its scales to attack, dropping them like landmines that explode upon contact. In its superheated state, scales detonate seconds after falling. It releases fire blasts, pierces with loud roars, and tackles foes with its sturdy build. Dominating its territory, Bazelgeuse fights any intruders, seeking battles and engaging in turf wars with Deviljho, which often result in dangerous ties.",
+    "type": "Flying wyvern ",
+    "title": "Bazelgeuse",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Seething Bazelgeuse",
+    "value": "Seething Bazelgeuse, a variant of Bazelgeuse, features a metallic blue body in its normal state, akin to its heated state. It powers up further with a white-hot head and tail, then sears to purple-white. Explosive scales in its first powered state (Seething State) are flung over wide ranges, while its second state (Crimson Lotus State) causes scales to glow purple-hot, sticking to surfaces before huge explosions. It ends with a massive aerial scale-scattering maneuver followed by a ground crash, depleting its scales and reverting to its normal state.",
+    "type": "Flying wyvern ",
+    "title": "Seething Bazelgeuse",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Apex Diablos",
+    "value": "Apex Diablos exhibits a bloodier color scheme than its kin, with larger horns and vivid red eyes. Scars glow brighter when enraged. It is brutal and attacks relentlessly, utilizing powerful corkscrew burrows and multi-charges. When fully enraged, it performs devastating charges. It surpasses Bloodbath Diablos in ferocity, constantly in a state of extreme rage until a second phase of increased fury. Apex Diablos's combat prowess and aggressive nature make it a formidable flying wyvern adversary.",
+    "type": "Flying wyvern ",
+    "title": "Apex Diablos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Legiana",
+    "value": "Legiana is a slim, beige and navy-blue Flying Wyvern with leaf-like wingtips and striped skin patterns. It has antenna-like fins attached to its neck via a thin membrane, enabling extreme speeds and chilling winds. Its bright yellow eyes and powerful legs with piercing talons make it a formidable hunter. Legiana is intensely territorial, attacking intruders in the upper reaches of the Coral Highlands. It can emit chilling winds, fly with precision, and grab prey out of the air with its strong talons.",
+    "type": "Flying wyvern ",
+    "title": "Legiana",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Shrieking Legiana",
+    "value": "Shrieking Legiana, structurally similar to regular Legiana, possess black coloration and ice-encrusted spikes on their chest, tail, and wings. They excel in manipulating ice, creating large ice spikes during attacks. They can execute powerful dive attacks. Their adaptation to the Hoarfrost Reach enhances their abilities, making them formidable in cold climates.",
+    "type": "Flying wyvern ",
+    "title": "Shrieking Legiana",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Paolumu",
+    "value": "Paolumu is a bat-like wyvern covered in white fur with a pink face and brown scales on its back, underbelly, and tail. It has rodent-like buck teeth and an air sac in its neck that inflates to allow it to float and attack from above. Paolumu uses its tail to batter foes and breathes wind to draw in hunters. It is calm unless provoked and can be deflated by mounting or attacking its neck. Paolumu is outclassed by Deviljho, Legiana, and Odogaron in the Coral Highlands.",
+    "type": "Flying wyvern ",
+    "title": "Paolumu",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Nightshade Paolumu",
+    "value": "Nightshade Paolumu is a large Flying Wyvern resembling a bat. Its body is covered in soft, dark fur, contrasting with its pale white face and brightly colored neck patches. It inflates with a single inhalation and flies at high speeds in unpredictable patterns. It expels a pale blue-green gas that acts as a powerful narcotic, putting hunters to sleep. It can manipulate this gas using wind currents from its tail, making it a formidable opponent in aerial combat.",
+    "type": "Flying wyvern ",
+    "title": "Nightshade Paolumu",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Apex Rathalos",
+    "value": "The Apex Rathalos, akin to Dreadking Rathalos in size but bearing normal-ish skin tone and numerous red scars, stands out for its orange-glowing neck when firing. Hyperviolent and extremely aggressive, it swoops with enlarged, delayed-explosion fireballs, unlike typical Rathalos. Claw attacks launch hunters airborne for targeted fireballs, and in fury, it bombards areas from the sky. Its ability to send out slower but massive, explosive fireballs makes it particularly dangerous. It signals attacks and roars by the orange light emanating from its neck.",
+    "type": "Flying wyvern ",
+    "title": "Apex Rathalos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Apex Rathian",
+    "value": "Apex Rathian, a variant of Rathian, features red scars and glowing red eyes. Her sharp teeth, spiked wings, and large tail spines distinguish her. Brutal and aggressive, she attacks on sight. Her abilities include impaling poisonous spikes, diagonal tail strikes, and an ear-piercing roar. When enraged, she performs a triple tail swipe, spreading multiple spikes. Apex Rathian's behavior mirrors her male counterpart, with enhanced ferocity and a powerful venomous cloud from her spikes.",
+    "type": "Flying wyvern ",
+    "title": "Apex Rathian",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Rey Dau",
+    "value": "Rey Dau is a large bipedal wyvern with golden bony scales and smaller black scales on its underbelly, joints, and wings. Its wings are a single membrane with bladed protrusions. It has a short, serpentine head with two rows of teeth and mandible-like protrusions. Its horns can channel electricity like a rail gun. During thunderstorms, it harnesses lightning to create powerful blasts. Its wing blades and back spikes glow bright blue when charged. It can also crystallize sand into sharp glass blades, enhancing its attacks.",
+    "type": "Flying wyvern ",
+    "title": "Rey Dau",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Gendrome",
+    "value": "Gendrome, a Bird wyvern, exhibits a prominent crest and a slightly larger size compared to Genprey. This crest signifies leadership within the pack. Gendrome possess paralyzing fangs and are notably faster and stronger than Velocidrome, posing a significant challenge to novice hunters. Their responsibilities include choosing prey, leading hunts, and patrolling their territory alongside Genprey.",
+    "type": "Bird wyvern ",
+    "title": "Gendrome",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Genprey",
+    "value": "Genprey are Bird Wyverns with vibrant yellow and green hides and distinctive yellow crests over their eyes. They leap great distances and use their fangs to paralyze foes. Genprey follow a hierarchical structure led by a Gendrome, acting aggressively towards intruders and rallying to attack larger threats in unison.",
+    "type": "Bird wyvern ",
+    "title": "Genprey",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Giaprey",
+    "value": "Giaprey are agile Bird wyverns with crystal blue scales and sky blue stripes. They hunt in packs and are stronger than Velociprey. In battle, Giaprey spit ice to freeze enemies. They often join White Velociprey packs, enhancing their overall combat prowess. Despite their ice-spitting ability, Giaprey are not significantly more dangerous than Velociprey.",
+    "type": "Bird wyvern ",
+    "title": "Giaprey",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Gypceros",
+    "value": "Gypceros is among the largest and heaviest known Bird Wyverns. It has a lamp-like crest on top of its head and a rubbery, shock-resistant hide. Its long pink tail has a bulbous tip, and it is a uniform blue-grey across most of its body. It possesses a poison sac to produce toxic fluids. Gypceros can disorient foes with its crest, use its elastic tail as a whip, and spit large globules of poison. Despite being naturally timid, it is intelligent and feigns death to surprise attackers.",
+    "type": "Bird wyvern ",
+    "title": "Gypceros",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Purple Gypceros",
+    "value": "Purple Gypceros possess a vivid purple and green plumage, unlike their blue and pink counterparts. These bird wyverns show increased resilience and can produce potent poison. In battle, they frequently use flashing attacks and seamlessly chain other strikes. They inhabit swamps, marshlands, and occasionally jungles, where they hunt for insects and mushrooms. Their love for warm and humid environments makes them well-adapted to such locations, and their adaptability allows them to thrive where other species struggle.",
+    "type": "Bird wyvern ",
+    "title": "Purple Gypceros",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Iodrome",
+    "value": "Iodrome is significantly larger than normal Ioprey and possesses a larger crest. Unlike other pack leaders, Iodrome has a more amphibian look, with salamander-like skin that glistens with moisture, and a frog-like throat sac. It lacks sharp claws, relying on poison to bring down prey like Aptonoth and enemies. Iodrome can quickly cripple hunters with its pack and poison, thanks to its speed, agility, and considerable strength. When threatened, it spits poison from the poison sac in its throat. Iodrome leads a pack of Ioprey and always travels with them for protection.",
+    "type": "Bird wyvern ",
+    "title": "Iodrome",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Ioprey",
+    "value": "Ioprey have lithe, raptor-esque bodies with vivid red skin, black markings, and purplish lavender coloration by the limbs. They possess large, rounded head crests and lower jaws that curl outwards. Ioprey are notable for their bulbous frog-like throat sacs, which house potent poison sacs. They spit toxins at foes, and their pack hunting behavior makes them dangerous. The duration and toxicity of their poison vary by rank, with G-Rank Ioprey being particularly hazardous.",
+    "type": "Bird wyvern ",
+    "title": "Ioprey",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Velocidrome",
+    "value": "Velocidrome, a large Bird Wyvern, stands out with its bright red crest over blue hide, signifying leadership among Velociprey. Despite its weak physical strength, it leads packs with strategic intelligence. Velocidrome often employs a dual-leader system to enhance hunting efficiency, allowing the pack to split into two groups. This unique approach ensures successful hunts and solidifies its position as a respected leader.",
+    "type": "Bird wyvern ",
+    "title": "Velocidrome",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Velociprey",
+    "value": "Velociprey are bird wyverns with blue scales featuring black stripes and a dull red crest on their heads. Their yellow eyes and white belly give them a distinct appearance. Traveling in packs, they inhabit various environments and are known for their swift movements and quick attacks. Experienced hunters find them manageable, but new hunters struggle due to their great leaping distance and relentless assaults. Velociprey's ability to deliver eggs and large ores makes fleeing challenging.",
+    "type": "Bird wyvern ",
+    "title": "Velociprey",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Scarred Yian Garuga",
+    "value": "Scarred Yian Garuga is nearly identical to Yian Garuga but has a missing ear and a scar across its face. It is only found in a tempered state. Known for its extreme aggression, it exhibits no change in behavior from its unscarred counterpart. Its missing ear and facial scar are thought to be battle wounds, indicating a history of intense combat. Hunters must be prepared for relentless attacks when encountering this tempered bird wyvern.",
+    "type": "Bird wyvern ",
+    "title": "Scarred Yian Garuga",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Yian Kut-Ku",
+    "value": "Yian Kut-Ku possess large, fan-like ear frills that unfurl when excited, and an enlarged lower bill. They have a large, yellow beak with a pink stripe running down the upper beak. Their bodies are covered in orange-pink plating and beige scales. With deep blue wing membranes and bright yellow eyes, these small wyverns are quick and agile. Known for their powerful hearing, they can move swiftly and shoot flaming projectiles from their flame sacs. They are temperamental, skittish, and inquisitive, often spreading their wings and squawking loudly to appear bigger.",
+    "type": "Bird wyvern ",
+    "title": "Yian Kut-Ku",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Blue Yian Kut-Ku",
+    "value": "Blue Yian Kut-Ku are smaller and stronger than pink Yian Kut-Ku, with an indigo carapace and blue streaks on their beaks and ears. They shoot flaming projectiles and move quickly. They are cautious, easily startled by loud noises. Despite their aggression, they remain wary and prefer to avoid confrontation unless provoked.",
+    "type": "Bird wyvern ",
+    "title": "Blue Yian Kut-Ku",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Giadrome ",
+    "value": "Giadrome is physically similar to Velocidrome, with pale blue coloration and a frost sac. It possesses more powerful attack power and higher defense than ordinary Giaprey. Giadrome can spit a frozen substance to immobilize prey and foes. Territorial and traveling in packs, it coordinates attacks using barks and calls. Giadrome's frost sac allows it to thrive in cold climates, making it a formidable hunter in icy regions.",
+    "type": "Bird wyvern ",
+    "title": "Giadrome",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Hypnocatrice",
+    "value": "Hypnocatrice is a medium-sized Bird Wyvern covered in bright, colorful feathers. It has extremely powerful legs with large feet, and a hard, sharp beak. Despite its feathered appearance, Hypnocatrice flies using pterosaur or bat-like membraned wings, leaving its feather arrangements strictly for display purposes. It possesses a sleep sac, which allows it to produce a colorless mist that can cause attackers to fall unconscious.",
+    "type": "Bird wyvern ",
+    "title": "Hypnocatrice",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Yian Garuga",
+    "value": "Yian Garuga boasts striking purple coloration, large defensive spikes, and an extremely tough shell. Its beak is sharp and jagged, and it has a silver mane around the edge of its face. Its body resembles that of a Yian Kut-Ku. Yian Garuga wields a poisonous tail club and emits ear-splitting roars to immobilize foes. Highly aggressive, it avoids pitfall traps and remains unaffected by sonic bombs. Its behavior is similar to a Rathian, with a shared set of attacks.",
+    "type": "Bird wyvern ",
+    "title": "Yian Garuga",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Baggi",
+    "value": "Baggi resemble small theropod dinosaurs called dromaeosaurs. Their hide is primarily blue, with a grayish underbelly and a streak of yellow between. Patches of black fur can be found on the back of the head, above the shoulders, and especially the tail. Baggi can put other creatures to sleep using a tranquilizing fluid, lasting only a few seconds. Unlike their Jaggi cousins, they attack without delay, rushing at hunters without warning.",
+    "type": "Bird wyvern ",
+    "title": "Baggi",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Gargwa",
+    "value": "Gargwa are flightless birds resembling the extinct Dodo, with small vestigial wings. Docile herbivores, they attack and flee when threatened, often leaving eggs or guano. Coexisting with Yukumo villagers as livestock, they occasionally attack hunters. Known for their distinctive calls and bulky bodies, Gargwa play a unique role in local ecosystems.",
+    "type": "Bird wyvern ",
+    "title": "Gargwa",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Great baggi",
+    "value": "Great Baggi is a mature male Baggi who leads its pack. It appears slightly larger than the Great Jaggi and possesses a distinctive head crest. Notably, it can spit a tranquilizing liquid to induce sleep in prey and hunters. Additionally, it can command its Baggi to encircle and assault targets with a coordinated tranquilizer attack. In encounters with other boss monsters, Great Baggi often prioritizes fighting them, temporarily ceasing to engage with hunters.",
+    "type": "Bird wyvern ",
+    "title": "Great baggi",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Great jaggi",
+    "value": "The Great Jaggi stands out with its lavender scales, crimson and tangerine frills, and furs along its neck and back. Its muzzle is thin and wrinkly, while its tail barbs are blunt. It often attacks other monsters, showing competitiveness and intelligence. It can call its Jaggi pack with a loud roar and exhibits boss-like traits, such as becoming enraged and limping when weak. The Great Jaggi can also be summoned by Qurupeco in the Deserted Island, Sandy Plains, and Misty Peaks.",
+    "type": "Bird wyvern ",
+    "title": "Great jaggi",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Great wroggi",
+    "value": "The Great Wroggi has slick salamander-like skin similar to the Iodrome. It is usually accompanied by a group of smaller Wroggi. Its most prominent feature is a delicate, translucent sac-like organ around the neck. This sac contains poison, visible before it spews out as a toxic mist. Great Wroggi use this ability to defend themselves and attack hunters. They are known for their cunning and pack tactics, making them formidable opponents in the wild.",
+    "type": "Bird wyvern ",
+    "title": "Great wroggi",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Jaggi",
+    "value": "Jaggi are pink bird wyverns with purple foreclaws, back-stripe, and head-frills, and cream-colored underbellies. Their tails are barbed, and they have sizable frills behind their jaws. Jaggi cooperate more than other raptors but are easily dealt with due to their boisterous nature. They spend time vocalizing bark-like warnings and attacking intruders. Novice hunters often encounter them as their first challenge.",
+    "type": "Bird wyvern ",
+    "title": "Jaggi",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Jaggia",
+    "value": "Jaggia, the females of the Jaggi species, display a blue-purple hue with orange limbs and cream-colored underbellies. Unlike males, they have soft, feather-like tails and subdued frills. They exhibit higher cooperation and greater resilience, making them a challenge for hunters. They spend time 'barking' at threats and occasionally sleep. Jaggia are larger and bulkier, with a more substantial area of attack, making them formidable in packs.",
+    "type": "Bird wyvern ",
+    "title": "Jaggia",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Qurupeco",
+    "value": "Qurupeco has three digits on each foot with partial webbing. It masters vocal mimicry to summon, heal, and boost other monsters. Its crest and throat sac are delicate, making it susceptible to loud noises. Its beak and wingtips can break for rewards like Strange Beak and Flintstone. Capable of flight, it avoids traps and uses Sonic Bombs for disorientation, causing it to drop items when interrupted.",
+    "type": "Bird wyvern ",
+    "title": "Qurupeco",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Crimson Qurupeco",
+    "value": "The Crimson Qurupeco, unlike its normal kin, sports vibrant red and blue feathers. It uses electric flints in its wing talons to create a shock capable of inflicting Thunderblight. It can blind hunters with a bright flash similar to Gypceros. Its roar is loud enough to require Earplugs. This subspecies's vocal sac only appears during vocalizations. Its song can either heal or boost nearby monsters but can be turned against them if interrupted. One unique song sends summoned monsters into instant Rage mode.",
+    "type": "Bird wyvern ",
+    "title": "Crimson Qurupeco",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Wroggi",
+    "value": "Wroggi are small, orange Bird Wyverns with slick, water-resistant hides. They possess poison sacs on either side of their heads, which they use to weaken enemies. Their movements and body structure are similar to Jaggia. Though poisonous, they are not as strong or resistant to poison as their leader. Wroggi often travel in packs and coordinate their attacks using high-pitched calls.",
+    "type": "Bird wyvern ",
+    "title": "Wroggi",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Great Maccao",
+    "value": "Great Maccao's feathered crest sets them apart from its Maccao pack. Although superficially similar to its younger brethren, a Great Maccao is bigger and bulkier, with more brightly-colored plumage. It also has powerful legs it uses to kick threats and to move with great speed, and its spiked tail allows it to propel itself forward and jump with tremendous force. Great Maccao has little control over its pack and prefers to run rather than fight, but it works with its pack to hunt large prey.",
+    "type": "Bird wyvern ",
+    "title": "Great Maccao",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Malfestio",
+    "value": "Malfestio, resembling an owl, has blue plumage, a grayish belly, yellow collar, and white face with red eyes. Its head features long, yellow-tipped tufts, and its legs end in scaly feet with two talons and a small toe. Its wings have bright blue membranes and blade-like claws. Malfestio produces yellow scales to disorient prey and an ultrasound beam to induce sleep. Nocturnal, it attacks with talons and wing claws, especially when enraged. It sleeps in trees to avoid predators.",
+    "type": "Bird wyvern ",
+    "title": "Malfestio",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Deadeye Yian Garuga",
+    "value": "Deadeye Yian Garuga has one glowing red eye that leaves a red contrail. One ear is clipped, and its wing membranes and tail tip are covered in green moss. Unlike other Deviants, Deadeye is smaller than a normal Yian Garuga. Its unique appearance and abilities make it a notable variant.",
+    "type": "Bird wyvern ",
+    "title": "Deadeye Yian Garuga",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Aknosom",
+    "value": "Aknosom, a crane-like Bird Wyvern, boasts a red and gold parasol-like collar around its head, matching its wing and head-crest colors. With a long beak, yellow eyes, white scales, and feathered patches, it intimidates foes using its crest and collar. Standing on one leg, it uses its beak to stab the ground and its wings for swipes. It spits fireballs that leave burning patches and rushes at high speeds. Known for territorial behavior, Aknosom defends its territory fiercely with its versatile collar and aerial attacks.",
+    "type": "Bird wyvern ",
+    "title": "Aknosom",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Boggi",
+    "value": "Boggi, resembling small theropod dinosaurs, have yellow scaly hides with brown markings. Their hyena-like heads feature large ears, oversized canines, and dark hair on their shoulders and tails. Sporting gold eyes, they hunt in packs using sharp claws and swift movements. As low-ranking prey, they evade predators like Garangolm and Gore Magala. Despite their cunning and patience, Boggis will flee when danger arises.",
+    "type": "Bird wyvern ",
+    "title": "Boggi",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Great Izuchi",
+    "value": "The Great Izuchi, covered in short orange fur and cream-colored scales, sports cobra-like fangs and sharp, bony scythe tails. Intelligent and cooperative, it commands its two sharpest pack members for coordinated attacks. Agile, it flips and swings with ease. Capable of regurgitating rocks at foes from great distances, it always travels in a group of three or more. This Bird Wyvern's tail can slice through bamboo stalks with a single strike, making it a formidable hunter and protector.",
+    "type": "Bird wyvern ",
+    "title": "Great Izuchi",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Kulu-Ya-Ku",
+    "value": "Kulu-Ya-Ku resembles raptorial Bird Wyverns like Velocidrome, with light brown scales and head and arm feathers. Its dodo-like face and spiked tongue help prevent yolk spills during egg-eating. Using small boulders for defense or tossing them at foes, they often steal Rathian eggs. Hunters can remove rocks with Slinger Ammos or break them with multiple strikes. In Master Rank, they use ore chunks for stronger impact or flint rocks that explode on contact. Their head and arms can be wounded.",
+    "type": "Bird wyvern ",
+    "title": "Kulu-Ya-Ku",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Pukei-Pukei",
+    "value": "Pukei-Pukei, with its green feather-like scales, vibrant neck and wing feathers, and limited color-shifting capability, stores properties of its food in its mouth and tail to create poison with various effects. It bullies weaker monsters and cowers before stronger ones. When enraged, its head and wing feathers turn red. Fatigue causes feather color to fade and eyes to narrow. Hunters can manipulate its poison by controlling its diet.",
+    "type": "Bird wyvern ",
+    "title": "Pukei-Pukei",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Coral Pukei-Pukei",
+    "value": "Coral Pukei-Pukei retains most of its characteristics from Pukei-Pukei. However, Coral Pukei-Pukei sports bright orange coloring on its face, feet, and front wing claws. These turn red when it becomes enraged. The rest of its body has a pinkish-red tint to it while its underbelly and tail tip are violet. Coral Pukei-Pukei uses water as its main element of attack, storing high concentrations in its tail by drinking sponge-like plants in the Coral Highlands. It shoots jets of high pressurized water beams and throws water balls from its mouth, showing more aggression than Pukei-Pukei.",
+    "type": "Bird wyvern ",
+    "title": "Coral Pukei-Pukei",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Tzitzi-Ya-Ku",
+    "value": "Tzitzi-Ya-Ku is a medium-sized, navy-blue Deinonychus-like Bird Wyvern with powerful hind legs and retractable, vivid frills. It disorients foes using head flash attacks, often kicking before retreating. Living in Coral Highlands undergrowth, it uses darkness to hunt, preys on Shamos, and flashes monsters randomly to flee. Although low on the food chain, it exploits weaknesses and stuns rivals with flashes, including interrupting hunter-monster battles. Tzitzi-Ya-Ku often targets vulnerable eyes, showcasing both cunning and agility in survival strategies.",
+    "type": "Bird wyvern ",
+    "title": "Tzitzi-Ya-Ku",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Barroth",
+    "value": "Barroth is a large, bipedal monster with a crown structure atop its skull housing its nostrils. It has rigid plates covering its body for desert protection. Barroth uses its heavy head to plow through the environment and damage living things. It can submerge itself in cool mud during scorching desert days. Barroth rolls in dirt and mud to cool off and becomes extremely territorial when disturbed, releasing a warning roar and continuous attacks if provoked.",
+    "type": "Brute wyvern ",
+    "title": "Barroth",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Jade Barroth",
+    "value": "Jade Barroth, known as Ice Crushing Wyverns, cover themselves in snow for protection. Their crown is larger than their desert cousin's. They perform U-turn charges through snow, head slams, and shake off snow to inflict Snowman on hunters. Temperamental, they prefer a wide berth and remain docile unless provoked. Angered, they relentlessly charge, bite, tail whip, and stomp until their targets are dead.",
+    "type": "Brute wyvern ",
+    "title": "Jade Barroth",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Brachydios",
+    "value": "Brachydios features a glowing, green slime-covered horn and 'fists,' along with shiny, armored hide covered in obsidian plates. It wields long, developed forelimbs for defense. Its horn and fists emit explosive slime. Brachydios leaps with powerful hind legs and withstands its own blasts. When enraged, its fists, horn, and ridges glow yellow and orange, triggering instant explosions upon impact. Extremely territorial, it aggressively drives other monsters out.",
+    "type": "Brute wyvern ",
+    "title": "Brachydios",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Deviljho",
+    "value": "Deviljho is a massive, bipedal Brute Wyvern, characterized by forest green color and muscular upper body. Its hide features short jagged spines, especially prominent on its back and tail. Deviljho has a narrow snout and powerful jaws, capable of delivering bone-crunching bites and throwing large objects. It can run swiftly with its massive hind legs and use its head as a battering weapon. Deviljho, when enraged, produces a dragon-element emission, which can be deadly. Nomadic and perpetually hungry, it seeks sustenance, exhibiting cannibalism and eating prey alive.",
+    "type": "Brute wyvern ",
+    "title": "Deviljho",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Savage Deviljho",
+    "value": "The Savage Deviljho remains in a rage state, driven by constant starvation. Its body emits a dark red Dragon Element haze, its eyes turn blood-red, and its scales are darker. Capable of complex Dragon Element breath attacks, it is faster and stronger than standard Deviljhos. Its hunger leads it to attack anything and depopulate entire ecosystems indiscriminately, making it one of the most brutal and aggressive creatures in its domain.",
+    "type": "Brute wyvern ",
+    "title": "Savage Deviljho",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Duramboros",
+    "value": "Duramboros is a bulky, heavyset, bovine monster with stocky, muscular legs and a thick upper body. It features a very thick outer hide that is riddled with heavy folds, with a row of armored plates running along its back and tail. Duramboros' most distinctive features include its massive tail club, twin brow horns, and a pair of energy-rich dorsal humps. Duramboros' slow lifestyle often results in a layer of moss and algae growing upon its hide, most noticeably along the back.",
+    "type": "Brute wyvern ",
+    "title": "Duramboros",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Rust Duramboros",
+    "value": "Rust Duramboros lives in the Sandy Plains, where its hide has turned copper-pink from sand and grit. Unlike common Duramboros, it has a wide, axe-like tail club. Retaining its juvenile appearance due to the lack of moss and algae, it stores fat reserves in its large back humps and thick tail. This herbivore can survive months without food or water, adapting to the harsh desert environment.",
+    "type": "Brute wyvern ",
+    "title": "Rust Duramboros",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Uragaan",
+    "value": "Uragaan has a gold-colored hide covered in hard crystals on its back and a rock-like chin. It can roll its body for speed, and its sticky underbelly helps attach explosive rocks. It attacks by jaw slams and tail sweeps. It produces sleep gas or flames depending on its color, which causes sleep or fireblight. Found primarily in the Volcano region and occasionally in the temperate Deserted Island or the Elder's Recess.",
+    "type": "Brute wyvern ",
+    "title": "Uragaan",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Steel Uragaan",
+    "value": "Steel Uragaan possesses a deep metallic blue hide, likely due to its diet of unique ores. It can inflict Soiled status using sulfuric yellow gas and throws burning rocks that release soiling gas upon explosion. It primarily inhabits the Volcano but occasionally ventures to the Deserted Island.",
+    "type": "Brute wyvern ",
+    "title": "Steel Uragaan",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Raging Brachydios",
+    "value": "Raging Brachydios, larger than regular Brachydios, moves slower due to its size. It sports a green shell covered in yellow-orange slime mold on its forelimbs, head, back, and tail that turns red when enraged. The slime mold is highly volatile and explodes faster than normal Brachydios slime. When enraged, Raging Brachydios loses slime, replacing it with molten lava-like substance that it spreads and detonates. This state makes its damaged shell vulnerable to attacks.",
+    "type": "Brute wyvern ",
+    "title": "Raging Brachydios",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Glavenus",
+    "value": "Glavenus is a large Brute Wyvern with dark red scales and two rows of blue, bony plates along his back. His underside is cream-colored, and he has a sword-like tail that turns rusty or fiery red during battle. Glavenus is relentless and aggressive, using his powerful hind legs and sharp tail to attack. He can sharpen his tail by scraping off soot and ores with his mouth, increasing its attack power and creating explosions. Glavenus is considered one of the strongest and most intelligent Brute Wyverns.",
+    "type": "Brute wyvern ",
+    "title": "Glavenus",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Hellblade Glavenus",
+    "value": "Hellblade Glavenus are all male, and they resemble an enraged Glavenus. They have deep red skin, large blood-red horns and dorsal spines, and their throat-situated flame sacs and bladelike tails glow with heat or have a magma-like texture. Hellblade Glavenus produce highly explosive powder that they use to enhance their spit, coat their tails, and emit with certain attacks. They inhabit jungles, deserts, and volcanic areas.",
+    "type": "Brute wyvern ",
+    "title": "Hellblade Glavenus",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Crystalbeard Uragaan",
+    "value": "Crystalbeard Uragaan has an orange-red body, blending well in volcanic habitats. It features shiny, blue-ish purple minerals protruding from its tail and chin. This gem-clad Deviant throws crystal-like rocks from its tail, releasing sleep gas. It flings rocks at enemies with its chin. Crystalbeard Uragaan only live in volcanic environments and require a special permit to hunt.",
+    "type": "Brute wyvern ",
+    "title": "Crystalbeard Uragaan",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Anjanath",
+    "value": "Anjanath has black and grey fur on its back, pink hide, and flesh-toned scales. It has large fangs, a bulky tail with quills, and small forearms. Anjanath uses its powerful jaws to lift and throw prey, and its flame sac to breathe fire. It marks territory with mucus from its nasal crest. Relentless predators, Anjanath chase down attackers and reveal dorsal sails when threatened. Vulnerable areas include its head, legs, and tail, which can be severed.",
+    "type": "Brute wyvern ",
+    "title": "Anjanath",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Fulgur Anjanath",
+    "value": "Fulgur Anjanath is a charged-up variant of Anjanath, with a bright blue light illuminating its nasal crest and mouth. It uses powerful jaws and legs to strike foes, and generates electric energy with a special organ. When charged, its mucus becomes electrified, allowing it to hurl it at opponents. Fulgur Anjanath can hold its own against top-tier predators like Barioth or Tigrex, and overpower monsters like Viper Tobi-Kadachi.",
+    "type": "Brute wyvern ",
+    "title": "Fulgur Anjanath",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Banbaro",
+    "value": "Banbaro is a large and heavy-set Brute Wyvern. Most of its body is covered in stout white fur, with portions on its head, legs, and arms being covered in gray scales. Its giant horns are its defining characteristic. These stout, pinkish horns end in broad, moose-like antlers. When enraged, a small horn-like projection on its snout folds out. Banbaro is normally a fairly docile herbivore, but it is territorial and can be aggressive when provoked. In battle, Banbaro charges opponents while digging up soil or fallen trees, using them as projectiles or to create hindering debris piles.",
+    "type": "Brute wyvern ",
+    "title": "Banbaro",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Acidic Glavenus",
+    "value": "Acidic Glavenus is a male-only species with an emerald and blue body, dark grey spikes, and horns. Its tail, covered in yellow crystals, reveals a dull blue blade underneath. With dark red eyes, it uses precise tail slashes and jabs. The acidic crystals on its tail cause Defense Down on contact. When the crystals are scraped off, its tail becomes lighter, allowing for more agile movements. Acidic Glavenus switches between heavy, powerful strikes and swift, precise attacks based on its tail's condition.",
+    "type": "Brute wyvern ",
+    "title": "Acidic Glavenus",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Radobaan",
+    "value": "Radobaan resembles Uragaan with a stocky frame, enormous chin, and brow horns. It wears bones secured with sticky tar secreted through its skin, typically with spiny vertebrae around its chin and Diablos horns on its haunches. It rolls at high speeds, dispenses a sleep-inducing agent, and uses its chin for tremors. It throws heavy bones from its hide as projectiles. Despite being smaller than Uragaan, it moves more swiftly but easily loses balance while rolling. When toppled, its body can be mined for resources. It regains armor by digging through bones.",
+    "type": "Brute wyvern ",
+    "title": "Radobaan",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Quematrice",
+    "value": "Quematrice, a Brute Wyvern, boasts green scales with red and blue stripes, short arms, and large hind legs. Its head features reddish orange crests, a large comb, and a throat wattle. Quematrice's tail emits flammable oil that ignites with friction, allowing it to create waves of fire. It fights aggressively and competes for carrion. Known for its volatile tail oil, Quematrice can both scorch enemies and set environments ablaze. This unique trait makes it a formidable opponent.",
+    "type": "Brute wyvern ",
+    "title": "Quematrice",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Rompopolo",
+    "value": "Rompopolo is a bizarre brute wyvern with a sharp beak and long tongue that forks at the end. It has mantis-like claws and gecko toe pads. Its dark blue and purple skin contains expandable sacs of poisonous gas. It attacks with sweeping breaths of poison mist and lashing its tongue. The tail stinger can cause explosive ground damage. Rompopolo uses its spiracles to vent gas and has beady reddish violet eyes. Its primary goal is territorial defense, making it a dangerous foe to those who enter its domain.",
+    "type": "Brute wyvern ",
+    "title": "Rompopolo",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Starving Deviljho",
+    "value": "Starving Deviljho differs from its counterparts with its bright gold color, red glowing parts, and blade-like spikes along its back, tail, and jaw. Its Dragon elemental energy causes its spikes to turn blood-red. Enraged, it shoots Dragon energy balls, and its stomp attack triggers a Dragon burst. It throws three boulders normally, but a single giant boulder when enraged. Found in the Arena and Historical Site, Starving Deviljho feeds voraciously, behaving similarly to Savage Deviljho.",
+    "type": "Brute wyvern ",
+    "title": "Starving Deviljho",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Disaster Wyvern",
+    "value": "Disaster Wyvern, a unique Brute Wyvern, boasts a Brachydios-like body with blade-like arms and claws. Its sharp face features a front horn and a long red horn at the back of its head. Its tail has red-tipped lime green fin-like spikes and fins. Its legs have three red claws and red spikes behind them. Most of its scales are lime green, and its underbelly is grey with downward spikes. Disaster Wyvern can charge with incredible speed, make sharp turns, and punch hunters with enhanced steam power. In Rage Mode, it releases excess steam to increase its speed and inflict waterblight with its tail.",
+    "type": "Brute wyvern ",
+    "title": "Disaster Wyvern",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Blango",
+    "value": "The Blango is a white-furred, ape-like creature with a bright red face. It has dull purple skin beneath its fur and combines mandrill and Japanese macaque features. Blangos burrow through snow and stalk on rocks. They hunt in packs and show increased ferocity under the lead of a Blangonga, who triggers them to throw ice chunks causing the Snowman status when enraged. Weak alone, they gain formidable strength in packs. Their habitat often includes snow and icy terrain.",
+    "type": "Fanged beast",
+    "title": "Blango",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Blangonga",
+    "value": "The Blangonga is twice as large as the average Blango with a much more aggressive temperament. Its strong, muscled limbs allow it to run and leap at a startling speed, and its powerful roar can catch hunters unaware without adequate hearing protection. Blangongas can summon Blangos to fight beside them, perform damaging dives, break ice to hurl at hunters, and create ice shrapnel. They are incredibly aggressive but shy away from anything larger than themselves. They live in cold habitats, where their thick coat keeps them warm and serves as camouflage.",
+    "type": "Fanged beast",
+    "title": "Blangonga",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Copper Blangonga",
+    "value": "Copper Blangonga stands out with its brown fur instead of the typical white coat. Its face features a larger set of canines. Unlike regular Blangonga, it throws giant rocks and uses a sand breath attack to instantly knock out hunters and Felyne Comrades. Growing larger and stronger due to the loss of its troop, Copper Blangonga poses a significant threat.",
+    "type": "Fanged beast",
+    "title": "Copper Blangonga",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Bulldrome",
+    "value": "Bulldromes have larger tusks than Bullfango, and a layer of white fur, as opposed to Bullfango's black fur. Bulldromes are more agile when running and proficient at finding and locking onto their victims. They have excellent tracking skills, and can be very aggressive towards their accompanying pack of Bullfango when hungry.",
+    "type": "Fanged beast",
+    "title": "Bulldrome",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Congalala",
+    "value": "Congalalas resemble giant, tailed gorillas with pink fur and hippo-like heads. They have long front claws and a spike of hair on their head, which signifies the pack leader. Despite their cute appearance, Congalalas are intelligent and surprisingly aggressive when threatened. They remain docile around herbivores but react violently to hunters. When injured, they enter rage mode, turning red and releasing fart gas, significantly increasing their aggression.",
+    "type": "Fanged beast",
+    "title": "Congalala",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Emerald Congalala",
+    "value": "Emerald Congalala has green and white coloration, a large beard, and a taller hair spike. It produces greater amounts of gas and farts more often than normal Congalala. When it eats the object its tail holds, it breathes out dangerous stomach fluids. Consuming mushrooms causes poison, sleep, paralysis, or flames. Otherwise, the breath mimics its farts. Curious yet aggressive, Emerald Congalala rarely appears with young Congas.",
+    "type": "Fanged beast",
+    "title": "Emerald Congalala",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Rajang",
+    "value": "Rajang, a black ape-like beast with crimson eyes and gold horns, exhibits extreme violence and territoriality. It uses physical strength and agility in combat, and can shoot electricity. In Rage Mode, its front fur rises and turns gold. In Rampage Mode, its speed and power increase, and its forelimbs become red and nearly indestructible. This mode can be halted by damaging its tail or after a time limit.",
+    "type": "Fanged beast",
+    "title": "Rajang",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Furious Rajang",
+    "value": "Furious Rajang is an extremely powerful Rajang that has lost its tail, allowing it to fully harness its abilities. Its fur stands up, and it emits an electric aura during Rage mode. This fanged beast channels raw energy into devastating attacks, becoming nearly unstoppable when enraged.",
+    "type": "Fanged beast",
+    "title": "Furious Rajang",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Arzuros",
+    "value": "Arzuros has turquoise fur and an ursine body structure. Its back features tough hide, somewhat like a carapace. It has large, bulky legs connected to smaller feet and a short, wide tail. Armed with elongated red claws and tough braced forearms, Arzuros uses its body and agility for charge attacks and pinning prey. Omnivorous, it enjoys fish and honey, often becoming distracted while eating honey. When threatened, Arzuros uses size and claws to intimidate or employs agility to escape, frequently hanging its tongue out of its mouth.",
+    "type": "Fanged beast",
+    "title": "Arzuros",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Lagombi",
+    "value": "Lagombi resembles a mix between a wombat, a bear, and a rabbit. Its ears are long and highly sensitive, and its face features a beak-like mouth along with small red eyes. Lagombi's belly is made of a low-friction material and is shaped so that it can slide upon the ice like a sled. It is covered in a thick fur coat to keep it warm in its sub-zero homeland. Lagombi attacks by throwing chunks of ice, swiping with its claws, and sliding around on its belly to ram foes.",
+    "type": "Fanged beast",
+    "title": "Lagombi",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Volvidon",
+    "value": "Volvidon is a medium-sized monster, slightly larger than an Aptonoth. Covered in segmented red armor plates, it can curl into a ball for defense and offense. Equipped with a long, sticky chameleon-like tongue, Volvidon spits paralyzing liquid and releases a foul odor. As an insectivore, it hunts Neopterons, and can be aggressive when cornered, pulling foes toward its mouth or crushing them with a ball attack. Generally, Volvidon avoids trouble, making it a surprisingly formidable opponent in combat.",
+    "type": "Fanged beast",
+    "title": "Volvidon",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Redhelm Arzuros",
+    "value": "Redhelm Arzuros are among the largest of their species. Their forearms, feet, eyes, and upper body-fur are blood-red in color. Aside from those sections, their bodies are primarily blue, with their carapace and lower body-fur being a greenish blue. A pronounced strip of fur atop their head gives the impression of a mohawk. Redhelm Arzuros use their increased size and strength to their advantage during battle. They are known to leap high into the air, landing with incredible force in an attempt to crush an opponent. They also use their larger claws and more powerful arms to rip through the ground and hurl debris through the air, and have even been observed sending entire schools of fish flying by performing this action in watery environments.",
+    "type": "Fanged beast",
+    "title": "Redhelm Arzuros",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Gammoth",
+    "value": "Gammoth is the largest known Fanged Beast, resembling a Woolly Mammoth. She has bluish fur with white, red, and brown plating. Her trunk breathes snow to encase enemies and create icy armor for her legs. Gammoth uses her trunk to create a vortex, drawing hunters in for trampling. She relies on brute strength and size to combat threats. Her underside trunk has spikes, and her eyes are small and on the sides of her head. Gammoth's legs are often encased in snow clumps.",
+    "type": "Fanged beast",
+    "title": "Gammoth",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Kecha Wacha",
+    "value": "Kecha Wacha is a lemur-like monster with long arms and hook-like fingers and claws. It has bright yellow fur and blue skin. It can fold its spiked ears over its face, forming a 'mask' that is likely used to intimidate would-be attackers. It also sports a tube-like trunk and large, forward-facing eyes. Curious in nature, Kecha Wacha will investigate anything in their environment that is new to them. As relatively peaceful monsters, these creatures would rather flee than fight, yet if fleeing is not an option they can be surprisingly aggressive and will readily use their long, sharp, and hooked claws, trunk-like nose, and mask-like ears to defend themselves.",
+    "type": "Fanged beast",
+    "title": "Kecha Wacha",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Snowbaron Lagombi",
+    "value": "Snowbaron Lagombi have darker fur on their lower bodies and backs, and purple plastron bellies. Their forearm armor is hidden by longer fur, and their ears have oval tips. Stronger than regular Lagombi, they can lift and hurl large snow mounds. They slide on their bellies with great speed and control, kicking up snow and ice to freeze nearby creatures.",
+    "type": "Fanged beast",
+    "title": "Snowbaron Lagombi",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Apex Arzuros",
+    "value": "Apex Arzuros exhibit dark fur with red scars on their arms and red eyes. Their large forelimbs allow powerful smashes. Extremely aggressive, they attack anything in sight and can summon monsters during The Rampage. They destroy defenses in one hit and perform ground slams, rock throws, and enhanced claw swipes when enraged. They steal and eat Honey from hunters, mirroring their normal counterparts' behavior.",
+    "type": "Fanged beast",
+    "title": "Apex Arzuros",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Bishaten",
+    "value": "Bishaten, a Fanged Beast, sports cream-colored fur with blue limbs and cyan-feathered wings. Its strong tail ends in a hand with five digits and hard shells. Bishaten stores fruits in its belly pouch and enjoys pranks. Omnivorous and acrobatic, it performs spinning moves, stands on its tail, and throws fruits as attacks. Unlike its relatives, Bishaten's unique face features bony protrusions and beak-like jaws. Males have a larger blue and white mane around their neck.",
+    "type": "Fanged beast",
+    "title": "Bishaten",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Bombadgy",
+    "value": "Bombadgy appears as an obese badger or raccoon with gray flabby skin and long tendril-like eyebrows. Three jagged rows run along its back, with another row on each side. Its scaled legs end in five digits with long claws. Bombadgy only attacks when provoked, barking and growling until left alone or attacked. It carries flammable gas inside its body, which it uses to defend itself by expelling and igniting it, making it a literal living bomb.",
+    "type": "Fanged beast",
+    "title": "Bombadgy",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Canynes",
+    "value": "Canynes are dog-like Fanged Beasts with highly variable appearances. They possess great agility, performing leaps and climbing sheer slopes. Some Canynes in Kamura Village become trained Hunting Buddies, known as Palamutes. They use specially designed weapons, carry hunters, and wear tailored armor. Their intelligence allows them to respond to orders and work collaboratively in hunting quests.",
+    "type": "Fanged beast",
+    "title": "Canynes",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Canynes",
+    "value": "Canynes are dog-like Fanged Beasts with diverse appearances, featuring varied colors, ear and tail shapes, and unique markings. They can move at high speeds, leap greatly, and climb steep slopes. In Kamura Village, Canynes are trained as Hunting Buddies called 'Palamutes.' Intelligent and obedient, they use specialized weapons and carry hunters without losing speed. Equipped with custom armor, they assist in hunts while showcasing their remarkable agility and strength.",
+    "type": "Fanged beast",
+    "title": "Canynes",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Garangolm",
+    "value": "Garangolm is a gigantic Fanged Beast resembling a gorilla. Its dorsal side and head are covered in a thick, rigid green and brown shell. It has a long tail ending in prongs. Garangolm emits sap that promotes plant growth, hardens its body, and solidifies soil. It uses its left arm to scrape and dig, and its right arm to clean its back. When enraged, it forms gauntlet-like masses of semi-molten rock and moss, causing Fireblight and Waterblight. Below a certain health threshold, it gains new attacks, including a steam explosion after a head swing.",
+    "type": "Fanged beast",
+    "title": "Garangolm",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Goss Harag",
+    "value": "Goss Harag is a large Fanged Beast with both bear and Namahage-like features. Its body is covered in shaggy white and brown fur, while its face and legs are covered in thick, scaly armor that turns red when enraged. It possesses four short ice-like horns, and its forelegs and hindlegs have different claw structures. Goss Harag can leap great distances, burst into sudden speed, and freeze its bodily fluids to create icy blades and bludgeons. It is capable of both quadrupedal and bipedal movement, using its powerful forearms to deliver shockwave-inducing blows.",
+    "type": "Fanged beast",
+    "title": "Goss Harag",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Ajarakan",
+    "value": "Ajarakan is a large Fanged Beast resembling a monkey. Its golden-green scales have bright blue and red streaks. It possesses flat fingernails and gripping pads. Two rows of crests emerge from its head, and its tail ends in jagged spines. Ajarakan is aggressive, using brute strength and hurling burning rocks. It climbs metal pipes and volcanic ledges with ease and can ignite its shell for fiery attacks. When threatened, it unleashes a dive attack, creating a large fiery impact.",
+    "type": "Fanged beast",
+    "title": "Ajarakan",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Doshaguma",
+    "value": "Doshaguma is a large monster with a bear-like gait, covered in thick golden-brown fur and a shaggy mane. It has armored forelegs, bear-like paws and claws, and distinctive tusk-like canines. Doshaguma is aggressive and territorial, forming small packs with an alpha and two subordinates. It relies on brute strength in battle, using powerful claws and paws to attack, and can also charge and devour opponents. Alpha Doshagumas are larger, more aggressive, and have brighter red faces and thicker manes.",
+    "type": "Fanged beast",
+    "title": "Doshaguma",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Slicemargl",
+    "value": "Slicemargl are large quadrupeds with canine-esque faces, sporting black and white striped pelts. Blade-like bones protrude from their arms and back, which they use to inflict damage. They employ raw physical strength and bladed bones in combat, launching them while airborne. Though mainly solitary, they sometimes hunt in pairs. Slicemargl prefer stronger prey like Khezu and Ice Chramine, and curiously protect weaker creatures like Anteka and Blango. Their bladed bones can regenerate over time, but damaging them limits their abilities.",
+    "type": "Fanged beast",
+    "title": "Slicemargl",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Agnaktor",
+    "value": "Agnaktor is a quadrupedal Leviathan, similar in size and body shape to Lagiacrus. It swims through lava and tunnels through volcanic rock, which melts with depth. Its lava-like armor hardens when cooled, softens with heat. Its drill-like beak has rows of needle-like teeth. Unlike Uroktor, Agnaktor has magma sticking to its body, and it unleashes a powerful, coherent beam of fire. It charges through solid rock to attack hunters.",
+    "type": "Leviathan ",
+    "title": "Agnaktor",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Glacierfang Agnaktor",
+    "value": "Glacierfang Agnaktor has an icy armor covering that hardens when it burrows and softens over time. It possesses a longer, harder, and sharper beak, ideal for digging through Tundra ice. Glacierfang Agnaktor attacks with a beam of ice and water, inflicting Waterblight. It can sweep the beam from side to side and move it in circles, making it a formidable opponent in cold climates.",
+    "type": "Leviathan ",
+    "title": "Glacierfang Agnaktor",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Gobul",
+    "value": "Gobul is an aquatic Leviathan with a massive mouth and throat, capable of swallowing prey nearly its own size. Its lure emits blinding flashes of light to disorient prey. When enraged, Gobul can puff out its body to appear more imposing. It uses plant-like whiskers and natural camouflage to blend into the river floor. Gobul is often passive until attacked, spending time lying under the river bed, disguised as a common plant.",
+    "type": "Leviathan ",
+    "title": "Gobul",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Lagiacrus",
+    "value": "Lagiacrus is an aquatic Leviathan with a remarkable ability to thrive both in and out of water. When exposed to sunlight, its skin transforms to a grayish-blue, and its spikes turn brown, while underwater it regains its deep blue color and light beige spikes. Specialized dermal spikes glow white during thunder-based attacks, and its mouth crackles with electric energy when enraged. Found exclusively in the Deserted Island, Flooded Forest, and Misty Peaks, Lagiacrus is a versatile predator capable of dominating both terrestrial and aquatic environments.",
+    "type": "Leviathan ",
+    "title": "Lagiacrus",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Ivory Lagiacrus",
+    "value": "Ivory Lagiacrus sports a briny white body with deep blue knobs, spines, and horns. It prefers a terrestrial lifestyle, spending little time in water. It inhabits areas with large bodies of water, like the Deserted Island and Flooded Forest. Ivory Lagiacrus wields powerful thunder attacks that cover wider areas than those of common Lagiacrus.",
+    "type": "Leviathan ",
+    "title": "Ivory Lagiacrus",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Abyssal Lagiacrus",
+    "value": "Abyssal Lagiacrus towers over Elder Dragons, with a lustrous black shell and vivid blue bioluminescent points. Its red eyes glow in the deep, and its electric blue mouth produces powerful blasts. Unlike others, it stays fully charged and creates underwater whirlpools using its serpentine body to disorient hunters.",
+    "type": "Leviathan ",
+    "title": "Abyssal Lagiacrus",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Nibelsnarf",
+    "value": "Nibelsnarf are Leviathans capable of burrowing into sand and disguising themselves as sand dunes. They have a salamander-like body, brightly colored underbelly, and a shark-like head with razor-sharp teeth. They prey on Rhenoplos and Apceros using powerful jaws. Hunters can target their weak spot, the uvula, within their mouths. Nibelsnarfs can spew sand, charge, and leap bite. They also use a 'Wind Tunnel' attack by expelling swallowed sand and debris while moving, similar to H. They show superficial similarities to Gobul and swim in sand like Piscine Wyverns.",
+    "type": "Leviathan ",
+    "title": "Nibelsnarf",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Royal Ludroth",
+    "value": "The Royal Ludroth features a crown-like crest with black spikes and a spongey yellow mane. Its serpentine body includes four limbs, with paddle-shaped hind legs for swimming and clawed front legs for grasping. It uses its mane to absorb water, creating mucus globules and high-speed water blasts. As an alpha male, it roams with a harem, defending its clan aggressively. Royal Ludroth excels in aquatic environments, utilizing its abilities to hunt and protect its territory.",
+    "type": "Leviathan ",
+    "title": "Royal Ludroth",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Purple Ludroth",
+    "value": "The Purple Ludroth has pale, grey skin and bright orange claws and spikes. Its purple mane stores large quantities of poison like a sponge. It spits balls of poison mucus and releases a poison splash by slamming its mane on the ground. Unlike common Ludroths, it lives solitarily and avoids water, preferring a life on land. Its toxic mane and aggressive behavior make it a formidable creature in its territory.",
+    "type": "Leviathan ",
+    "title": "Purple Ludroth",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Mizutsune",
+    "value": "Mizutsune is a male Leviathan with dark purple fur covering his chest, underbelly, legs, and tail. He has light-colored fish-like scales and pink fins with yellow markings on his head, back, and tail. His feet enable swift land movement. Mizutsune secretes a soapy fluid for agility and offense, creating bubbles to hinder foes. He rests often, reacting violently only when provoked. During mating season, males become aggressive, prompting hunters to target them.",
+    "type": "Leviathan ",
+    "title": "Mizutsune",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Soulseer Mizutsune",
+    "value": "Soulseer Mizutsune is larger than common Mizutsune. His fur appears paler. In combat, his front claws and tail color deeper red. Scars across his face likely came from battle. His left eye glows blue when enraged. Blind, he uses bubbles to perceive the environment. Enraged by hunters touching these bubbles, Soulseer launches explosive blue bubbles causing fireblight. Coating claws and tail with red bubbles increases attack power but also vulnerability. If hunters are hit, they briefly gain an attack boost.",
+    "type": "Leviathan ",
+    "title": "Soulseer Mizutsune",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Almudron",
+    "value": "Almudron is a massive Leviathan found in bogged areas. It has a gray shell with darker highlights, scaly skin in gray, yellow, and pink, and a pink underbelly. Its head features a short snout, red eyes, and whisker-like tendrils. Almudron uses its massive tail with feather-like appendages to attack with mud. It creates mud waves, digs into soil, and forms mud walls and piles. The golden fluid from its tail dissolves soil, trapping foes and draining their health. Recently, Almudron has been approaching human settlements due to the Rampage.",
+    "type": "Leviathan ",
+    "title": "Almudron",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Magma Almudron",
+    "value": "Magma Almudron is bluish gray and crimson in color, with a red glow visible through the seams between its shell. Smaller than the normal Almudron, it skillfully uses its tail to spread magma along the ground. It secretes a liquid to melt the ground, allowing it to dig into volcanic terrain. It creates pillars of magma to stand on before they explode. It can also hold a magma-mud ball with its tail, using it as a bludgeon before it explodes upon impact. Magma Almudron is very aggressive, attacking intruders like Uroktor with extreme fury.",
+    "type": "Leviathan ",
+    "title": "Magma Almudron",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Violet Mizutsune",
+    "value": "Violet Mizutsune are male, with whitish-lilac scales and indigo fins. They produce an oil-like secretion that ignites into a deadly inferno. Found rarely at Infernal Springs and Forlorn Arena, they launch flaming bubbles, streams of fluid, and create explosive puddles. In their empowered state, their fur glows faint blue, and they wreath themselves in white-hot flames.",
+    "type": "Leviathan ",
+    "title": "Violet Mizutsune",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Apex Mizutsune",
+    "value": "Apex Mizutsune is a male Leviathan with a dark tone and wounds all over his body. His arm fur is purple, and his torso and tail are deep blue. When enraged, the crests on his head and back turn red. Extremely aggressive, he attacks on sight using hellfire bubbles and powerful tail uppercuts. In rampage mode, his bubbles inflict Blastblight. Apex Mizutsune has a rivalry with Apex Zinogre.",
+    "type": "Leviathan ",
+    "title": "Apex Mizutsune",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Somnacanth",
+    "value": "Somnacanth is an aquatic Leviathan with yellow scales transitioning to white on its belly. It boasts three-digit front feet with black claws and shorter claws on four-digit back feet. Its unique features include large purple horns and bioluminescent patches on its body. Territorial and aggressive, Somnacanth can induce sleep with its throat powder. It stands on its tail, jumps high for slams, and throws quills from its crest. Capable of swimming on its back, it also uses its hard belly to crack open shells that explode or cause other effects when broken.",
+    "type": "Leviathan ",
+    "title": "Somnacanth",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Aurora Somnacanth",
+    "value": "Aurora Somnacanth has a pale yellow body and ice-blue fins with dark purple gradients. Its bioluminescence is white, and frost forms on its head-crest and tail. Found in cold regions like the Frost Islands and the Citadel, it uses powerful ice attacks. Its Cryo Sac enables ice beams, frost explosions, and freezing mist. It spends more time on land than its counterpart and can instantly freeze broad areas, allowing swift movement around enemies and prey.",
+    "type": "Leviathan ",
+    "title": "Aurora Somnacanth",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Balahara",
+    "value": "Balahara is a supple, serpentine Leviathan with a body shape similar to Agnaktor and Lagiacrus. Its body is covered in small, brownish-gray scales that grow larger and sharper on its sides. It has four short legs and a long drill-like tail. The Balahara's most distinguishing feature is the unique shape of its head. Its tripartite jaws bear three tongues, and both its upper and lower jaws are covered in large amounts of sawblade-like teeth. The inside of its mouth emits a faint blue glow, and it has multiple pairs of tiny, scallop-like eyes lining its jaws.",
+    "type": "Leviathan ",
+    "title": "Balahara",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Uth Duna",
+    "value": "Uth Duna is a massive reptilian Leviathan with a quadrupedal body, arapaima fish-like face, and powerful jaws with small sharp teeth. Its striped scales and massive translucent fins allow it to leap out of the water and create powerful waves. The apex predator of the Scarlet Forest, it appears during heavy downpours, using speed and strength to attack hunters with bites, claw swipes, and crushing jumps.",
+    "type": "Leviathan ",
+    "title": "Uth Duna",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Hirabami",
+    "value": "Hirabami is a leviathan with a dark purple body, cyan shades, and a segmented, pointy head. Its lower jaw splits in two, and its mouth is brightly colored. It levitates using a wind-catching membrane on its neck and hangs from ceilings with its tail's clamping claws. Hirabami spits icy projectiles to freeze hunters. Often seen in trios, it uses its finned arms tipped with sickle-shaped claws. Its small, thin back legs end in flat pads, while its tail thickens at the end.",
+    "type": "Leviathan ",
+    "title": "Hirabami",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Long Sword",
+    "value": "Long Swords, often referred to as LS, are slender blades designed for elegant movements. these weapons have a gauge that fills with repeated attacks on monsters, becoming more powerful when full. Longsword users unlock Spirit Combo attacks, increasing attack power, but cannot block with these fragile blades. Completing a Spirit Combo changes the gauge color to yellow and eventually red, causing attacks to become even more powerful. However, the gauge drains quickly when not attacking, requiring continuous combat to maintain its peak state.",
+    "type": "Weapons ",
+    "title": "Long Sword",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Sword and Shield",
+    "value": "The Sword and Shield, or SnS, is a weapon pairing small and swift swords with versatile shields. it offers fast combos despite lower damage. Many SnS bear elemental effects to compensate, enhancing hunter's skill. Notably, SnS have a K.O. ability, striking a balance of attack and defense, making them essential for nimble hunters who excel in precision.",
+    "type": "Weapons ",
+    "title": "Sword and Shield",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Dual Blades",
+    "value": "Dual Blades, or DB, resemble Sword and Shields but focus strongly on offense, sacrificing defense. Hunters wield fast, combo-focused attacks and activate Demonization Mode. This mode allows resistance to wing attacks and never-ending combos, but gradually drains stamina. Dual Blades can also wield dual Elements and Statuses. A gauge fills with strikes in Demonization Mode, leading to powerful Archdemon Mode. This mode enhances attack power and introduces the Demon Dash, a fast movement.",
+    "type": "Weapons ",
+    "title": "Dual Blades",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Hammer",
+    "value": "Hammers are large, heavy weapons that deal vast damage in a single combo. Exclusively Impact-type, they hinder mobility slightly but allow running. Moves include a simple pound, a revolving spin, and a charge-up Superpound. Hammers cannot block and cut tails, but can K.O. foes with head hits. combos are fluid and include  charged uppercuts.",
+    "type": "Weapons ",
+    "title": "Hammer",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Hunting Horn",
+    "value": "Hunting Horns, or HH, deal Impact damage and can K.O. monsters with head hits. Weaker than Hammers, they compensate with their Recital Ability. Each Horn has three colored notes, combined for effects like Attack and Defense boosts. Hunting Horns create notes with ordinary attacks, activating effects without a specific recital mode.",
+    "type": "Weapons ",
+    "title": "Hunting Horn",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Lance",
+    "value": "Lances are long weapons that strike from a distance. They are paired with a large shield for strong defense. Lances are slow and hard to maneuver but pack considerable damage. They can perform upstabs, piercing stabs, and running charge attacks. they have the ability to counter with a charged strike and K.O. with a shield bash. Lances uniquely deal either Cutting or Impact damage based on the hitzone weakness.",
+    "type": "Weapons ",
+    "title": "Lance",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Gunlance",
+    "value": "Gunlances are long, piercing weapons with a built-in mechanism for firing explosive rounds. Unlike bowguns, Gunlances operate at close range and reduce their sharpness with each explosive shot. They utilize a combination of stabs and explosive shots for combos. With infinite shells that need regular reloading, Gunlances can perform a powerful attack called Wyvern's Fire. This attack, however, dramatically reduces sharpness and requires cooldown time. Newer Gunlances feature more effective combos and an overhead swing attack, capable of firing all loaded shells at once.",
+    "type": "Weapons ",
+    "title": "Gunlance",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Switch Axe",
+    "value": "Switch Axes, transform between Axe and Sword modes. In Axe mode, swings are slower but deal more damage. Sword mode allows for quick combos and a powerful 'Burst' attack, but its use is limited by a gauge. Phials in Sword mode activate effects like Paralysis or increased Attack power. Switch Axes offer versatility in combat, ideal for adapting to different monster tactics.",
+    "type": "Weapons ",
+    "title": "Switch Axe",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Insect Glaive",
+    "value": "The Insect Glaive is a versatile double-ended rod that allows for swift, fluid attacks and pole-vaulting maneuvers. It features a Kinsect summoning system, enabling the hunter to send a Kinsect to drain a monster's energy and boost their own abilities in terms of attack, health, speed, or defense. This weapon, combines agility with strategic offensive capabilities, making it a favored choice among experienced hunters.",
+    "type": "Weapons ",
+    "title": "Insect Glaive",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Charge Blade",
+    "value": "Charge Blades, also known as CB, are versatile weapons They switch between Sword Mode for fast combos and Axe Mode for powerful strikes. A phial on the hilt glows yellow for a charge attack and red for an even stronger one. Hunters use these to adapt to various combat situations, balancing speed and power.",
+    "type": "Weapons ",
+    "title": "Charge Blade",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Light Bowguns",
+    "value": "Light Bowguns are versatile, ranged weapons in the Hunter's arsenal. Weighing light enough for constant movement, these guns can rapidly fire various specialized ammo, partially offsetting their generally lower damage. Hunters frequently employ these firearms to deliver rapid, successive attacks, offering adaptability and swift maneuverability on the battlefield. Developed first for mobility and ease of use, Light Bowguns remain favored by hunters needing swift, sustained ranged firepower.",
+    "type": "Weapons ",
+    "title": "Light Bowguns",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Heavy Bowgun",
+    "value": "Heavy Bowguns, or HBG, deal considerable damage from a distance. Due to their size and weight, Hunters cannot run with them drawn. These weapons use a wide range of Ammo and can be equipped with a Shield for blocking monster attacks. A Power Barrel increases attack power, Heavy Bowguns can enter Siege-Mode, allowing Hunters to crouch immobile and fire many Shells without reloading.",
+    "type": "Weapons ",
+    "title": "Heavy Bowgun",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Bow",
+    "value": "The Bow is a fast, unique ranged weapon. It provides an infinite quiver of arrows, although each arrow does minimal damage. Bows can fire Scatter, Pierce, and Rapid Shots, each with varying power levels. Charging the Bow accesses different Shots. Bows also use Coatings for effects like Paralysis, Sleep, or increased Attack power. Certain Bows can fire a vertical cluster of arrows, causing K.O. if it hits the monster's head. Some Bows can perform a hard shot, firing two charge levels at once, at the cost of stamina.",
+    "type": "Weapons ",
+    "title": "Bow",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Forest and Hills",
+    "value": "The Forest and Hills is a temperate region featuring dense forests and elevated hills. Aptonoth and Kelbi roam the hills, while packs of Velociprey, led by Velocidrome, inhabit the area. Novice hunters frequent this zone, though it's not entirely safe. Rathalos and Rathian nest on high cliffs, and Yian Kut-Ku, Gypceros, and Yian Garuga are common. Even Elder Dragons like Chameleos occasionally appear. The zone's abundant foliage and varied wildlife make it a dynamic and challenging environment.",
+    "type": "location",
+    "title": "Forest and Hills",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Old Jungle",
+    "value": "The Old Jungle, also known as the Rain Forest, features dense, visibility-inhibiting vegetation, rivers, and cold caves with ankle-depth water. This harsh environment is home to many monsters, such as Yian Kut-Ku, Khezu, Gypceros, and Plesioth. The area has plentiful Mushroom and Bug Gathering spots. Hunters can follow Mosswines, as they tend to path towards Mushroom spots. The Old Jungle's challenging terrain and diverse wildlife make it a formidable and rewarding location for experienced hunters.",
+    "type": "location",
+    "title": "The Old Jungle",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Old Desert",
+    "value": "The Old Desert is an unforgiving habitat with high rocky canyons and low sandy deserts. It has sparse plant life and limited mining and fishing spots. The extreme heat in some areas requires the use of a Cool Drink, but there are cooler sandy areas and a cold cave. The area is home to various monsters, including Diablos and Monoblos, making it a challenging environment for hunters.",
+    "type": "location",
+    "title": "The Old Desert",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Old Swamp",
+    "value": "The Old Swamp is a vast, wet landscape with numerous caves and dense fog that limits visibility. The ground is often too mushy for pitfall traps. Freezing caves contain large clusters of beautiful crystals. The North-Western areas constantly echo with distant thunderstorms. The swamp teems with insect nodes and plant and mushroom gathering spots. A blue tinge permeates the sky and fog, making it a unique and challenging environment for hunters.",
+    "type": "location",
+    "title": "The Old Swamp",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Old Volcano",
+    "value": "The Old Volcano, also called the Volcanic Belt, features an active volcano and the surrounding area. Hunters start at the base, journey through molten caves, and ascend the perilous peak. Withering heat demands cool drinks. Exploding rocks pose a danger, triggered by physical impacts or explosive attacks. The area houses hardy creatures like Basarios, Gravios, Azure Rathalos, Yian Kut-Ku, Iodrome, and Shogun Ceanataur. Sparse vegetation limits herb and insect gathering, but it offers an overwhelming abundance of ores and minerals, including Powderstones for the Guild.",
+    "type": "location",
+    "title": "The Old Volcano",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Fortress",
+    "value": "The Fortress is a strategic location featuring narrow canyons, a base camp, and the fortress itself. Hunters battle the Elder Dragon Lao-Shan Lung and the giant Carapaceon Shen Gaoren here. Bridges allow hunters to jump onto Lao-Shan Lung's back and into Shen Gaoren's shell for carves. The fortress is equipped with Ballista, Cannons, and a Dragonator, which uses four giant spikes to pierce monsters. Ammo is found at the base camp. Small Ioprey must be evaded to transport Cannon S to the Cannons.",
+    "type": "location",
+    "title": "The Fortress",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Castle Schrade",
+    "value": "Castle Schrade is an abandoned castle in ruins, once the grand seat of the Schrade Kingdom. It now features blood red skies with dark hues and swirls of purple clouds. Thousands of years ago, a chaotic force brought the kingdom to its knees. Today, the area serves as the battleground for the fearsome Fatalis. Hunters must navigate its crumbling structures and eerie atmosphere, where ancient relics and hidden dangers lie in wait.",
+    "type": "location",
+    "title": "Castle Schrade",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Arena",
+    "value": "The Arena is a compact battleground frequented by Felynes and Melynxes. This arena hosts quests such as 'Carnivore Carnival', 'Hermitaur Buffet', and 'Whack a Shakalaka'. It has a unique, uniform texture with rough edges in older versions but maintains its overall shape across iterations.",
+    "type": "location",
+    "title": "The Arena",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Great Arena",
+    "value": "The Great Arena is a vast battleground used for training quests and high-profile monster fights. It hosts downloadable quests like 'The Hot, Dark Wind' and 'Anger of Heaven & Earth', featuring paired-up monster duos. Renowned for Rajang hunts, quests like 'The Final Invitation' and 'Golden Thunder God' attract gunners and blademasters. Captured monsters are brought here for controlled fights, serving as training grounds for new hunters and entertainment for sponsors, including the enigmatic Scarlet Mystery Man.",
+    "type": "location",
+    "title": "The Great Arena",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Kokoto Village",
+    "value": "Kokoto Village lies in the northwest of the Old World, in the Schrade Region. This village serves as a bustling hub where merchants from other lands come to sell their goods. The Kokoto Chief, a legendary retired Wyverian hunter known as the 'Hero of Kokoto', leads the village. Behind the protagonist's home stands a large rock with a sword embedded, renowned as the weapon that slew a Monoblos. The sword unlocks after defeating a Rathalos or Astalos, symbolizing the village's strong hunting traditions.",
+    "type": "location",
+    "title": "Kokoto Village",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Minegarde",
+    "value": "Minegarde is a high-mountain town where hunters gather. The Town Square serves as the central hub, connecting to the Tavern, Armory, Guest House, and Market. The Market features shops for basic materials, tools, food, and a combiner shop for safe item crafting. The Armory houses an equipment shop and blacksmith. The Guest House offers private rooms with item boxes, felyne kitchens, and beds, upgraded based on Hunter Rank. The Tavern is the quest hub, run by the Guild Master and Guild Gal, with a quest board and item shop.",
+    "type": "location",
+    "title": "Minegarde",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Snowy Mountains",
+    "value": "The Snowy Mountains, located near Pokke Village, feature temperate lowlands, a clear freshwater lake, frozen caves, and snowbound peaks. Inhabited by cold-adapted monsters like Blangonga, Khezu, and Giadrome, this region offers a challenging yet rewarding environment for hunters. The area's diverse geography and unique ice formations make it a popular destination for those seeking rare resources and formidable monster encounters.",
+    "type": "location",
+    "title": "The Snowy Mountains",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Jungle",
+    "value": "The Jungle, near Jumbo Village, features white sandy beaches, turquoise seawater, lofty cliffs, and subterranean caves. It is inhabited by Rathian, Congalala, Velocidrome, and Daimyo Hermitaur. Hunters navigate the dense foliage, seeking rare resources and formidable encounters. The tropical coastline offers both beauty and danger, making it a challenging and rewarding location for experienced hunters.",
+    "type": "location",
+    "title": "The Jungle",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Dessert",
+    "value": "The Dessert is a bizarre and unexpected region featuring sugary sand dunes, candy cane forests, and gumdrop hills. Hunters navigate this sweet terrain to encounter unique monsters like the Gobbling Gobul, Sugarfang Barioth, and Lollipop Ludroth. The area's sugary environment demands special gear to avoid sticky traps and syrup pits. Despite its appearance, The Dessert is treacherous, with monsters craving the sweet bounty. Hunters often use honey-based traps and sweet-scented lures, making it a challenging yet rewarding location for those who dare to indulge.",
+    "type": "location",
+    "title": "The Dessert",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Glowing Marshlands",
+    "value": "The Glowing Marshlands lie in a unique temperate zone, marked by bioluminescent flora that light up the night. This swamp features slow-moving rivers and hidden sinkholes. Tall reeds and moss-covered trees shelter rare insects. The air buzzes with eerie, glowing flies. Hunters beware of the quicksand pits. The Marshlands house creatures like the elusive Shogun Ceanataur and the poisonous Gypceros. Unique resources include radiant crystals and light-infused plants. The bioluminescent environment creates challenges and opportunities, making it an unforgettable hunting experience.",
+    "type": "location",
+    "title": "The Glowing Marshlands",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Volcano",
+    "value": "The Volcano stands as a sprawling, unforgiving region teeming with scorching lava flows and explosive rocks. Unlike its predecessor, this volcano boasts a larger area and harsh conditions. Hunters may find themselves amidst an eruption during quests, necessitating caution. The lava, particularly hazardous near nighttime, often changes the area's layout as it overflows. Two extra areas, ideal for Lavasioth hunts, become accessible under specific conditions. This location returned in Monster Hunter Generations, offering a uniquely perilous yet rewarding hunting ground.",
+    "type": "location",
+    "title": "The Volcano",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Great Forest",
+    "value": "The Great Forest is a lush, tropical rainforest with thick green vegetation, towering trees, and clear freshwater lakes and rivers. A single massive tree stands at its center. Home to many wild monsters like Hypnocatrice, Espinas, Emerald Congalala, and Nargacuga, the forest offers a challenging yet rewarding environment for hunters. The dense foliage and abundant water sources make it a unique and memorable hunting experience.",
+    "type": "location",
+    "title": "The Great Forest",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Tower",
+    "value": "The Tower is a crumbling structure that rises beyond the clouds. Built using Kushala Daora materials, it yields Decayed Dragon Scales when mined. The Tower has two main areas: the inside, with its labyrinthine corridors, and the outside, featuring perilous ledges and falling debris. Hunters seek rare resources and encounter formidable monsters within its heights. The Top of the Tower is a notable destination, offering breathtaking views and challenging quests.",
+    "type": "location",
+    "title": "The Tower",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Pokke Village",
+    "value": "Pokke Village, nestled in the mountains, houses essential facilities like the Armory and Blacksmith, General Store, and Farm. A notable landmark is a machalite ore boulder near the pathway, often tended by the short elderly Chief and Nekoht, a Felyne. The Hunter's House, Felyne Kitchen, and Training School support hunters. The Guild Hall, adjacent to the Training School, offers offline and online quests. Frequent visitors include the Peddling Granny and the Wandering Chef, a Felyne in a barrel near the Hunter's House. The Mystery Cave unlocks after defeating Gammoth, providing access to Dark Pieces and Dark Stones.",
+    "type": "location",
+    "title": "Pokke Village",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Dundorma",
+    "value": "Dundorma is a town in the Schrade region, east of Minegarde Town. Once thriving, it now lies in partial ruin from elder dragon and monster attacks. The Guild rebuilds the town, equipping it with ballistae, two cannons, and a Dragonator. Ruled by the massive elder Wyverian known as His Immenseness, Dundorma remains a vital outpost despite its dilapidated state.",
+    "type": "location",
+    "title": "Dundorma",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Deserted Island",
+    "value": "The Deserted Island, near Moga Village, features deep ocean waters, seaside caves, highlands, and fresh streams. Home to Rathalos, Lagiacrus, Qurupeco, and Great Jaggi, this peaceful, temperate environment offers diverse hunting grounds.",
+    "type": "location",
+    "title": "The Deserted Island",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Flooded Forest",
+    "value": "The Flooded Forest is a large forested wetland with many sections partially or completely submerged. This habitat is ideal for aquatic Leviathans like Lagiacrus, Royal Ludroth, Ludroth, and Gobul. The forest also hosts a variety of insects and mushrooms. Hunters navigate through the murky waters and dense foliage, encountering hidden dangers and rare resources. The unique environment demands specialized gear and techniques, making it a challenging yet rewarding location for experienced hunters.",
+    "type": "location",
+    "title": "The Flooded Forest",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Sandy Plains",
+    "value": "The Sandy Plains, located in a dry, Savannah-like region, features parched, cracked ground, Altaroth mounds, sandstone caves, and vast desert areas. Home to many large monsters, such as Barroth, Diablos, Nibelsnarf, and Qurupeco, the environment demands special drinks. A Cool Drink is needed in Areas 8, 9, and 10 during the day, while a Hot Drink is required at night. The region offers a unique, challenging experience for hunters seeking valuable resources and formidable encounters.",
+    "type": "location",
+    "title": "The Sandy Plains",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Tundra",
+    "value": "The Tundra is a cold, icy expanse of land with flowing rivers, towering ice formations, and dark caves. Coniferous trees and uniquely-adapted monsters like Lagombi, Barioth, and Great Baggi inhabit this snowy area. A Hot Drink is required to explore this region, except at the base camp. The Tundra demands specialized gear and techniques for its harsh climate.",
+    "type": "location",
+    "title": "The Tundra",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Volcano",
+    "value": "The Volcano begins with low, forested areas before rising to the base where lava meets water, creating a steam curtain. Unlike previous iterations, it lacks dry, craggy areas and features a visible volcano from camp. Hunters must use Cool Drinks in Areas 5 to 10, and Heat Cancel in specific areas to avoid heat damage. Mining nodes in Area 5 respawn every 4-5 minutes. The volcano's unique features and extreme heat make it a challenging yet rewarding location for experienced hunters.",
+    "type": "location",
+    "title": "The Volcano",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Sacred Land",
+    "value": "The Sacred Land is a remote volcanic area, known for its extreme heat. A Cold Drink or the Heat Cancel skill is required to prevent health depletion. The battlefield is surrounded by a lava river, with two central lava pools. The only safe base camp is behind a mountain crevasse, accessible by Farcaster or Felyne carts. The camp has no supplies but a bed. Climbable ledges on the east and west enable Alatreon to get stuck after a charge if both horns are intact.",
+    "type": "location",
+    "title": "The Sacred Land",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Misty Peaks",
+    "value": "Misty Peaks, near Yukumo Village, boasts tall rocky spires, dense bamboo and deciduous forests, and multiple bodies of fresh water. This temperate, mountainous region serves as a habitat for large monsters like Arzuros, Rathian, Lagiacrus, and Mizutsune. The peaks offer hunters challenging terrain with steep cliffs, hidden caves, and lush undergrowth. Misty Peaks also feature hot springs and waterfalls, making it a unique and memorable location for both its natural beauty and dangerous inhabitants.",
+    "type": "location",
+    "title": "Misty Peaks",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Underwater Ruin",
+    "value": "The Underwater Ruin lies deep beneath Moga Island, remnants of an ancient civilization. Ceadeus, Goldbeard Ceadeus, and Abyssal Lagiacrus inhabit this sunken site. A shortcut from base camp to Areas 2 and 3 unlocks after repelling Ceadeus. The ruins feature a Dragonator and two ballistae, built by Moga Village Chief's ancestors to fend off monsters. The battle soundtrack mirrors the Tower's. Hunters must navigate the treacherous underwater terrain, avoiding Ceadeus's wrath while uncovering the secrets of this submerged world.",
+    "type": "location",
+    "title": "The Underwater Ruin",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Great Desert",
+    "value": "The Great Desert is a vast desert with sand as far as the eye can see. It is home to the great Elder Dragon, Jhen Mohran and its subspecies, Hallowed Jhen Mohran. Dah'ren Mohran is also fought here. Delex and Remobra are the only small monsters that appear here.",
+    "type": "location",
+    "title": "The Great Desert",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Tainted Sea",
+    "value": "The Tainted Sea, exclusive to Monster Hunter 3 Ultimate, hosts the Elder Dragon Dire Miralis. The area features a large pool of water and a land mass, each covering roughly half the space. The pool connects to the ocean, with Port Tanzia lighthouse visible in the distance. The unique environment creates a challenging and memorable hunting experience.",
+    "type": "location",
+    "title": "The Tainted Sea",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Lava Canyon",
+    "value": "The Lava Canyon features enclosed caves where lava flows down rock faces and rivers. Inhabited exclusively by Akantor, this location demands Cool Drinks to prevent health depletion. The fiery environment with lava rivers and hot rock walls challenges hunters who seek rare resources and formidable encounters. Experienced hunters find it rewarding to navigate its treacherous yet beautiful landscape.",
+    "type": "location",
+    "title": "The Lava Canyon",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Polar Field",
+    "value": "The Polar Field is an arena-like area with steep ice cliffs and vast polar fields. The night sky showcases an aurora. Inhabitants include the Ukanlos, Rusted Kushala Daora, Grimclaw Tigrex, and Elderfrost Gammoth. Ice crystals released from the cave roof can harm hunters when large monsters roar. Temperatures demand a hot drink at all times.",
+    "type": "location",
+    "title": "The Polar Field",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Sacred Pinnacle",
+    "value": "The Sacred Pinnacle sits atop the mountains around Yukumo Village. The area features a sky with blood red hues, gray and purple swirls. The constant gale-force winds produce a roaring noise. Four strategic ballistae allow hunters to target or restrain Amatsu, making this treacherous landscape both challenging and rewarding.",
+    "type": "location",
+    "title": "The Sacred Pinnacle",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Underwater Arena",
+    "value": "The Underwater Arena is a unique battleground located entirely beneath the surface. Hunters must navigate its depths while managing oxygen levels by swimming through air bubbles or surfacing. The arena features a Dragonator for use in special online quests like 'Sea Power'. Gathering points offer resources such as life powders, EZ Flash Bombs, and Mega Potions. This challenging environment demands strategic planning and quick reflexes, making it a memorable experience for seasoned hunters.",
+    "type": "location",
+    "title": "The Underwater Arena",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Moga Village",
+    "value": "Moga Village is a small fishing village situated on a deserted island in the middle of a great ocean. Known for its bustling harbor and seafood markets, the village has faced recent turmoil due to unexplained earthquakes. The villagers, descendants of the guardians of the ancient underwater ruins, live amidst the threat of Leviathans and sea dragons. The village serves as a base for hunters tasked with investigating the seismic disturbances and protecting the island from monstrous creatures.",
+    "type": "location",
+    "title": "Moga Village",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Loc Lac Village",
+    "value": "Loc Lac Village sits on the border of the Great Desert, offering a bustling marketplace and renowned hotspots for hunters. The central spire, carved from the tusk of Elder Dragon Jhen Mohran, stands prominently. The village features a main street with essential services, Lodge Street for customized homes, a tavern for socializing and questing, and an armory for crafting. Despite its vibrant atmosphere, Loc Lac Village often faces threats from Jhen Mohran, making it a place of both excitement and danger.",
+    "type": "location",
+    "title": "Loc Lac Village",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Yukumo Village",
+    "value": "Yukumo Village is a mountain village nestled in the Misty Peaks, renowned for its natural hot springs and three-tiered layout. The village features a Blacksmith and General Store at the base, the Hunter's House and Training School on the second level, and the Gathering Hall at the top. It exports high-quality lumber and is famous for traditional Yukumo Wood crafting. Once secured by visiting Hunters, it now requires assistance from the Hunter's Guild due to increased large monster activity.",
+    "type": "location",
+    "title": "Yukumo Village",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Port Tanzia",
+    "value": "Port Tanzia is an online city accessible through Neko in Moga Village. It replaces Loc Lac City and features a prominent lighthouse visible from the Marina and the Tainted Sea. The city serves as a bustling hub for hunters, offering various amenities and services. Its unique lighthouse symbolizes guidance and safety for those venturing into dangerous territories.",
+    "type": "location",
+    "title": "Port Tanzia",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Ancestral Steppe",
+    "value": "The Ancestral Steppe features vast yellow grass fields, rocky outcroppings, deciduous forests, and subterranean caves. Towering mountain peaks dominate the horizon. Home to many monsters like Seltas, Kecha Wacha, and Gore Magala, the terrain's unevenness gives hunters a tactical advantage. Located outside the Everwood and Great Desert, this area challenges hunters with its varied landscape and formidable inhabitants.",
+    "type": "location",
+    "title": "The Ancestral Steppe",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Wildspire Waste",
+    "value": "The Wildspire Waste is a vast desert area with muddy marshes, twisted canyons, branching caverns, and sandy dunes. Few monsters are adapted to this harsh environment. Hunters face challenges from intense heat, shifting sands, and limited resources. The area's unique terrain often traps unsuspecting hunters in deep crevices or hidden pits. Notable inhabitants include Barroth, which thrive in the muddy marshes, and the elusive Radobaan, known to emerge from the caverns. Despite its dangers, the Wildspire Waste offers rare minerals and herbs, attracting hunters seeking valuable rewards.",
+    "type": "location",
+    "title": "The Wildspire Waste",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Sunken Hollow",
+    "value": "The Sunken Hollow is a vast subterranean cave system featuring lakes of green fluids and giant cobwebs. It connects to a dormant volcano and hosts monsters like Khezu, Gypceros, Nerscylla, and Tetsucabra. The dark, wet environment challenges hunters with its unique hazards and opportunities. The green fluid lakes pose risks but also contain rare resources. Giant cobwebs shelter elusive creatures and provide strategic vantage points. The dormant volcano occasionally releases steam, adding to the system's unpredictable nature. Hunters must navigate carefully to succeed in this unforgettable underground labyrinth.",
+    "type": "location",
+    "title": "The Sunken Hollow",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Volcanic Hollow",
+    "value": "The Volcanic Hollow is an underground area within an active volcano. It features tunnels, lava pits, and hidden chambers. The area is hazardous due to frequent eruptions and toxic gases. Troverians from Harth visit often, possessing extensive knowledge of its dangers. Powerful monsters like Gravios, Rajang, and Teostra inhabit this location. Hunters must use specialized gear and techniques to navigate its treacherous terrain. The Volcanic Hollow is a challenging yet rewarding location for experienced hunters seeking rare resources and formidable prey.",
+    "type": "location",
+    "title": "The Volcanic Hollow",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Primal Forest",
+    "value": "The Primal Forest is a lush environment featuring tropical forested areas, secluded grottoes, and expansive, marshy lowlands. A massive skeleton of a dragon-like monster drapes over a large bluff. Inhabited by Congalala, Rathian, and Najarala, this area offers both beauty and danger. Hunters navigate dense foliage and marshes, seeking rare resources and formidable encounters. The forest's unique combination of tropical and marshy ecosystems makes it a challenging yet rewarding location for experienced hunters.",
+    "type": "location",
+    "title": "The Primal Forest",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Frozen Seaway",
+    "value": "The Frozen Seaway is an Arctic coastline where glacial ice sheets meet the freezing sea. Inhabited by Lagombi, Kushala Daora, and Zamtrios, this polar area features a massive whirlpool in the ocean. Hunters must navigate icy terrain, avoid sudden crevasses, and utilize heated gear to withstand the extreme cold. The area's unique geography and harsh conditions make it a challenging yet rewarding hunting ground, with opportunities to harvest rare, cold-adapted resources.",
+    "type": "location",
+    "title": "Frozen Seaway",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Heaven's Mount",
+    "value": "Heaven's Mount floats high above the ground, suspended by massive roots. The land is unstable, with chunks falling frequently. This area is home to Rathalos, Seltas Queen, and Zinogre. Located near Cathar, the Sanctuary and Speartip Crag are also close by. Hunters face unique challenges due to the shifting terrain and constant threat of falling rocks. Despite its dangers, Heaven's Mount offers rare resources and thrilling monster encounters, making it a popular destination for experienced hunters.",
+    "type": "location",
+    "title": "Heaven's Mount",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Dunes",
+    "value": "The Dunes is a vast desert area with wide open plains, caves, and canyons. It features a unique swirling pool of quicksand and tall palm trees that hunters can climb for strategic advantages. Home to large monsters like Seregios, Tigerstripe Zamtrios, Cephadrome, Monoblos, Diablos, and Daimyo Hermitaur, the Dunes offer both challenges and opportunities for experienced hunters.",
+    "type": "location",
+    "title": "The Dunes",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Everwood",
+    "value": "The Everwood is a forested area with massive, crumbling ruins. Once richly inhabited by humans, it now teems with wild monsters like Yian Garuga, Velocidrome, and Basarios. The terrain features ledges and pillars that hunters use during combat. Unlike other areas, the Everwood's layout, monsters, items, and terrain change randomly each time it is entered, offering a unique hunting experience every visit.",
+    "type": "location",
+    "title": "The Everwood",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Jurassic Frontier",
+    "value": "Jurassic Frontier is an isolated island teeming with ancient vegetation and diverse species. The region is home to unique creatures such as Larinoth, Great Maccao, and the elusive Glavenus. Hunters flock here for valuable resources and formidable monster encounters, despite the perilous terrain featuring thick jungles and steep canyons.",
+    "type": "location",
+    "title": "Jurassic Frontier",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Ruined Pinnacle",
+    "value": "Ruined Pinnacle is a remote location high in the clouds, beyond the reach of most airships. Researchers from Wycademy study this area's rich environment using the Soaratorium. The pinnacle features floating islands, lush flora, and unique fauna adapted to high-altitude conditions. Hunters navigate the treacherous terrain, leveraging wind currents and aerial platforms to traverse the peaks. The location offers rare resources and challenging quests, making it a coveted destination for seasoned adventurers.",
+    "type": "location",
+    "title": "Ruined Pinnacle",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Sanctuary",
+    "value": "Sanctuary is an isolated, arena-like zone inside Heaven's Mount. It features rocky outcroppings, fractured ground, and long, dry grass. Known for housing Shagaru Magala, it also hosts powerful species like Rajang and Deviants. Hunters face challenging terrain and formidable monsters here.",
+    "type": "location",
+    "title": "Sanctuary",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Ingle Isle",
+    "value": "Ingle Isle is an arena-like zone with craggy, rocky plates and flowing rivers of lava. It features a full moon against a clear sky, and an ocean is visible in the distance. Home to fearsome monsters like Akantor, Crimson Fatalis, and Raging Brachydios, this island is both a battleground and a challenge. Hunters navigate through the dangerous terrain, leveraging its unique features for strategic advantages.",
+    "type": "location",
+    "title": "Ingle Isle",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Wyvern's End",
+    "value": "Wyvern's End is a hidden, massive pit littered with the bones of giant monsters, serving as the lair of the Nakarkos. Forbidden and inaccessible normally, it features a labyrinthine network of tunnels and chambers, each containing unique relics and perilous traps. The air buzzes with static energy, amplifying the raw power of those who dare enter. Hunters come here seeking unparalleled challenges and legendary rewards, braving the dangerous terrain and terrifying inhabitants. It is a proving ground for only the most seasoned and daring.",
+    "type": "location",
+    "title": "Wyvern's End",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Ancient Forest",
+    "value": "The Ancient Forest is a thick, lush region difficult to traverse. It features vast clearings near the coast, cliffs, and towering trees creating a large vertical space. Herbivores like Aptonoth and Kelbi roam the grasslands. The forest houses unique flora, fauna, and monsters, making it a challenging yet rewarding area for hunters.",
+    "type": "location",
+    "title": "The Ancient Forest",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Wildspire Waste",
+    "value": "The Wildspire Waste is a vast desert with muddy marshes, twisted canyons, branching caverns, and sandy dunes. Few monsters are adapted to this harsh environment. Hunters find rare resources and encounter unique creatures like Barroth and Radobaan. The terrain demands skillful navigation, making it a challenging yet rewarding location for experienced hunters.",
+    "type": "location",
+    "title": "The Wildspire Waste",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Coral Highlands",
+    "value": "The Coral Highlands feature a lower section with dark paths among gigantic cliffs and an upper section with open areas atop the cliffs. The lower section, with sand paths supported by coral, is home to Shamos and Tzitzi-Ya-Ku, which clash over prey like Kelbi. Odogaron occasionally pass through, seeking more substantial prey in the highlands. The highlands, with sand and coral platforms, host Paolumu, Legiana, and Pink Rathian. Odogaron can be found clashing with these monsters, while Raphinos and the rare Kirin also inhabit this area.",
+    "type": "location",
+    "title": "Coral Highlands",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Rotten Vale",
+    "value": "The Rotten Vale is a massive area covered in the rotting bones of Elder Dragons and other monsters that have come there to die. It sits at the bottom of the Coral Highlands. The area can be divided into three sections: an open upper area with large bony structures, a deeper section with Girros and Odogaron, and the acidic depths where Odogaron and Vaal Hazak reside. The environment is hazardous due to effluvium and acid pools, making it a challenging yet unique location for hunters.",
+    "type": "location",
+    "title": "The Rotten Vale",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Elder's Recess",
+    "value": "The Elder's Recess is a volcanic region covered in crystallized bioenergy from Elder Dragons. Hunters navigate through lava fields, bioenergy-infused caves, and perilous ridges. The area houses unique creatures like the Elder Dragon Kulve Taroth and the rare Zorah Magdaros. The intense heat requires specialized gear, and bioenergy crystals provide valuable resources. The Recess's volatile environment and Elder Dragon activity make it a challenging yet rewarding location for experienced hunters.",
+    "type": "location",
+    "title": "The Elder's Recess",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Guiding Lands",
+    "value": "The Guiding Lands combines elements from diverse areas like Ancient Forest, Wildspire Waste, Coral Highlands, Rotten Vale, Elder's Recess, and Hoarfrost Reach. This mystical land hosts an array of formidable monsters, drawing skilled hunters in search of exclusive rewards. A key feature includes random monster encounters, offering unpredictability and challenging experiences. This region serves as both a battleground and a bountiful harvest ground for those brave enough to explore its vast and varied expanse.",
+    "type": "location",
+    "title": "The Guiding Lands",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Shrine Ruins",
+    "value": "Once a sacred site for protection, the Shrine Ruins now lie in disrepair, haunted by monster roars. Despite decay, the area retains a mysterious aura. Lush and wet, it features cliffs and hills accessible via Wirebug. New hunters from the ninja village train here, facing creatures like Great Izuchi and Arzuros. However, stronger Yokai-like beasts, including Bishaten and Almudron, and the legendary Magnamalo, also inhabit this area.",
+    "type": "location",
+    "title": "Shrine Ruins",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Lava Caverns",
+    "value": "The Lava Caverns is a massive cave system, divided into searing hot and cool areas. The hot sections feature flowing lava and ash-laden skies. The cool parts boast pure water and crystal formations. Monsters such as Anjanath and Barroth roam here, attracted by the thermal activity and rich mineral deposits. Hunters face challenging terrain, from molten pits to icy caves, and unique hazards like heat exhaustion and flash floods. The Lava Caverns provide a striking, yet perilous, environment for those brave enough to venture in.",
+    "type": "location",
+    "title": "Lava Caverns",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Confluence of Fates",
+    "value": "The Confluence of Fates lies deep within the Elder's Recess. This arena serves as the battleground for Xeno'jiiva, where the elder dragon draws bioenergy. The stage splits into two areas, with a river between them and a wingdrake post connecting hunters to the main site. In its second phase, Xeno'jiiva uses its wings to fly, requiring hunters to summon wingdrakes for support. The environment is both eerie and charged with bioenergy, creating a challenging yet unforgettable combat experience.",
+    "type": "location",
+    "title": "The Confluence of Fates",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Red Stronghold",
+    "value": "The Red Stronghold, introduced in Monster Hunter Rise, hosts Rampage Quests and serves as a battleground for Apex Monsters. It initially housed exclusive encounters with Wind Serpent Ibushi. Strategically designed fortifications and heavy weaponry help hunters defend against formidable foes. This location provides unique challenges and rewards, making it a key training ground for experienced hunters.",
+    "type": "location",
+    "title": "The Red Stronghold",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Coral Palace",
+    "value": "The Coral Palace is a two-level battleground featuring temple-like structures and coral-covered rocks. The upper level, accessible by Wirebug, houses Rampage installments like cannons and a Dragonator. The arena changes color based on the opponent: yellow for Thunder Serpent Narwa, blue for Wind Serpent Ibushi. Defeating Ibushi collapses the floor, revealing a lower nest-like level bathed in purple light. Here, Narwa absorbs Ibushi's life force, becoming Narwa the Allmother. The lower level restricts the use of large Rampage weapons, adding complexity to the battle.",
+    "type": "location",
+    "title": "Coral Palace",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Infernal Springs",
+    "value": "The Infernal Springs is an arena-style location unlocked after completing 5 Advanced quests, accessible post-defeating Crimson Glow Valstrax. This heated area features a central river, with cannons positioned in it during specific quests like the Amatsu fight. Pillars and Great Wirebugs line the arena, and ballista installations are found on both sides. The terrain challenges hunters with intense heat, constant danger from falling debris, and strategic monster encounters, making it a proving ground for skilled hunters seeking exclusive rewards.",
+    "type": "location",
+    "title": "Infernal Springs",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Wirebug",
+    "value": "Wirebug is a versatile tool that allows hunters to traverse the environment with agility. It shoots a silk thread, enabling rapid climbing, swinging, and dodging. Hunters use it to evade monster attacks or quickly reposition in battle. The Wirebug also enhances certain weapons with Silkbind attacks, adding powerful, wire-assisted strikes. Originating from a rare insect found in the Guiding Lands, the Wirebug has become essential for hunters seeking to master both terrain and combat.",
+    "type": "Equipment ",
+    "title": "Wirebug",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Slinger",
+    "value": "The Slinger is a versatile tool attached to the left arm of a Hunter's armor. Resembling a small crossbow, it matches the armor's appearance. It functions as an enhanced slingshot, loading man-made ammo or environmental objects with speed and precision. Additionally, it features a grappling hook for long-distance travel via Wingdrakes, vertical mobility with Wedge Beetles, or mounting onto monsters.",
+    "type": "Equipment ",
+    "title": "Slinger",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Clutch Claw",
+    "value": "The Clutch Claw is a versatile grappling tool used by hunters. It allows them to latch onto monsters, controlling their movements and delivering precise strikes. The Claw also enables the use of powerful slam attacks by manipulating the monster's body. Its durability and functionality make it a favored equipment among experienced hunters seeking to dominate their prey. Recent advancements have added a retractable blade for added versatility, making it indispensable for close-range combat.",
+    "type": "Equipment ",
+    "title": "Clutch Claw",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Great Swords",
+    "value": "Great Swords are large, slow weapons. They have a sideswipe, upswing, and downstrike. Hitting with the blade's middle yields a damage bonus. They charge attacks, with a Level 3 charge being highly damaging. Hunters are stable while charging and can block, though blocking depletes sharpness. Hunters can use K.O. side-slaps and curled charge attacks, and finishing slashes, making combos more fluid.",
+    "type": "Weapons ",
+    "title": "Great Swords",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Humans",
+    "value": "Humans are the second-most technologically advanced race in the Monster Hunter world, varying in shape, color, and size. They are the most populous race and occupy a middle position in the social ladder. Most monster hunters are humans, and they borrow technology from Wyverians while innovating their own. They live in diverse environments and excel in adapting to different cultures and ecosystems. Humans often work collaboratively with other races, especially in ecological projects and technological advancements.",
+    "type": "race",
+    "title": "Humans",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Zenny",
+    "value": "Zenny is the primary currency in the world, used by all races for trade and commerce. It is represented by gold, silver, and copper coins, each stamped with unique designs and symbols. The coins are minted by the Hunter's Guild and are accepted universally. Zenny is used to purchase gear, resources, and services from merchants, blacksmiths, and traders. Its value is stable, ensuring fair trade practices across different regions and cultures. The name 'Zenny' originates from an ancient word meaning 'value,' reflecting its role as the backbone of the economy.",
+    "type": "Currency ",
+    "title": "Zenny",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Neko",
+    "value": "Nekos are feline humanoids, standing 5 feet tall, with human facial features, hair, cat eyes, ears, tails, retractable claws, cat teeth, and tongues. They sport varied fur patterns and lengths. Nekos avoid clothing and armor, using war and body paint instead. Known for their hunting prowess, they wield various weapons. Unfortunately, the entire Neko race was wiped out by an extremely powerful monster, leaving only one surviving member, whose name and full appearance remain unknown, resulting in numerous tales and legends about them. They can live as long as Wyverians.",
+    "type": "race",
+    "title": "Neko",
+    "description": "",
+    "useForCharacterCreation": false
+  }
+]
