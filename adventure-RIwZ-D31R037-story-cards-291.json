@@ -2326,5 +2326,1165 @@
     "title": "Neko",
     "description": "",
     "useForCharacterCreation": false
+  },
+    {
+    "keys": "Apceros",
+    "value": "Apceros. Physiology: Apceros are herbivorous reptiles that frequent desert and volcanic areas. They have a body structure similar to Aptonoth, their evolutionary cousins. Abilities: Usually, Apceros attack by headbutting and whipping foes with their spiked tails. They are infamous for their tactic of slowly stalking the hunter, eventually tightly surrounding them, preventing movement. Behavior: Apceros are territorial monsters and will attack any intruder on sight. They will not give up fighting until the enemy has fallen or they are dead.",
+    "type": "Herbivore",
+    "title": "Apceros",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Aptonoth",
+    "value": "Aptonoth. Physiology: Aptonoth are cow-like creatures with leathery gray skin. They have black stripes along their backs and a head reminiscent of a Hadrosaur. Behavior: These docile creatures are hunted for their meat by humans and other monsters. They always travel in groups.",
+    "type": "Herbivore",
+    "title": "Aptonoth",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Bullfango",
+    "value": "Bullfango. Physiology: Bullfango are large boar-like quadrupeds. Mainly covered in brown fur, they have whitish underbellies along with darker grayish tufts on their heads and backs. Abilities: Bullfango are quite fast; ramming the target is their primary (and only) method of attack. Behavior: These beasts are sometimes found in groups and will charge at anything that enters their eyeline. They are very territorial, and have been a nuisance to many hunters.",
+    "type": "Fanged Beast",
+    "title": "Bullfango",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Cephalos",
+    "value": "Cephalos. Physiology: Cephalos' body shapes are streamlined and flat, to help them swim through the sand. They have a vaguely hammer-shaped head, with eyes that face upwards. Abilities: These monsters are surprisingly social, swimming through the loose sand and hunting in packs. They are predatory, and can work together to defeat creatures many times their size. Behavior: Mildly aggressive, they can become a nuisance when fighting other monsters. {{-}}",
+    "type": "Piscine Wyvern",
+    "title": "Cephalos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Felyne",
+    "value": "Felyne. Physiology: Felynes resemble bipedal cats and are capable of human language. They typically have light fur, but can come in a variety of colors and patterns. Abilities: Felynes perform a small variety of jobs in villages, from shop-keeping to farm maintenance, but most notably they may work under a hunter as Felyne Chefs or Felyne Comrades. Felyne Chefs cook food for their hunters to support them in their adventures by temporarily bestowing them with beneficial status effects while Felyne Comrades, also known as Palicoes, assist their hunters on quests by using various skills and attacks.",
+    "type": "Lynian",
+    "title": "Felyne",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Hornetaur",
+    "value": "Hornetaur. Physiology: Hornetaur resemble crickets of the real world. Like the related Vespoid, they are highly susceptible to poison. Abilities: Hornetaurs will frequently attack the hunter in groups, making it irksome to fight other monsters in the area. If hit with normal weapons, these monsters will frequently shatter completely.",
+    "type": "Neopteron",
+    "title": "Hornetaur",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Kelbi",
+    "value": "Kelbi. Physiology: Kelbi are small deer-like creatures that pose very little threat, although they have longer tails. They are usually either green (male) or blue (female or juvenile). Behavior: They will often run around in areas, commonly in groups of four. They will jump 4 times, stop for a few seconds, and continue jumping.",
+    "type": "Herbivore",
+    "title": "Kelbi",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Mosswine",
+    "value": "Mosswine. Physiology: Mosswine are small, moss-covered pigs. They have a gray, spiky head plate. Behavior: Mosswine are generally docile by nature, but will attack if provoked, whether by other monsters or hunters. They can prove deadly when a wyvern is present, because even getting hit by a wind effect will turn them hostile.",
+    "type": "Herbivore",
+    "title": "Mosswine",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Vespoid",
+    "value": "Vespoid. Physiology: Vespoids are yellow-and-purple wasp-like insects roughly the size of a housecat. They have barbed stingers at the end of their abdomens, and fly using two pairs of wings. Abilities: They are known to be a nuisance for hunters, due to their stings that cause hunters to flinch, resulting in them being exposed to any further attacks. Their stingers are loaded with a neuro-toxin that can paralyze foes. Behavior: Vespoids can be found in almost any environment.",
+    "type": "Neopteron",
+    "title": "Vespoid",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Cephadrome",
+    "value": "Cephadrome. Physiology: The Cephadrome has yellow eyes, yellow or pink fins and blue or purple scale covered skin. This skin appears brownish black due to sand covering their body. Abilities: Their caution in fighting causes them to run away frequently by diving into the sand. They use hipchecks, tail swipes, and shoot sand streams to damage hunters. Behavior: Cephadrome are very aggressive, but will assume evasive maneuvers if they sense that the threat is too dangerous.",
+    "type": "Piscine Wyvern",
+    "title": "Cephadrome",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Plesioth",
+    "value": "Plesioth. Physiology: Plesioth are bipedal monsters with a wyvern-esque body structure. They have webbed feet and a paddle-like tail, and are covered in shiny, fish-like scales. Abilities: Plesioth can fire highly pressurized jets of water at foes, and can use their massive size and weight to crush and batter attackers. They are highly adept at swimming and are both agile and deadly in the water. Behavior: Plesioth are ambush predators, adapted to stalking prey from the water and attacking by surprise. They can occasionally be seen on land.",
+    "type": "Piscine Wyvern",
+    "title": "Plesioth",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Green Plesioth",
+    "value": "Green Plesioth. Physiology: Green Plesioth is identical in body structure to the common species. It differs greatly in coloration however, featuring deep green scales along with white and purple striped spines and fins. Abilities: Green Plesioth is a highly adept swimmer, which gives it a distinct advantage over human hunters during underwater combat. It is able to wield its water sac with more skill and precision than the common species. Behavior: Green Plesioth is a highly aggressive wyvern. It has an uncanny ability to determine if there are multiple hunters in an area.",
+    "type": "Piscine Wyvern",
+    "title": "Green Plesioth",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "White Monoblos",
+    "value": "White Monoblos. Physiology: White Monoblos features a bright white carapace covering most of its body. As a result, the flushes of blood to its frill when enraged are significantly more striking. Abilities: The shell of White Monoblos is harder than that of a normal Monoblos, thus increasing its defense. Behavior: White Monoblos behaves essentially the same as its normal counterpart. When not engaged with a hunter it tends to frequently move underground, which can make it hard to track.",
+    "type": "Flying Wyvern",
+    "title": "White Monoblos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Anteka",
+    "value": "Anteka. Physiology: Anteka is commonly perceived as the snowy region's counterpart to the Kelbi of the forest and jungle regions. Anteka have a similar build to caribou. Behavior: Anteka are territorial when provoked and will often retaliate by charging at attackers with their antlers.",
+    "type": "Herbivore",
+    "title": "Anteka",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Ceanataur",
+    "value": "Ceanataur. Physiology: Similar in appearance to the Hermitaur with sharper claws, leg stubs and a higher-edge shell. The shell on its back was actually grown by the Ceanataur itself. Abilities: It is able to spit a small ball of poisonous fluid at foes. Sometimes, a Ceanataur may wait beneath the ground for prey or a hunter to pass, jumping out of the ground and striking them when they walk over. Behavior: Ceanataur lives mainly in Volcano, where its extremely sharp claws allow it to tunnel through the dense rock. {{-}}",
+    "type": "Carapaceon",
+    "title": "Ceanataur",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Conga",
+    "value": "Conga. Physiology: They resemble pink gorillas with a face of a hippopotamus, black underbellies and have a blonde patch of hair on top of their head. Abilities: They are known for their ability to charge at hunters, like Bullfangos (but slower), travel in packs, and fart on hunters, they will try to body slam hunters as well. {{-}}",
+    "type": "Fanged Beast",
+    "title": "Conga",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Great Thunderbug",
+    "value": "Great Thunderbug. Physiology: Despite their name, each Great Thunderbug is actually a colony of Thunderbugs, and their electricity causes them to appear as spheres of blue light. Abilities: Great Thunderbugs are known to change into two different colors: blue and reddish-white. When in their normal and docile state, they are blue, but when attempting to attack, the blue hue becomes a fierce, glowing reddish-white; if they strike a hunter in this state they will cause notable damage. Behavior: Great Thunderbugs are naturally found in the Tower and Jungle.",
+    "type": "Neopteron",
+    "title": "Great Thunderbug",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Hermitaur",
+    "value": "Hermitaur. Physiology: Hermaitaur are hermit crab-like monsters with red carapaces and a thick white shell. The shell is grown by the crab itself; only when they grow much larger, into a Daimyo Hermitaur, will they replace it with a Monoblos skull, or into a Black Diablos skull if they grow into the Plum Daimyo Hermitaur. Behavior: When they are left undisturbed, Hermitaurs are most often seen picking through sand with their claws, presumably searching for food. Sometimes, a Hermitaur may wait under the ground for prey or a hunter to pass, jumping out from hiding and striking them when they walk overhead.",
+    "type": "Carapaceon",
+    "title": "Hermitaur",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Popo",
+    "value": "Popo. Physiology: Popo is a type of large muskox-like Herbivore that resembles a woolly Toxodon or a yak in its body structure. They are covered in long and fluffy fur to protect them from the cold. Behavior: Popo are very docile creatures and will run when one of their members in a group is under attack or when a Wyvern enters their area. They will also group together when a large monster is near, like the Aptonoth in more temperate climates.",
+    "type": "Herbivore",
+    "title": "Popo",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Remobra",
+    "value": "Remobra. Abilities: They attack by spitting poison and use a variety of melee attacks, such as flicks of the tail and flying tackles. These attacks are not extremely dangerous but offer great annoyance if the hunter is engaged with a larger, more attention-demanding foe. Behavior: They have been spotted in almost every area, but they mainly live in the Volcano and the Swamp. They travel in groups and live in damp, water-rich areas such as the Tower, Jungles, Swamp, and Gorge.",
+    "type": "Snake Wyvern",
+    "title": "Remobra",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Shakalaka",
+    "value": "Shakalaka. Physiology: Shakalaka are small, humanoid creatures with green skin. They wear a mask over their heads at all times, so their true faces are unknown. Abilities: Shakalaka should not be underestimated; they can easily take out an unsuspecting hunter with exceedingly quick attacks and inflictions of poison. They are rather clumsy when they attack, but may also be armed with Bounce Bombs and Sleep Bombs. Behavior: Shakalaka are known to inhabit a wide variety of environments. A Shakalaka settlement has been discovered in the Great Forest.",
+    "type": "Lynian",
+    "title": "Shakalaka",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Daimyo Hermitaur",
+    "value": "Daimyo Hermitaur. Physiology: Daimyo Hermitaur has a large, crab-like body. It is covered in a red and white carapace and wears the skull of a Monoblos as a protective shell. Abilities: It can use its claws as shields to defend itself from attackers, and, as with the Monoblos, can also use them to dig into the earth in order to attack foes from below. It can shoot pressurized jets of water and can use its massive weight to crush enemies. Behavior: Daimyo Hermitaur is a rather passive creature, sometimes failing to take notice of hunters standing only feet in front of it.",
+    "type": "Carapaceon",
+    "title": "Daimyo Hermitaur",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "King Shakalaka",
+    "value": "King Shakalaka. Physiology: King Shakalaka is slightly larger than its subjects, but generally looks identical. It wears a BBQ spit upon its head, and weilds a thighbone as a club. Abilities: King Shakalaka is surprisingly strong for its size, able to cause a great deal of damage. It is able to launch fireballs from the BBQ spit atop its head. Behavior: The King Shakalaka is an aggressive leader. Its leadership skills come from its bond shared between it and its minions, but it relies on teamwork in order to bring down an opponent.",
+    "type": "Lynian",
+    "title": "King Shakalaka",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Shen Gaoren",
+    "value": "Shen Gaoren. Physiology: Identifiable by its grey exoskeleton, towering legs and the gigantic green-yellow balls of acid that it generates and hurls from the rear of its body. Shen Gaoren uses a Lao-Shan Lung skull for protection. Abilities: Unlike Lao-Shan Lung, Shen Gaoren will occasionally pause to attack hunters directly, trying to slam one of its huge claws down upon one. It may do this twice or even 3 times before proceeding along its path through the valley. Behavior: Shen Gaoren is relatively passive by nature. It moves about without noticing hunters; when enraged however, it may attempt to attack hunters with its huge sturdy claws or move its legs and pincers wildly.",
+    "type": "Carapaceon",
+    "title": "Shen Gaoren",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Shogun Ceanataur",
+    "value": "Shogun Ceanataur. Physiology: Shogun Ceanataur's body is covered in a blue carapace. Its head is long and knife-shaped, and features a pair of lengthy antennae. Abilities: Shogun Ceanataur is capable of firing a stream of pressurized liquid from its shell. In addition, it is able to climb on walls and ceilings, and can extend and retract its scythe-like claws. Behavior: Shogun Ceanataur, unlike the Daimyo Hermitaur, demonstrates extreme aggression and will defend itself vigorously if threatened. It is often seen alongside a group of younger Ceanataur.",
+    "type": "Carapaceon",
+    "title": "Shogun Ceanataur",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Lavasioth",
+    "value": "Lavasioth. Physiology: Lavasioth resembles a bipedal coelacanth fish covered in hardened lava, which forms a tough outer shell. It has two dorsal fins, two pectoral fins, two pelvic fins, and a long, thick tail to help swim through the thick lava it resides in. Abilities: Its attacks and movements are vaguely similar to those of a Plesioth. It can fire huge balls of magma at hunters. Behavior: Lavasioth is a rarely-seen Piscine Wyvern, living and swimming in lava. Like most large monsters, it is territorial and will attack intruders on sight.",
+    "type": "Piscine Wyvern",
+    "title": "Lavasioth",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Plum Daimyo Hermitaur",
+    "value": "Plum Daimyo Hermitaur. Physiology: Unlike the common Daimyo Hermitaur, this subspecies sports a purple and white carapace, and wears a Diablos skullshell instead of a Monoblos skullshell. Unlike its red counterpart, the Plum Daimyo Hermitaur is weak against Ice, rather than Thunder. Behavior: Much like its cousin, the Plum Daimyo Hermitaur is docile until provoked or aggravated. Its territory is expansive and thus impossible for it to defend, leading it to be something of a nomad, wandering from place to place in search of food.",
+    "type": "Carapaceon",
+    "title": "Plum Daimyo Hermitaur",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Terra Shogun Ceanataur",
+    "value": "Terra Shogun Ceanataur. Physiology: While considered a Subspecies by the Guild, Terra Shogun Ceanataur is actually the same species as Shogun Ceanataur. Terra Shogun Ceanataurs are particularly aggressive Shogun Ceanataurs that have moved to harsher environments, such as volcanoes and swamps, to live in solitude. Abilities: Terra Shogun Ceanataur, as is normal for a rarer subspecies, is slightly stronger, faster and has more health than the common species. Behavior: Terra Shogun Ceanataur are found in Swamp and the Volcano.",
+    "type": "Carapaceon",
+    "title": "Terra Shogun Ceanataur",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Vespoid Queen",
+    "value": "Vespoid Queen. Physiology: The Vespoid Queen looks similar to the average Vespoid but is several times larger, with a more pronounced abdomen and giant, rainbow coloured wings. She has a ridged exoskeleton covering her soft innards and she has a crown-like structure atop her head. Abilities: She has a large stinger on her tail that releases a gas which inflicts the Defense Down ailment. When sprayed with the Vespoid Queen's gas, the Vespoids in the area become much more aggressive. Behavior: Thus far, the Vespoid Queen appears to be limited to the Jungle and Old Jungle.",
+    "type": "Neopteron",
+    "title": "Vespoid Queen",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Altaroth",
+    "value": "Altaroth. Physiology: An interesting note about the Altaroth is that they can absorb mushrooms, berries, and other resources into the sacs on their backs. When hunters kill an Altaroth in this state, they will drop a shiny item depending on what they have absorbed. Abilities: Altaroth can shoot a greenish-yellowish liquid from their abdomens, which will inflict a temporary defense drop. Aside from that, they will use their large mandibles to attack. Behavior: Altaroth are found in a wide range of habitats, ranging from forests to volcanic regions (i.e. Volcano, Flooded Forest, Sandy Plains, Deserted Island and Misty Peaks).",
+    "type": "Neopteron",
+    "title": "Altaroth",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Bnahabra",
+    "value": "Bnahabra. Physiology: Bnahabra are similar to the Vespoid from previous generations. Bnahabra fly in a similar fashion and can also cause paralysis with their stingers. Abilities: Unlike the Vespoid, Bnahabra can shoot a corrosive liquid which will reduce a hunter's elemental resistance to Fire, Water, Ice, or Thunder depending on the region. {{-}}",
+    "type": "Neopteron",
+    "title": "Bnahabra",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Delex",
+    "value": "Delex. Abilities: Much like the Cephalos, they have the ability to \"swim\" through sand and even expel small sand blasts from their mouth at attackers. These blasts may occasionally inflict Waterblight.",
+    "type": "Piscine Wyvern",
+    "title": "Delex",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Epioth",
+    "value": "Epioth. Physiology: The Epioth is a fish-like creature. They have four flippers, with a small nub on the tips and spikes along the end of the flipper. Behavior: Being very timid creatures, they will generally flee when attacked. However, they will occasionally fight back with slams and tail slaps.",
+    "type": "Herbivore",
+    "title": "Epioth",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Fish",
+    "value": "Fish. Physiology: A variety of different fish species exist and can be generally classified as migratory, natatorial, or carnivorous fish. Fish are likely a favorite food source for numerous other aquatic or semi aquatic creatures.",
+    "type": "Fish",
+    "title": "Fish",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Ludroth",
+    "value": "Ludroth. Physiology: Ludroth are mostly yellow-green in coloration, with long, sinewy bodies that enable swift and sweeping underwater movements to confuse their prey. Their claws are stubby, but effective, their strong tails end in reinforced bony segments, and their powerful jaws grant then moderately strong bites. Abilities: Ludroth are capable of producing globules of mucus that they can spit at enemies. The mucus inflicts Waterblight on hunters, which slows the speed of stamina recovery. Behavior: Ludroth are amphibious monsters that should not be taken lightly.While on land, they can utilize their serpentine build to slither and pounce on hunters, as well as spitting mucus globules. When threatened, they emit a barking noise.",
+    "type": "Leviathan",
+    "title": "Ludroth",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Rhenoplos",
+    "value": "Rhenoplos. Physiology: Rhenoplos is a small, quadrupedal, ceratopsian-like monster with an armored body, resembling the real-world Protoceratops or the square-frilled, short brow-horned Chasmosaurus. Its face features a small nasal horn and the back of its head is surrounded by a bony frill. Behavior: Similar to the Bullfango, Rhenoplos are highly aggressive and tend to charge any hunters they may hear or smell, as their vision is lacking.",
+    "type": "Herbivore",
+    "title": "Rhenoplos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Uroktor",
+    "value": "Uroktor. Physiology: Just like their adult form, the Agnaktor, they have the remarkable ability to tunnel through solid volcanic rock. Uroktor are distinguished by their reddish-purple skin, which protects them from both the sweltering heat and volcanic predators. Abilities: As a minion monster, Uroktor are naturally unremarkable. They move about the field by burrowing, and can attack in 3 ways.",
+    "type": "Leviathan",
+    "title": "Uroktor",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Great Baggi",
+    "value": "Great Baggi. Physiology: = {| class=\"wikitable\" width=\"100%\" style=\"text-align:center; background-color:#EBEBEB;\" ! colspan=\"4\" style=\"background:#3A5766; color:#ffffff\" | Hitzone Damage Data |- ! Abilities: It has developed its own unique ability; it can spit a tranquilizing liquid that inflicts sleep on its prey or hunters. It also has developed the ability to command Baggi to surround prey or hunters and spit tranquilizing liquid at them with a roar. Behavior: Great Baggi and Great Jaggi are often seen to be hostile towards other boss monsters; when in the same area they will occasionally cease fighting the hunter to attack other monsters.",
+    "type": "Bird Wyvern",
+    "title": "Great Baggi",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Great Jaggi",
+    "value": "Great Jaggi. Physiology: Great Jaggi's distinctive feature is its frill and the lavender scales with the crimson and tangerine overrides on the frills and the abdomen part, but also the furs that grow on its neck and along the back down to the middle tip of the tail. Great Jaggi's muzzle are particularly thinner and much more wrinkly than the other Bird Wyverns. Abilities: Great Jaggi, along with the Great Baggi, may attack other boss monsters instead of focusing solely on the hunter, indicating a highly competitive and intelligent demeanor. It can also call its pack of Jaggi to its aid at any time with a loud, resonating roar.",
+    "type": "Bird Wyvern",
+    "title": "Great Jaggi",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Slagtoth",
+    "value": "Slagtoth. Physiology: Slagtoth (resembling the real-world Pachyrhinosaurus) have a green, saggy hide covering most of their body, most notably drooping near the sides of the head and along their flanks. They have a pale yellow underbelly and a black nasal boss and nose. Behavior: Slagtoth are extremely territorial; the males will attack both Hunters and Wyverns. They attack Hunters by ramming with the bone lump on their snouts and body-slamming.",
+    "type": "Herbivore",
+    "title": "Slagtoth",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Brute Tigrex",
+    "value": "Brute Tigrex. Physiology: Brute Tigrex features a darker, more muted color palette of various shades of grey, brown, and beige. It apparently possesses a more robust set of lungs than the common species, as evidenced by its increased roaring capacity. Abilities: Brute Tigrex is capable of using its powerful forelimbs to trample opponents, and can produce incredibly concussive roars which can send nearby objects flying. Behavior: This subspecies will exhibit similar behavior to its common counterpart, but it is more brutal and aggressive when approaching and engaging prey and attackers alike.",
+    "type": "Flying Wyvern",
+    "title": "Brute Tigrex",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Glacial Agnaktor",
+    "value": "Glacial Agnaktor. Physiology: Its body is covered in an icy armor covering that works in reverse to the normal Agnaktor, it hardens when it burrows and softens over time. It also appears to have a longer, harder and sharper beak, useful for digging through the ice of the Tundra. Abilities: It attacks with a beam composed of ice and water, similar to the normal Agnaktor's fire beam, that inflicts Waterblight. Unlike the normal Agnaktor, it can sweep the beam from side to side as well as moving it in circles. Behavior: Glacial Agnaktor is found only in the Tundra.",
+    "type": "Leviathan",
+    "title": "Glacial Agnaktor",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Great Wroggi",
+    "value": "Great Wroggi. Physiology: = {| class=\"wikitable\" width=\"100%\" style=\"text-align:center; background-color:#EBEBEB;\" ! colspan=\"4\" style=\"background:#3A5766; color:#ffffff\" | Hitzone Damage Data |- ! Abilities: The most prominent feature of a Great Wroggi is its delicate, translucent sac-like organ around the neck. Because of its translucence, poison can be seen in the sac before it spews out as a toxic mist.",
+    "type": "Bird Wyvern",
+    "title": "Great Wroggi",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Stygian Zinogre",
+    "value": "Stygian Zinogre. Physiology: Overall, they share the same body structure as a regular Zinogre, albeit with some notable differences. They now sport color schemes of grey, white and red and are typically larger than normal individuals, and in addition are perpetually covered in red bolts made of dragon energy thanks to it bonding with Dracophage Bugs; Fulgar Bugs that feed on dragonfell berries. Abilities: Its thunder-like attacks are different in coloring from the ordinary Zinogre; this crimson red/black lightning deals Dragon-Element damage. It is able to imbue its attacks with Dragon Element due to its absorption of multiple bugs that feed on Dragonfell berries. Behavior: Due to living in both the Tundra and Volcano where food is not always plentiful Stygian Zinogre have to be highly aggressive to other predators for food and territory.",
+    "type": "Fanged Wyvern",
+    "title": "Stygian Zinogre",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Konchu",
+    "value": "Konchu. Physiology: Konchu have hard shells and can roll into a ball and attack in groups for protection, although they are still frequently preyed upon by Yian Kut-Ku and Yian Garuga. Behavior: Konchu are found in a wide variety of areas, where they scavenge in the undergrowth in search of food. {{-}}",
+    "type": "Neopteron",
+    "title": "Konchu",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Zamite",
+    "value": "Zamite. Physiology: Zamite are small, shark-like creatures with relatively large mouths that house many rows of sharp teeth. They have been observed in various stages of development. Behavior: Zamite behave similar to Giggi in the manner of aggressively attacking any possible food source and draining them of their vital fluids.",
+    "type": "Amphibian",
+    "title": "Zamite",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Najarala",
+    "value": "Najarala. Physiology: Najarala is a large Snake Wyvern with bright green skin adorned with large orange-yellow plates on its back and tail. It has a long serpentine body with small though fully functional fore- and hindlimbs that aid it in moving around on uneven ground. Abilities: Najarala is capable of burrowing underground and attacking unsuspecting enemies or prey from below. Its fangs can deliver a potent paralyzing venom in order to subdue its opponents if they were to attempt escape from its circling trap attack. Behavior: It is an aggressive ambush predator that will strike when prey is in reach. Najarala will also utilize the misty fog in its environment to launch ambush attacks on unsuspecting hunters or prey.",
+    "type": "Snake Wyvern",
+    "title": "Najarala",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Nerscylla",
+    "value": "Nerscylla. Physiology: Nerscylla physically resembles a real life arachnid, but is much larger in size. Its body is mainly white, with dark blue and gray markings around its joints and orange hairs on its appendages and abdomen. Abilities: Nerscylla is adaptable to different environments and capable of spinning a large amount of silk web very quickly. The silk it uses to swing itself across the air and to capture prey is very durable and sticky, so breaking free is difficult. Behavior: Nerscylla weave nests of durable web in the Sunken Hollow. When they abandon their nest, they can be seen wandering in other areas such as the Primal Forest and the Everwood.",
+    "type": "Temnoceran",
+    "title": "Nerscylla",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Seltas",
+    "value": "Seltas. Physiology: Seltas is a large, mantis like insectoid with a brightly-colored, highly resistant exoskeleton, which is covered in spines and knobs. He has six legs, the foremost pair are armored and weaponized for combat, and a pair of collapsible wings. Abilities: Seltas is capable of highly precise movement in air, thanks to his highly-developed wings. His forelimbs are designed for jabbing and slashing, and will also spear his prey with its armored canopy. Behavior: Seltas are predatory in nature, both large and powerful enough to prey on both hunters and small monsters alike. They are known to attack from the skies and use their weaponized forelimbs to attack.",
+    "type": "Neopteron",
+    "title": "Seltas",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Seltas Queen",
+    "value": "Seltas Queen. Physiology: The Seltas Queen is a very large, beetle-like Neopteron with an armor-like exoskeleton covering its body. She is primarily a lustrous green color, but also features beige stripes and orange spines. Abilities: Seltas Queen can use her large, heavy limbs or weaponized tail to incapacitate prey. She also makes use of the Water element, frequently shooting large water globs in a rapid-fire fashion. Behavior: Seltas Queen exhibits a strong symbiosis with her male counterpart, Seltas. As she is incapable of flight, she is always accompanied by a male that is capable of lifting her and transporting her elsewhere.",
+    "type": "Neopteron",
+    "title": "Seltas Queen",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Tetsucabra",
+    "value": "Tetsucabra. Physiology: Tetsucabra is a large Amphibian with a striking orange and indigo coloration. Its lower jaw harbors large tusks along with a large set of molars that are capable of crushing prey with ease. Abilities: Tetsucabra is capable of lifting up large boulders like a forklift and tossing them at attackers. It will also use the boulders as shields against attackers and to block off paths in areas. Behavior: Tetsucabra is known to inhabit the Sunken Hollow, where it ambushes its prey from pools of water. It can also be seen in the Frozen Seaway and the Everwood.",
+    "type": "Amphibian",
+    "title": "Tetsucabra",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Zamtrios",
+    "value": "Zamtrios. Physiology: Zamtrios is a large, quadrupedal monster with grey-blue skin and yellow fins. It is superficially shark-like in appearance, with a long, pointed snout and a mouth filled with multiple rows of sharp teeth. Abilities: Zamtrios is a predator, known to launch surprise attacks on prey from beneath the sea ice. When sufficiently threatened or enraged, it will secrete a reactive fluid through its skin, which solidifies into an ice-like material, forming an \"armor\" over its skin to prevent damage. Behavior: Zamtrios is a predator, known to launch surprise attacks on prey from beneath the sea ice. When sufficiently threatened or enraged, it will secrete a reactive fluid through its skin, which solidifies into an ice-like material, forming an \"armor\" over its skin to prevent damage.",
+    "type": "Amphibian",
+    "title": "Zamtrios",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Ash Kecha Wacha",
+    "value": "Ash Kecha Wacha. Physiology: In contrast to the bright orange pelt of the normal species, it has a washed blueish fur with black coloration on the hands, feet and head. The mask on its ears has a yellow-orange pattern on a dark background. Abilities: This subspecies seems to be able to spit flaming projectiles at its foes, rather than the watery globules of its common counterpart. Behavior: Ash Kecha Wacha can be found at the Ancestral Steppe, Everwood and Primal Forest.",
+    "type": "Fanged Beast",
+    "title": "Ash Kecha Wacha",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Berserk Tetsucabra",
+    "value": "Berserk Tetsucabra. Physiology: Berserk Tetsucabra has a dark green body with a grey tail and brown tusks due to the soot and gas from the explosions caused by explosive rocks. The monster's face will also become orange from each explosion as well. Abilities: While the attacks displayed so far look similar enough to the normal Tetsucabras; this subspecies is clearly more violent and destructive. They are able to easily crush explosive rocks with their jaws to create a wide-radius explosion. Behavior: Berserk Tetsucabra can be found in the Sunken Hollow, Everwood and Volcanic Hollow.",
+    "type": "Amphibian",
+    "title": "Berserk Tetsucabra",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Desert Seltas",
+    "value": "Desert Seltas. Physiology: This subspecies features a green, orange and brown shell, and seems to have reduced flight capacity. Its canopy features a double-pronged structure, rather than the single barbed spine of the common species, and its eyes shine a bright green. Abilities: Unlike the common species, Desert Seltas is capable of digging through the sand to attack prey from below. It can also shoot three yellow globs that cause paralysis. Behavior: Desert Seltas can be found in the Dunes, Ancestral Steppe, and Sunken Hollow.",
+    "type": "Neopteron",
+    "title": "Desert Seltas",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Desert Seltas Queen",
+    "value": "Desert Seltas Queen. Physiology: She has a brownish olive-green shell and a narrower tail pincer than that of the common species. Her eyes are bright green like those of the Desert Seltas. Abilities: The tail seems much longer and more articulate and is able to pull her digging male counterpart out of the sand. She is even capable of using her tail to mount and launch a mate or a pinned hunter on a water blast with startling accuracy, the former shattering the drone to pieces and enabling pulling a new drone out of the ground. Behavior: Desert Seltas Queen can be found in the Dunes.",
+    "type": "Neopteron",
+    "title": "Desert Seltas Queen",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Shrouded Nerscylla",
+    "value": "Shrouded Nerscylla. Physiology: It is very similar to its common counterpart; however, its body is a dark gray with white stripes and purple markings, its underside and spikes are a bright yellow, its hairs are a light turquoise, and its front claws are pink. Instead of a Gypceros hide, Shrouded Nerscylla wears a Khezu hide. Abilities: Shrouded Nerscylla can inflict paralysis with its back spikes and claws, and seems to demonstrate a mastery of web traversal, able to change direction mid-air by swinging on a different thread. Behavior: Shrouded Nerscylla can be found within the Dunes and the Everwood. {{-}}",
+    "type": "Temnoceran",
+    "title": "Shrouded Nerscylla",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Tidal Najarala",
+    "value": "Tidal Najarala. Physiology: Tidal Najarala features a blue, yellow and grey hide lined with rows of purple and green spines. Abilities: Unlike the common relative Najarala, this subspecies can spit watery globules at its victims. It also develops a new attack using its shedable scales. Behavior: Tidal Najarala can be found in the Frozen Seaway, where it surprises unsuspecting prey by burrowing through the ice and utilizing its camouflage. The snake wyverns can also be found in more mild climate areas like the Everwood as well.",
+    "type": "Snake Wyvern",
+    "title": "Tidal Najarala",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Tigerstripe Zamtrios",
+    "value": "Tigerstripe Zamtrios. Physiology: It has an orange-brown body color with some red shades mixed in it while fins and belly are more blueish. Abilities: Just like its arctic counterpart, the sandy Tigerstripe Zamtrios retains the same attacks, but seemingly able to use them better. For one, it can immediately inflate itself, and start a rolling attack right away, instead of doing so after taking enough damage. Behavior: Tigerstripe Zamtrios is found in the Dunes. {{-}}",
+    "type": "Amphibian",
+    "title": "Tigerstripe Zamtrios",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Chaotic Gore Magala",
+    "value": "Chaotic Gore Magala. Physiology: Despite the unique name, Chaotic Gore Magala is actually just a normal Gore Magala which has been traumatized or otherwise interrupted during the process of molting into a Shagaru Magala. Mature Shagaru Magala will use their virus to suppress the molting of all nearby Gore Magala, eliminating competition for their territory. Abilities: Chaotic Gore Magala retains all of the abilities of a Gore Magala, but boasts increased strength and ferocity due to being partially matured. Its partial transformation also gives it some of the Shagaru Magala's potential and abilities, such as increased power in its virus attacks. Behavior: The Chaotic Gore Magala is more violent and aggressive than a common Gore Magala. Its failed molting causes it to be in constant pain, and so it has an erratic, violent, and unpredictable nature that leads it to lash out at anything in its way.",
+    "type": "???",
+    "title": "Chaotic Gore Magala",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Maccao",
+    "value": "Maccao. Physiology: Maccao has a body shape similar to the dromaeosaurid dinosaurs. Its body is covered in green feathers with red underbelly.",
+    "type": "Bird Wyvern",
+    "title": "Maccao",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Moofah",
+    "value": "Moofah. Physiology: Moofah is a docile alpaca-like creature known for its long shaggy fur. Males have longer horns than females. Behavior: Moofahs can be found on the Deserted Island, some of them wander around Bherna as well.",
+    "type": "Herbivore",
+    "title": "Moofah",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Larinoth",
+    "value": "Larinoth. Physiology: Larinoth is a distinctively big monster, compared to other Herbivores and even many large monsters. It possesses a great height, which is mostly attributed to its extremely lengthy neck.",
+    "type": "Herbivore",
+    "title": "Larinoth",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Drilltusk Tetsucabra",
+    "value": "Drilltusk Tetsucabra. Physiology: Drilltusk Tetsucabra are very close to normal Tetsucabra in appearance, but bear a few distinctions from them. A Drilltusk's horns are longer and more pointed, similar to how its tusks are much longer than a normal Tetsucabra's.",
+    "type": "Amphibian",
+    "title": "Drilltusk Tetsucabra",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Stonefist Hermitaur",
+    "value": "Stonefist Hermitaur. Physiology: Stonefist Hermitaur sports blue-purple coloration throughout its body. Its left claw has grown larger in size and has larger spikes on the edges.",
+    "type": "Carapaceon",
+    "title": "Stonefist Hermitaur",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Thunderlord Zinogre",
+    "value": "Thunderlord Zinogre. Physiology: In its default state, the Thunderlord Zinogre resembles a fully-charged Zinogre. One of its horns is much larger than the other and its scales are green instead of the normal blue. Abilities: Thunderlord Zinogre has the same moves as Zinogre, although they are improved dramatically. Thunderlord Zinogre also has new ones of its own. Behavior: The Thunderlord Zinogre is a truly dangerous monster that is much stronger than a normal Zinogre. Hunters are required to have a special permit in order to hunt them.",
+    "type": "Fanged Wyvern",
+    "title": "Thunderlord Zinogre",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Ahtal-Ka",
+    "value": "Ahtal-Ka. Physiology: Ahtal-Ka is a large insect-like monster. It somewhat resembles a devil's flower mantis in appearance and the color scheme is similar to that of a classical Egyptian Pharaoh. Abilities: Ahtal-Ka compensates its lack of physical strength with cunning, using the golden silk it produces to bind to its back some steel beams it throws at enemies. Even without them, it is a dangerous opponent which attacks with its sharp claws and produces a pheromone that reduces the hunters' defense.",
+    "type": "Neopteron",
+    "title": "Ahtal-Ka",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Elderfrost Gammoth",
+    "value": "Elderfrost Gammoth. Physiology: All Elderfrost Gammoth are females and the male counterpart are not seen. Elderfrost Gammoth appears to have a more bluish fur than regular Gammoth. Abilities: Unlike the regular Gammoth the Elderfrost Gammoth is able to coat its legs with ice and not snow, it can also now cover its trunk with ice. The snowballs it throws are also larger than those of a regular Gammoth. Behavior: Like normal Gammoth, Elderfrost Gammoth is highly territorial and can be quite dangerous in certain places. This beast is said to able be to cause blizzards and avalanches in snowy regions from its immense strength alone.",
+    "type": "Fanged Beast",
+    "title": "Elderfrost Gammoth",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Nightcloak Malfestio",
+    "value": "Nightcloak Malfestio. Physiology: Nightcloak Malfestio has golden scales on its chest and the edges of its wings and bright red wing webbing and tail feathers. Its tail feathers are dark purple in color and resemble a four-pointed claw. Abilities: In addition to using larger clouds of confusion scales, Nightcloak Malfestio have the ability to turn invisible, like Lucent Nargacuga or Chameleos. They can also steal items from hunters. Behavior: Nightcloak Malfestio's use of invisibility allows it to more easily sneak up on prey, giving it a more aggressive disposition. Its devilish behavior and abilities mean that hunters require special permission to hunt it.",
+    "type": "Bird Wyvern",
+    "title": "Nightcloak Malfestio",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Rustrazor Ceanataur",
+    "value": "Rustrazor Ceanataur. Physiology: Rustrazor Ceanataur's look nearly identical to a normal Shogun Ceanataur, except for the claws, with the blades at the very end having a different shape, alongside there being an additional couple curved back spikes on top. These claws are usually brown in color, though they turn an iridescent blue color once sharpened. Abilities: Rustrazor Ceanataur has the ability to sharpen its claws using a Glavenus's skull, allowing for its claws to become more deadly in battle, including Defense Down, it even can perform Glavenus's infamous spin by using said skull. It will also use a Gravios skull, utilizing the mouth to spray beams of \"water\" at opponents. Behavior: Rustrazor Ceanataur is much more aggressive than a normal Shogun Ceanataur due to its deadly claws. Due to armor not protecting hunters against this Shogun Ceanataur's attacks, it was given the secondary name, Armor Shredder.",
+    "type": "Carapaceon",
+    "title": "Rustrazor Ceanataur",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Barnos",
+    "value": "Barnos. Physiology: Barnos are wingdrakes that resemble retro-style Pterosaurs. They have a pointed beak filled with teeth (making their head resemble that of the Pterodactylus) and a pair of very large draconic wings. Abilities: Barnos are the most violent of all wingdrakes, and will attack hunters at any cost. During missions on repelling Zorah Magdaros, Barnos will attack hunters. Behavior: Barnos are the most violent of all wingdrakes, and will attack hunters at any cost. During missions on repelling Zorah Magdaros, Barnos will attack hunters.",
+    "type": "Wingdrake",
+    "title": "Barnos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Gajalaka",
+    "value": "Gajalaka. Physiology: Like many Lynians, Gajalaka are short humanoids. They resemble Shakalaka more than Felynes or Grimalkynes, lacking any fur and wearing large tribal masks which leave only their bright yellow eyes visible, similar to Jawas. Abilities: The Gajalaka are aggressive towards large monsters and hunters and will attack with status-afflicting weapons if threatened. The Gajalaka are capable of dealing with Sleep, Paralysis, and Poison to both large monsters and players alike. Behavior: The Gajalaka are aggressive towards large monsters and hunters and will attack with status-afflicting weapons if threatened. The Gajalaka are capable of dealing with Sleep, Paralysis, and Poison to both large monsters and players alike.",
+    "type": "Lynian",
+    "title": "Gajalaka",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Gajalaka Chief",
+    "value": "Gajalaka Chief. Physiology: Lynian body plan and defining traits. Abilities: typical Lynian combat and survival adaptations. Behavior: common Lynian patterns such as territoriality, hunting, or herd movement.",
+    "type": "Lynian",
+    "title": "Gajalaka Chief",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Gajau",
+    "value": "Gajau. Physiology: Gajau have greenish scales with orange dorsal fins. They resemble catfish in appearance. Abilities: Gajau are vicious predatory fish; being one of the few fish species to attack hunters in the third generation. In the fifth generation, Gajau will even jump out of the water to capture prey. Behavior: Gajau are vicious predatory fish; being one of the few fish species to attack hunters in the third generation. In the fifth generation, Gajau will even jump out of the water to capture prey.",
+    "type": "Fish",
+    "title": "Gajau",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Gastodon",
+    "value": "Gastodon. Physiology: Gastodon resembles a cross between a Hypsilophodon dinosaur and a bison. They are covered in scales but have large furry manes and horns reminiscent of a bison. Behavior: Gastodons live in herds around the Elder's Recess. They are very aggressive towards hunters and are willing to attack larger monsters as a herd.",
+    "type": "Herbivore",
+    "title": "Gastodon",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Girros",
+    "value": "Girros. Physiology: Girros are snake-like Fanged Wyverns with a head and hood similar to a cobra. They have black onyx scales with yellow stripes on their neck. Abilities: Despite their size, Girros can be relentless attackers, especially in large groups. Like Jagras, Girros will flee when one of them dies. Behavior: Despite their size, Girros can be relentless attackers, especially in large groups. Like Jagras, Girros will flee when one of them dies.",
+    "type": "Fanged Wyvern",
+    "title": "Girros",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Grimalkyne",
+    "value": "Grimalkyne. Physiology: Grimalkyne resemble bipedal lynxes. They have tufted ears, and come in a variety of colors depending on the tribe: *The Bugtrappers are orange with brown stripes, paws, ears, tail tip, and paw symbol on their chest. Behavior: Grimalkyne are wary of strangers, but will readily help those who have proven themselves to their tribe. Once befriended, Grimalkyne will share their tools and assist in trapping monsters.",
+    "type": "Lynian",
+    "title": "Grimalkyne",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Jagras",
+    "value": "Jagras. Physiology: Jagras are small and slim compared to Great Jagras. Their body shape is very wolf-like in nature, allowing them to move quickly and stand up right for short periods of time. Abilities: Jagras will swarm potential prey in an instant, and will swarm around their leader the Great Jagras. Jagras packs have even been seen attacking injured Anjanath. Behavior: Jagras will swarm potential prey in an instant, and will swarm around their leader the Great Jagras. Jagras packs have even been seen attacking injured Anjanath.",
+    "type": "Fanged Wyvern",
+    "title": "Jagras",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Kestodon",
+    "value": "Kestodon. Physiology: Kestodon heavily resembles the Pachycephalosaurus, a dinosaur famous for its unique-looking skull. Male Kestodon are bright orange in color and have a large head crest for headbutting rivals, whereas females are bronze in color and lack the head crest found in males. Behavior: Kestodon are an aggressive species that will turn hostile once spotted. Females will alert the pack of danger, while the males will violently charge would-be threats.",
+    "type": "Herbivore",
+    "title": "Kestodon",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Mernos",
+    "value": "Mernos. Physiology: Mernos are wingdrakes that somewhat resemble certain species of rhamphorynchoid pterosaur like Dimorphodon. They have hatchet-like beaks, blue skin, and a long yellow-tipped tail.",
+    "type": "Wingdrake",
+    "title": "Mernos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Noios",
+    "value": "Noios. Physiology: Noios are wingdrakes that resemble vultures in addition to pterosaurs. They have a large beak, a waddle hanging from their neck, light-brown skin, and a long tail. Abilities: They can often be seen flying around the wildspires seen in the wastes. When easily startled, they can let out a harsh cry which can startle those near and lead to a chain reaction. Behavior: They can often be seen flying around the wildspires seen in the wastes. When easily startled, they can let out a harsh cry which can startle those near and lead to a chain reaction.",
+    "type": "(?)",
+    "title": "Noios",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Raphinos",
+    "value": "Raphinos. Physiology: Raphinos are wingdrakes that resemble parrots or tapejarid pterosaurs. They have a light pink skin and wings with ribbon-like appendages hanging from them. Abilities: Raphinos will peacefully roam the coral landscape in large flocks, occasionally feeding on coral eggs. The flock can be cleverly led to certain places if a hunter grabs hook on one, as the rest will follow where that individual will go. Behavior: Raphinos will peacefully roam the coral landscape in large flocks, occasionally feeding on coral eggs. The flock can be cleverly led to certain places if a hunter grabs hook on one, as the rest will follow where that individual will go.",
+    "type": "(?)",
+    "title": "Raphinos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Shamos",
+    "value": "Shamos. Physiology: Shamos has a wolf-like body shape with huge orange cat-like eyes. Though its body shape is akin to a wolf, Shamos' appearance is very similar to fish. Abilities: Shamos has unusually large eyes that allow it to see in pure darkness. Shamos are aggressive hunters that will attack in small packs. Behavior: Shamos has unusually large eyes that allow it to see in pure darkness. Shamos are aggressive hunters that will attack in small packs.",
+    "type": "Fanged Wyvern",
+    "title": "Shamos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Dodogama",
+    "value": "Dodogama. Physiology: = {| class=\"wikitable\" width=\"100%\" style=\"text-align:center; background-color:#EBEBEB;\" ! colspan=\"4\" style=\"background:#3A5766; color:#ffffff\" | Hitzone Damage Data |- ! Abilities: Dodogama is known to defend itself using the rocks it consumes. When these rocks are combined with its saliva they become explosive in nature, becoming a powerful explosive projectile that it can spit at predators and other aggressors.",
+    "type": "Fanged Wyvern",
+    "title": "Dodogama",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Great Girros",
+    "value": "Great Girros. Physiology: = {| class=\"wikitable\" width=\"100%\" style=\"text-align:center; background:#ebebeb\" ! colspan=\"4\" style=\"background:#3a5766; color:#ffffff\" | Hitzone Damage Data |- ! Abilities: Great Girros has large fangs filled with a paralyzing venom. It only takes a single bite from these fangs to paralyze prey as big as Radobaan. Behavior: Great Girros has large fangs filled with a paralyzing venom. It only takes a single bite from these fangs to paralyze prey as big as Radobaan.",
+    "type": "Fanged Wyvern",
+    "title": "Great Girros",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Great Jagras",
+    "value": "Great Jagras. Physiology: = {| class=\"wikitable\" width=\"100%\" style=\"text-align:center; background:#ebebeb\" ! colspan=\"4\" style=\"background:#3a5766; color:#ffffff\" | Hitzone Damage Data |- ! Abilities: A Great Jagras is able to swallow large prey whole in one gulp, allowing it to use its immense weight to fight off any potential threats. On very rare occasions, it will also vomit at the hunter if its stomach is bloated, which is similar to the Great Girros' paralyzing spit. Behavior: A Great Jagras is able to swallow large prey whole in one gulp, allowing it to use its immense weight to fight off any potential threats. On very rare occasions, it will also vomit at the hunter if its stomach is bloated, which is similar to the Great Girros' paralyzing spit.",
+    "type": "Fanged Wyvern",
+    "title": "Great Jagras",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Jyuratodus",
+    "value": "Jyuratodus. Physiology: = {| class=\"wikitable\" width=\"100%\" style=\"text-align:center; background-color:#EBEBEB;\" ! colspan=\"4\" style=\"background:#3A5766; color:#ffffff\" | Hitzone Damage Data |- ! Abilities: Jyuratodus is able to cover its body in mud for protection, and spits a watery sludge that can temporarily trap hunters to defend itself. Jyuratodus leaves behind solid mud piles when it swims, which hunters can use as platforms to avoid being slowed down by the swamp water. Behavior: Jyuratodus is able to cover its body in mud for protection, and spits a watery sludge that can temporarily trap hunters to defend itself. Jyuratodus leaves behind solid mud piles when it swims, which hunters can use as platforms to avoid being slowed down by the swamp water.",
+    "type": "Piscine Wyvern",
+    "title": "Jyuratodus",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Leshen",
+    "value": "Leshen. Physiology: The Leshen's body structure or biology is completely alien to the known world. The creature stands upright on two limbs that support an eerily humanoid body made of what appears to be wood, which it covers with ragged clothing; branches grow out of its shoulders, which may have the remains of its most recent victims hanging upon them. Abilities: Leshens are very territorial and will attack anything that they can not (or do not wish to) influence with their magic. It is said that that they are closely attuned to the forests in which they live, and will slay anyone who fails to treat the forests with respect. Behavior: Leshens are very territorial and will attack anything that they can not (or do not wish to) influence with their magic. It is said that that they are closely attuned to the forests in which they live, and will slay anyone who fails to treat the forests with respect.",
+    "type": "Relict",
+    "title": "Leshen",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Ancient Leshen",
+    "value": "Ancient Leshen. Physiology: The Ancient Leshen looks very similar to its younger counterpart, with the main difference being in its much larger antlers. Parts of its wood-like body have also become covered with moss and small mushrooms, like an old tree. Abilities: If anything, old age makes the Ancient Leshen even more malicious and spiteful towards the enemies of the forest. In its home world, they are often venerated as forest gods in the hopes of appeasing its ire; while for the most part it seems to care little for being worshiped, there have been some cases where it has condescended to grant boons upon those who respect the woods. Behavior: If anything, old age makes the Ancient Leshen even more malicious and spiteful towards the enemies of the forest. In its home world, they are often venerated as forest gods in the hopes of appeasing its ire; while for the most part it seems to care little for being worshiped, there have been some cases where it has condescended to grant boons upon those who respect the woods.",
+    "type": "Relict",
+    "title": "Ancient Leshen",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Odogaron",
+    "value": "Odogaron. Physiology: Odogaron is quadrupedal, capable of moving at fast speeds. It is covered in red scales and bony protrusions that resemble muscle tissue and bone. Abilities: Despite its size, Odogaron is quite an agile monster. It is able to rush down prey before delivering bites with its powerful jaws. Behavior: Odogaron scours the Rotten Vale for carrion and exhibits an extremely aggressive demeanor. It sees anything in its way as a potential meal, and will unflinchingly attack any life it encounters without hesitation nor self-preservation.",
+    "type": "Fanged Wyvern",
+    "title": "Odogaron",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Tobi-Kadachi",
+    "value": "Tobi-Kadachi. Physiology: Tobi-Kadachi's face resembles a colubrid in appearance with grayish blue scales covering its slim squirrel-like shape. On its back are patches of white fur as well as a bushy tail covered in rows of spikes. Abilities: As Tobi-Kadachi fights, it picks up static electricity in its fur by brushing against trees and the ground. Tobi-Kadachi uses this static electricity to increase the strength of its attacks. Behavior: As Tobi-Kadachi fights, it picks up static electricity in its fur by brushing against trees and the ground. Tobi-Kadachi uses this static electricity to increase the strength of its attacks.",
+    "type": "Fanged Wyvern",
+    "title": "Tobi-Kadachi",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Zorah Magdaros",
+    "value": "Zorah Magdaros. Physiology: Zorah Magdaros is a colossal semi-aquatic Elder Dragon covered in a rocky hide. It has turtle-like characteristics, bearing a mountainous shell on its back that it can retreat under while walking on all fours, as well as a beaked mouth. Abilities: Zorah Magdaros is an enormous monster whose stature and rock-like hide offers it incredible strength and durability. It can smash through fortifications and terrain without issue and is effectively impervious to normal attacks, although siege weapons such as ballistae, cannons, and Dragonators can still harm it. Behavior: Zorah Magdaros is an enormous monster whose stature and rock-like hide offers it incredible strength and durability. It can smash through fortifications and terrain without issue and is effectively impervious to normal attacks, although siege weapons such as ballistae, cannons, and Dragonators can still harm it.",
+    "type": "Elder Dragon",
+    "title": "Zorah Magdaros",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Boaboa",
+    "value": "Boaboa. Physiology: The Boaboa have the basic shape of a Grimalkyne, but exhibit much thicker, white fur and a bulkier frame. They wear crude imitations of Popo heads as masks, with the tusk's tips painted in colours that correspond to the status ailment each individual Boaboa uses in combat.",
+    "type": "Lynian",
+    "title": "Boaboa",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Cortos",
+    "value": "Cortos. Physiology: Cortos are small Wingdrakes with white-and-blue hides and scales. Their heads are wide and snake-like with piercing red eyes.",
+    "type": "Wingdrake",
+    "title": "Cortos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Wulg",
+    "value": "Wulg. Physiology: Wulgs greatly resemble a cross between a wolf and a badger with their body shape resembling a mustelid like a weasel. Possessing a thick black and white striped pelt, a lithe frame and a long bushy tail. Abilities: They are capable of lunging and biting at foes, as well as performing an acrobatic grapple attack that requires hunters to move quickly lest they be stripped of their health. Behavior: Wulgs will attack hunters if they come across them, but won't directly hunt them.",
+    "type": "Fanged Wyvern",
+    "title": "Wulg",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Beotodus",
+    "value": "Beotodus. Physiology: Beotodus has the same body structure as other New World Piscine Wyverns, such as a stocky body and short fins. However, it has a uniquely-shaped skull. Abilities: Beotodus swims through ice and deep snow as if it were water, not unlike Zamtrios. This allows it to easily sneak up on and overwhelm prey hindered by the snow, though they are vulnerable to Screamer Pods. Behavior: Beotodus swims through ice and deep snow as if it were water, not unlike Zamtrios. This allows it to easily sneak up on and overwhelm prey hindered by the snow, though they are vulnerable to Screamer Pods.",
+    "type": "Piscine Wyvern",
+    "title": "Beotodus",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Ebony Odogaron",
+    "value": "Ebony Odogaron. Physiology: Much like its standard counterpart, the Ebony Odogaron sports scales and bone like protrusions which resemble muscle tissues that cover its entire body. However, these scales and protrusions have a dark blue and jet black coloration to them, hence its Ebony name. Abilities: The Ebony Odogaron is an aggressive creature which is always on the hunt for its next meal. It carries its latest kill in its mouth as a means of sustenance to further improve its abilities when needed. Behavior: The Ebony Odogaron is an aggressive creature which is always on the hunt for its next meal. It carries its latest kill in its mouth as a means of sustenance to further improve its abilities when needed.",
+    "type": "Fanged Wyvern",
+    "title": "Ebony Odogaron",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Viper Tobi-Kadachi",
+    "value": "Viper Tobi-Kadachi. Physiology: Much like its standard counterpart, the Viper Tobi-Kadachi's face resembles that of a colubrid with its body retaining several of the standard Tobi-Kadachi's characteristics such as the slim, squirrel-like body, the fur patches which trail across its back as well as the large, bushy tail armed with spikes. Its main difference compared to the regular species is obviously the vastly different color scheme consisting of several shades of brown, bronze and burnt orange. Abilities: Viper Tobi-Kadachi has an arsenal consisting of powerful status effects. It uses a strong poison in order to attack its opponents which it can generate and utilize via its fangs or the extra spikes on its tail. Behavior: Viper Tobi-Kadachi has an arsenal consisting of powerful status effects. It uses a strong poison in order to attack its opponents which it can generate and utilize via its fangs or the extra spikes on its tail.",
+    "type": "Fanged Wyvern",
+    "title": "Viper Tobi-Kadachi",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Canyne",
+    "value": "Canyne. Physiology: A Canyne is a dog-like Fanged Beast that also resembles the domestic dogs' distinct relative, the wolf. Individual appearance of these monsters differs greatly, with a wide range of colors, ear and tail shapes, and different markings being observed. Abilities: Canynes are capable of moving at a high speed, performing great leaps and even climbing sheer slopes. The Canynes of Kamura Village are trained to become Hunting Buddies, similar to Felynes. Behavior: Canynes are capable of moving at a high speed, performing great leaps and even climbing sheer slopes. The Canynes of Kamura Village are trained to become Hunting Buddies, similar to Felynes.",
+    "type": "Fanged Beast",
+    "title": "Canyne",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Izuchi",
+    "value": "Izuchi. Physiology: Izuchi resembles a generic dromaeosaur. It has a brownish red coat with pale yellow lines across the body and white patches of fur on its head, back and tail, the latter of which ends in a sickle-like blade. Abilities: Izuchi uses its tail as a means of attacking and climbing trees, usually for fruit. Izuchi is an omnivore that feeds on a variety of food. Behavior: Izuchi uses its tail as a means of attacking and climbing trees, usually for fruit. Izuchi is an omnivore that feeds on a variety of food.",
+    "type": "Bird Wyvern",
+    "title": "Izuchi",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Rachnoid",
+    "value": "Rachnoid. Physiology: Rachnoid are Temnocerans that resemble a mix between jumping spiders and ticks. They have large web-spun orbs covering their backs that closely resemble the egg sack found on adult Rakna Kadaki. Behavior: Just like their adult form, Rachnoid can be found in hot areas, such as the Lava Caverns and the Sandy Plains.",
+    "type": "Temnoceran",
+    "title": "Rachnoid",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Apex Zinogre",
+    "value": "Apex Zinogre. Physiology: Appearing very similar to the standard Zinogre the Apex variation is quite different in coloration, having yellow fur, red eyes, dark greenish blue scales, or straight up grey in some areas, and the presence of a few small, glowing red marks present on the underbelly, with larger orange ones appearing when charged up on the fore legs Abilities: Apex Zinogre are extremely aggressive and will attack anything on sight. Some new attacks include a \"forward flip\" which also has an electric version which is quickly followed by an electric claw slam, a sort of \"electric uppercut\" which also releases three thin electric shockwaves which move forward in a fan pattern, this attack can also be combined into an electric claw slam. Behavior: Apex Zinogre are extremely aggressive and will attack anything on sight. Some new attacks include a \"forward flip\" which also has an electric version which is quickly followed by an electric claw slam, a sort of \"electric uppercut\" which also releases three thin electric shockwaves which move forward in a fan pattern, this attack can also be combined into an electric claw slam.",
+    "type": "Fanged Wyvern",
+    "title": "Apex Zinogre",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Rakna-Kadaki",
+    "value": "Rakna-Kadaki. Physiology: Rakna-Kadaki are Temnocerans bristling with sharp curving spikes. Their bodies are covered in a purple carapace with several large spikes on the legs and the abdomen, which are usually draped in pale webs. Abilities: Unlike most spiders, as well as Nerscylla, Rakna-Kadaki are capable of spitting silk from their mouth, and can spit several strands at the same time. They use this silk to bind their prey in webs before finishing them off. Behavior: Unlike most spiders, as well as Nerscylla, Rakna-Kadaki are capable of spitting silk from their mouth, and can spit several strands at the same time. They use this silk to bind their prey in webs before finishing them off.",
+    "type": "Temnoceran",
+    "title": "Rakna-Kadaki",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Tetranadon",
+    "value": "Tetranadon. Physiology: = {| class=\"wikitable\" width=\"100%\" style=\"text-align:center; background-color:#EBEBEB;\" ! colspan=\"4\" style=\"background:#3A5766; color:#ffffff\" | Hitzone Damage Data |- ! Abilities: Tetranadon are known to clash with Arzuros. Tetranadon in their inflated state have been seen trying to swallow an Arzuros during this battle, however the stocky Fanged Beasts are too difficult for the greedy Amphibians to consume. Behavior: Tetranadon are known to clash with Arzuros. Tetranadon in their inflated state have been seen trying to swallow an Arzuros during this battle, however the stocky Fanged Beasts are too difficult for the greedy Amphibians to consume.",
+    "type": "Amphibian",
+    "title": "Tetranadon",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Crimson Glow Valstrax",
+    "value": "Crimson Glow Valstrax. Physiology: Due to the rampant dragon energy flowing through its body, Crimson Glow Valstrax has permanent glowing red marks connecting from the chest to the wings, showing up on the sides and wing-arms. The wings have a different design than a normal Valstrax's wings, looking more like exhaust vents, and are covered in glowing red color similar to a normal enraged Valstrax. Abilities: Crimson Glow Valstrax is a unique mutation of Valstrax caused by an inability to contain and control its own Dragon element, causing it to continously \"leak\" out of its body. Because of this, Crimson Glow Valstrax exhibits unusual phenomena such as discharging indiscriminate cascades of exploding fireballs during flight, or littering its surroundings with explosive patches of draconic energy whenever fighting. Behavior: It is far more aggressive than its normal variant and is known to indiscriminately attack anything in sight, even attacking dangerous Elder Dragons such as Amatsu without hesitation. This is due to the fact that its dragon energy has gone rampant, altering its behavior in response to the constant pain caused by the energy, and making it less reclusive compared to its normal counterpart.",
+    "type": "Elder Dragon",
+    "title": "Crimson Glow Valstrax",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Wind Serpent Ibushi",
+    "value": "Wind Serpent Ibushi. Physiology: Ibushi is the male of an elder dragon species that consists of itself and Thunder Serpent Narwa. Similar to Amatsu, this species has a long and leviathan-like body with short, paddle-like hind legs and a long tail. Abilities: Ibushi is very physically capable, using its massive body, tough horns, and elastic yet durable hide to physically batter enemies and protect itself from attacks. It expels large amounts of gas from its wind sacs which allow it to fly freely and control the wind around it, although Ibushi will also suffer major damage if the wind sacs are broken. Behavior: Not much was known about Ibushi prior to its discovery. However, what is known is that Ibushi wanders around in the sky in search of its \"queen\", as referred to by Hinoa during their Resonation.",
+    "type": "Elder Dragon",
+    "title": "Wind Serpent Ibushi",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Gowngoat",
+    "value": "Gowngoat. Physiology: Gowngoats have a body structure similar to Slagtoth, with brown furry patches around their neck and extending from their back. A large patch of fur runs from their lower backs to their tail, which are incredibly long and fluffy. Behavior: Gowngoats are docile herbivores that live in a herd and spend most of their time grazing or sleeping. Their long fluffy tail is theorized to either allow these creatures to curl into balls to mimic the appearance of rocks to fool predators or to hide and protect their young.",
+    "type": "Herbivore",
+    "title": "Gowngoat",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Pyrantula",
+    "value": "Pyrantula. Physiology: These small Temnocerans, the young of Pyre Rakna-Kadaki, are identical in appearance to Rachnoids except in their color; they have light gray bodies and yellow eyes, and the webbing on their backs is a glowing orange. Abilities: Pyrantula's body contains an explosive gas that they can release to inflict Blastblight to anyone within range. Their mother, the Pyre Rakna-Kadaki, often uses them as weapons; scattering them onto the battlefield to assault their enemies, as well as connecting them to them with a web before igniting that web like a fuse, causing explosion at the Pyrantula's location. Behavior: Pyrantula's body contains an explosive gas that they can release to inflict Blastblight to anyone within range. Their mother, the Pyre Rakna-Kadaki, often uses them as weapons; scattering them onto the battlefield to assault their enemies, as well as connecting them to them with a web before igniting that web like a fuse, causing explosion at the Pyrantula's location.",
+    "type": "Temnoceran",
+    "title": "Pyrantula",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Blood Orange Bishaten",
+    "value": "Blood Orange Bishaten. Physiology: Blood Orange Bishaten is similar in appearance to a standard Bishaten; however, the primary colors of its feathers are orange and black instead of the standard Bishaten's blue and white. The tips of its wings are yellow, and various parts of its body (namely its face, legs, and tail) are white. Abilities: The main difference between Blood Orange Bishaten and the normal Bishaten is the Blood Orange Bishaten's ability to breathe fire. Another key difference is that instead of throwing persimmons, Blood Orange Bishaten throws highly explosive pinecones in which it can ignite with its fire breath or through impact force. Behavior: Blood Orange Bishaten is an aggressive monster that retains the cleverness of the normal Bishaten. If provoked, it would retaliate back with fire moves.",
+    "type": "Fanged Beast",
+    "title": "Blood Orange Bishaten",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Espinas",
+    "value": "Espinas. Physiology: Espinas is physically similar to a Rathian, but alongside scales its body is covered in hot pink spikes full of venom and rough green armor plating. A long, pink, venom-filled horn protrudes from the front of its head, in a similar fashion to Monoblos. Abilities: In addition to its extremely thick hide making it impervious to most attacks, Espinas has the ability to shoot toxic fireballs that cause both Poison and Paralysis upon impact. In addition, most of its physical attacks cause poison status as well due to the thorns. Behavior: Espinas is an unusually passive Flying Wyvern. In the wild, it can almost always be found sleeping, and is so durable that it will often continue to sleep while being attacked by enemies, who may in turn be harmed or killed by its toxic spikes.",
+    "type": "Flying Wyvern",
+    "title": "Espinas",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Flaming Espinas",
+    "value": "Flaming Espinas. Physiology: Flaming Espinas features a brown carapace with red spines, claws, and horns. When enraged, its body is covered in glowing orange veins. Abilities: Flaming Espinas is capable of producing larger and more powerful bursts of fire than the common Espinas, and is more resistant to damage. Instead of inflicting Paralysis, its breath now contains a concentrated acid that can melt the armor of their prey. Behavior: Similarly to the common Espinas, it is a docile and passive wyvern which will only attack when provoked. It sleeps for much of the day, and is usually encountered in this state.",
+    "type": "Flying Wyvern",
+    "title": "Flaming Espinas",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Lunagaron",
+    "value": "Lunagaron. Physiology: Lunagaron is a large, wolf-like Fanged Wyvern similar in appearance to New World Fanged Wyverns such as Odogaron and Tobi-Kadachi. Its body is covered in cobalt scales with white edges, with several ridges running down its back. Abilities: Like other Fanged Wyverns, it is very agile and can easily climb up and jump off walls and large rocks. It is agile enough to perform several attacks in a row using its front legs and teeth, as well as acrobatic movements. Behavior: A born hunter, Lunagaron is highly aggressive and feeds on smaller monsters, including some smaller size large monsters like Aknosom. It often competes with other dangerous monsters like Zinogre, Garangolm and Malzeno/Primordial Malzeno, often in Turf Wars around various locales, such as the Citadel.",
+    "type": "Fanged Wyvern",
+    "title": "Lunagaron",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Pyre Rakna-Kadaki",
+    "value": "Pyre Rakna-Kadaki. Physiology: Pyre Rakna-Kadaki is similar in appearance to a standard Rakna-Kadaki, but with several key differences; her body is now light gray with glowing orange hooks, and her webbing is now black. Her horns are now much longer, giving her a demonic appearance. Abilities: Like a regular Rakna-Kadaki, she uses her now explosive webs to capture prey; however, she now inflicts Blastblight alongside using fire. She also uses her young, the Pyrantulas, in more attacks than a standard Rakna-Kadaki, attaching fuse-like webs to them and igniting them to cause explosions. Behavior: Pyre Rakna-Kadki is an aggressive and cunning monster. She uses the Pyrantulas to lure in prey for an ambush, in which she then commands her minions to overwhelm and subdue the prey before using her flames to finish it off.",
+    "type": "Temnoceran",
+    "title": "Pyre Rakna-Kadaki",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Scorned Magnamalo",
+    "value": "Scorned Magnamalo. Physiology: Scorned Magnamalo mostly resembles a normal Magnamalo, but has elongated, oddly serrated arm-blades, larger fangs, and more jagged back shells that will unfold when sufficiently enraged in place of the normal variant's spikes. It is missing its right horn and eye, and its body is shrouded in volatile pink Hellfire at all times. Abilities: Thanks to years of hatred and battle scars, the Scorned Magnamalo boasts superior physicality and has perfected its Hellfire, allowing it to use more complex and wide-reaching explosive attacks. In particular, it wields its elongated arm-blades to deadly effect, and can concentrate Hellfire gas into the blades to unleash fierce combo slashes or extend the reach of its swings. Behavior: Scorned Magnamalo is much more aggressive and violent than even a regular Magnamalo, and is now powerful enough to take down many apex predators and fight evenly with, if not overpower Elder Dragons. True to its title of Ultimate Malice, this vindictive monster will attack anything that invades its territory, and appears to actively seek out dangerous monsters to battle and devour.",
+    "type": "Fanged Wyvern",
+    "title": "Scorned Magnamalo",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Risen Chameleos",
+    "value": "Risen Chameleos. Physiology: Risen Chameleos' appearance is noticeably different from a standard Chameleos, now being mostly gray and black with some areas (such as its head, feet, wingarms, and tail) still being slightly purple. Its body is covered in wounds resembling burns, which have a bright orange glow upon entering its Risen state. Abilities: This version of Chameleos has overcome being afflicted by the Qurio and has become more powerful as a result. Its physical abilities are heightened and its poison becomes more volatile, allowing it to perform multiple new poison attacks that cover a wider area, and utilize its poison to cause massive toxic explosions. Behavior: This version of Chameleos has overcome being afflicted by the Qurio and has become more powerful as a result. Its physical abilities are heightened and its poison becomes more volatile, allowing it to perform multiple new poison attacks that cover a wider area, and utilize its poison to cause massive toxic explosions.",
+    "type": "Elder Dragon",
+    "title": "Risen Chameleos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Risen Kushala Daora",
+    "value": "Risen Kushala Daora. Physiology: Risen Kushala Daora's appearance is noticeably different from a standard Kushala Daora, with most of its body darkened with certain parts (their heads, wings, and torsos) retaining their metallic grey coloring. Its body is covered in wounds resembling burns, which have a bright orange glow upon entering its Risen state. Abilities: This version of Kushala Daora has overcome being afflicted by the Qurio and has become more powerful as a result. In addition to its physical abilities and wind attacks being dramatically enhanced, it gains more wind based attacks including being able to fire blasts of wind by swiping its claws, creating giant explosions using wind, and firing beams that cause the ground to erupt into geysers of wind. Behavior: This version of Kushala Daora has overcome being afflicted by the Qurio and has become more powerful as a result. In addition to its physical abilities and wind attacks being dramatically enhanced, it gains more wind based attacks including being able to fire blasts of wind by swiping its claws, creating giant explosions using wind, and firing beams that cause the ground to erupt into geysers of wind.",
+    "type": "Elder Dragon",
+    "title": "Risen Kushala Daora",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Risen Teostra",
+    "value": "Risen Teostra. Physiology: Risen Teostra's appearance is noticeably different from a standard Teostra, with most of its body darkened with the hair on its mane and tail appearing more orange and yellow, or even white. Its body is covered in wounds resembling burns, which have a bright orange glow upon entering its Risen state. Abilities: This version of Teostra has overcome being afflicted by the Qurio and has become more powerful as a result. In addition to its heightened physical abilities and firepower, it generates much more explosive powder, allowing it to unleash a nonstop barrage of explosions to decimate its surroundings. Behavior: This version of Teostra has overcome being afflicted by the Qurio and has become more powerful as a result. In addition to its heightened physical abilities and firepower, it generates much more explosive powder, allowing it to unleash a nonstop barrage of explosions to decimate its surroundings.",
+    "type": "Elder Dragon",
+    "title": "Risen Teostra",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Risen Crimson Glow Valstrax",
+    "value": "Risen Crimson Glow Valstrax. Physiology: Risen Crimson Glow Valstrax' appearance is noticeably different from a standard Valstrax and Variant counterpart, with most of its body darkened with certain parts (their heads and torsos) retaining their metallic grey coloring. At the tip of the spikes and wing exhaust are wounds resembling burns, which have a bright orange glow upon entering its Risen state. Abilities: This version of Crimson Glow Valstrax has overcome being afflicted by the Qurio and has become more powerful as a result. In addition to its heightened physical abilities and speed, its dragon energy becomes more unstable, allowing it to unleash violent explosive attacks that cover a wider area, use enhanced wing strikes that leave more explosive dragon energy behind, and focus all their power into one wing for a devastating blow. Behavior: The already violent Elder Dragon becomes more aggressive than ever before, due to its already rampant energy being enhanced further by the Qurio. It is considered a greater threat than even Crimson Glow Valstrax.",
+    "type": "Elder Dragon",
+    "title": "Risen Crimson Glow Valstrax",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Risen Shagaru Magala",
+    "value": "Risen Shagaru Magala. Physiology: Risen Shagaru Magala's appearance is noticeably different from a standard Shagaru Magala, with most of its body darkened with certain parts (their wings and head) retaining their tannish white coloring. At the tip of the wings, the tip of the tail, and their horns are wounds resembling burns, which have a bright orange glow upon entering its Risen state. Abilities: This version of Shagaru Magala has overcome being afflicted by the Qurio and has become more powerful as a result. In addition to its heightened physical abilities and speed, it can use its wingarms to even more devastating effect, and it produces much larger quantities of Frenzy Virus that lend its attacks more power and a wider area of effect, with the majority of its physical attacks now leaving behind explosive frenzy pools and aftershocks. Behavior: Risen Shagaru Magala is considered a bigger threat than Shagaru Magala and even the Chaotic Gore Magala due to it having both the power of the Qurio and the Frenzy Virus combined. It is easily the strongest of the Risen Elder Dragons along with Risen Crimson Glow Valstrax.",
+    "type": "Elder Dragon",
+    "title": "Risen Shagaru Magala",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Baunos",
+    "value": "Baunos. Physiology: Wingdrake body plan and defining traits. Abilities: typical Wingdrake combat and survival adaptations. Behavior: common Wingdrake patterns such as territoriality, hunting, or herd movement.",
+    "type": "Wingdrake",
+    "title": "Baunos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Bulaqchi",
+    "value": "Bulaqchi. Physiology: Bulaqchi resemble a giant, flightless mosquito with a yellow or yellow-green color. Their abdomen is covered in long thick, black netting-like hairs. Abilities: Bulaqchi are slow, but they attack in a large swarming group. They mainly attack with stabs, strikes, and tackles but can also jump on and pin hunters. Behavior: Bulaqchi are slow, but they attack in a large swarming group. They mainly attack with stabs, strikes, and tackles but can also jump on and pin hunters.",
+    "type": "Neopteron",
+    "title": "Bulaqchi",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Ceratonoth",
+    "value": "Ceratonoth. Physiology: The Ceratonoth is a quadrupedal, reptillian herbivore. They have yellowish-brown, overlapping scales across their back, similar to those of a pangolin and a long snout. Behavior: Ceratonoth normally appear to be docile, and often stay together in large herds of males and females. When threatened, they are quick to flee, but will sometimes still be caught by larger monsters, such as Doshaguma.",
+    "type": "Herbivore",
+    "title": "Ceratonoth",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Comaqchi",
+    "value": "Comaqchi. Physiology: Comaqchi are giant carnivorous insects similar to the Bulaqchi. Their bulky forelegs are well adapted for punching and their tail is armed with a stinger. Abilities: Comaqchi spend most of their time motionless on walls or other vertical surfaces, typically in groups. In combat, they use their fist-like forelegs to punch and their stinger to inject a sedative toxin. Behavior: Comaqchi spend most of their time motionless on walls or other vertical surfaces, typically in groups. In combat, they use their fist-like forelegs to punch and their stinger to inject a sedative toxin.",
+    "type": "Neopteron",
+    "title": "Comaqchi",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Dalthydon",
+    "value": "Dalthydon. Physiology: Dalthydon is a bipedal dinosaur-like herbivore, somewhat resembling the Olorotitan. They have grey skin covered by white and dark brown fur. Behavior: Dalthydon primarily appear in the Windward Plains, but have also been shown to appear in the Scarlet Forest. The people of Kunafa keep them as livestock, using their milk to produce the village's well-known cheese.",
+    "type": "Herbivore",
+    "title": "Dalthydon",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Gajios",
+    "value": "Gajios. Physiology: The Gajios is a small crocodilian-like creature closely resembling a real-world crocodile. Its most striking feature is the row of horn-like scales on each side of its snout, making its head resemble a double-sided saw.",
+    "type": "Leviathan",
+    "title": "Gajios",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Gelidron",
+    "value": "Gelidron. Physiology: The Gelidron is a relatively small Amphibian that is no larger than a human is tall. Overall, the creature closely resembles a giant salamander, with a portly body, rounded head with small, almost useless eyes, and a fat tail. Abilities: They appear to be mostly nocturnal and active during the night. The bulk of the Gelidron's diet is made up of oil-dwelling crustaceans, such as the Crudeshell Crabs, which it catches with lightning speed with its adhesive tongue before swallowing them whole. Behavior: They appear to be mostly nocturnal and active during the night. The bulk of the Gelidron's diet is made up of oil-dwelling crustaceans, such as the Crudeshell Crabs, which it catches with lightning speed with its adhesive tongue before swallowing them whole.",
+    "type": "Amphibian",
+    "title": "Gelidron",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Guardian Seikret",
+    "value": "Guardian Seikret. Physiology: Guardian Seikrets resemble their natural counterparts, albeit with the grey and white color scheme common to other Constructs. They possess sharp claws on their forelegs. Abilities: Unlike normal Seikrets, Guardian Seikrets are aggressive and will attack hunters on sight. They will generally use their teeth and claws to inflict damage, but they also have a Guardian energy powered leap attack similar to their larger Guardian counterparts. Behavior: Unlike normal Seikrets, Guardian Seikrets are aggressive and will attack hunters on sight. They will generally use their teeth and claws to inflict damage, but they also have a Guardian energy powered leap attack similar to their larger Guardian counterparts.",
+    "type": "Construct",
+    "title": "Guardian Seikret",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Harpios",
+    "value": "Harpios. Physiology: Wingdrake body plan and defining traits. Abilities: typical Wingdrake combat and survival adaptations. Behavior: common Wingdrake patterns such as territoriality, hunting, or herd movement.",
+    "type": "Wingdrake",
+    "title": "Harpios",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Kranodath",
+    "value": "Kranodath. Physiology: The Kranodath has roughly the body plan of a dromaeosaurid dinosaur, except with flexible arms with pronated wrists and a long, stiff tail. The creature's entire body is colored ash-gray, transitioning into a light purple on the neck and head.",
+    "type": "Bird Wyvern",
+    "title": "Kranodath",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Nerscylla Hatchling",
+    "value": "Nerscylla Hatchling. Physiology: Nerscylla Hatchlings are small white temnocerans that resemble adult Nerscylla, but lack the poison spikes and Gypceros hides of the adults. Abilities: Nerscylla Hatchlings lack the venom and sleep inducing stingers of their adult forms and resort to simply biting their prey. As they are fragile monsters, they will gather as dozens of individuals at once to swarm a target. Behavior: Although Nerscylla resides in several Old World locales, the Nerscylla Hatchlings have only been found in the Forbidden Land's Iceshard Cliffs.",
+    "type": "Temnoceran",
+    "title": "Nerscylla Hatchling",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Piragill",
+    "value": "Piragill. Physiology: The Piragill is a small, slender leviathan with a long neck. They are primarily blue in color, with a darker blue stripe running from the top of their head, down the length of the body, and fading into the navy-blue tail. Behavior: Piragill are first located in the Scarlet Forest.",
+    "type": "Leviathan",
+    "title": "Piragill",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Porkeplume",
+    "value": "Porkeplume. Physiology: The Porkeplume has a bipedal body similar to that of theropod dinosaurs. It is covered in fluffy white feathers, with brown on the feet and tail and orange on the underside and head. Abilities: Porkeplumes live in herds and are very timid. When threatened, they will puff out the bristles on their head, and a member of the herd may charge at the enemy while the others flee. Behavior: Porkeplumes live in herds and are very timid. When threatened, they will puff out the bristles on their head, and a member of the herd may charge at the enemy while the others flee.",
+    "type": "Bird Wyvern",
+    "title": "Porkeplume",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Rafma",
+    "value": "Rafma. Physiology: Rafma are small quadrupedal caprine-like creatures, with two horns and brown fur all around its body. They have stout bodies, hooved feet and short tails. Abilities: Inhabiting mountainous areas such as the Iceshard Cliffs, Rafmas are herbivorous monsters that congregate in small herds, grazing on small grasses and sprouts that lie dormant beneath the heavy snow. They are known to be exceptionally agile, bounding across the snowfields with ease and scaling impossibly steep cliffs without a single slip-up. Behavior: Inhabiting mountainous areas such as the Iceshard Cliffs, Rafmas are herbivorous monsters that congregate in small herds, grazing on small grasses and sprouts that lie dormant beneath the heavy snow. They are known to be exceptionally agile, bounding across the snowfields with ease and scaling impossibly steep cliffs without a single slip-up.",
+    "type": "Herbivore",
+    "title": "Rafma",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Talioth",
+    "value": "Talioth. Physiology: The Talioth is a long and slender raptor-like creature with striking back spikes in the form of a serrated knife, these sharp scales are tan and copper/red in color. Their head possesses an elongated beak that curves in on itself, with sharp curved teeth along the edges and small eyes near the back of the mouth, but their tongue is short.",
+    "type": "Bird Wyvern",
+    "title": "Talioth",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Guardian Arkveld",
+    "value": "Guardian Arkveld. Physiology: Guardian Arkveld is nearly identical to its standard counterpart, with glowing veins covering its head, body, forelimbs, and chainblades. It appears more white in comparison to normal Arkveld. Abilities: Like other Guardians, Guardian Arkveld can draw power from Wyvern Milk, but also enhance its own abilities by draining power from monsters. This led to it evolving the ability and desire to prey on other Guardians. Behavior: Like other Guardians, Guardian Arkveld can draw power from Wyvern Milk, but also enhance its own abilities by draining power from monsters. This led to it evolving the ability and desire to prey on other Guardians.",
+    "type": "Construct",
+    "title": "Guardian Arkveld",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Chatacabra",
+    "value": "Chatacabra. Physiology: Chatacabra is an Amphibian with incredibly strong forelimbs. Its ape-like posture and way of locomotion are akin to a simian Fanged Beast, most notably a Rajang. Abilities: Chatacabra uses its long tongue to whip at enemies and to lick its own forelimbs, covering them in its own saliva. This saliva has adhesive qualities, allowing stone or other earthen materials to be affixed to its forelimbs, thus strengthening the monster even more by giving it more armor and increasing the power of its punches. Behavior: Chatacabra uses its long tongue to whip at enemies and to lick its own forelimbs, covering them in its own saliva. This saliva has adhesive qualities, allowing stone or other earthen materials to be affixed to its forelimbs, thus strengthening the monster even more by giving it more armor and increasing the power of its punches.",
+    "type": "Amphibian",
+    "title": "Chatacabra",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Guardian Doshaguma",
+    "value": "Guardian Doshaguma. Physiology: Compared to regular Doshaguma, Guardian Doshaguma have white fur with prominent glowing veins covering their head and forearms. Abilities: Like other Guardians, Guardian Doshaguma can harness the power of Wyvern Milk to enhance and sustain themselves, gaining greater power. Their claw attacks release powerful explosions that create Wylkrystals if they come into contact with pools of Wyvern Milk. Behavior: Like other Guardians, Guardian Doshaguma can harness the power of Wyvern Milk to enhance and sustain themselves, gaining greater power. Their claw attacks release powerful explosions that create Wylkrystals if they come into contact with pools of Wyvern Milk.",
+    "type": "Construct",
+    "title": "Guardian Doshaguma",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Guardian Ebony Odogaron",
+    "value": "Guardian Ebony Odogaron. Physiology: Guardian Ebony Odogaron have distinctive glowing veins over their body in addition to white patterns on their body and forelegs. They have solid black eyes. Abilities: Like other Guardians, Guardian Ebony Odogaron can harness the power of Wyvern Milk to enhance and sustain themselves, gaining greater power. Their claw and tail attacks release powerful explosions that create Wylkrystals if they come into contact with pools of Wyvern Milk, which they can then detonate using Dragon attacks. Behavior: Like other Guardians, Guardian Ebony Odogaron can harness the power of Wyvern Milk to enhance and sustain themselves, gaining greater power. Their claw and tail attacks release powerful explosions that create Wylkrystals if they come into contact with pools of Wyvern Milk, which they can then detonate using Dragon attacks.",
+    "type": "Construct",
+    "title": "Guardian Ebony Odogaron",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Guardian Fulgur Anjanath",
+    "value": "Guardian Fulgur Anjanath. Physiology: Guardian Fulgur Anjanath have white patterns on their head and body, glowing veins covering their head and body, and entirely black eyes. Abilities: Like other Guardians, Guardian Fulgur Anjanath can harness the power of Wyvern Milk to enhance and sustain themselves, gaining greater power. Their biting attacks release powerful explosions that create Wylkrystals if they come into contact with pools of Wyvern Milk, which they can then detonate using Thunder attacks. Behavior: Like other Guardians, Guardian Fulgur Anjanath can harness the power of Wyvern Milk to enhance and sustain themselves, gaining greater power. Their biting attacks release powerful explosions that create Wylkrystals if they come into contact with pools of Wyvern Milk, which they can then detonate using Thunder attacks.",
+    "type": "Construct",
+    "title": "Guardian Fulgur Anjanath",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Guardian Rathalos",
+    "value": "Guardian Rathalos. Physiology: Guardian Rathalos have distinctive glowing veins over their head, body, wings, and legs in addition to white patterns on their wings and pale red scales. They have solid black eyes. Abilities: Like other Guardians, Guardian Rathalos can harness the power of Wyvern Milk to enhance and sustain themselves, gaining greater power. Their claw attacks release powerful explosions that create Wylkrystals if they come into contact with pools of Wyvern Milk, which they can then detonate using Fire attacks. Behavior: Like other Guardians, Guardian Rathalos can harness the power of Wyvern Milk to enhance and sustain themselves, gaining greater power. Their claw attacks release powerful explosions that create Wylkrystals if they come into contact with pools of Wyvern Milk, which they can then detonate using Fire attacks.",
+    "type": "Construct",
+    "title": "Guardian Rathalos",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Jin Dahaad",
+    "value": "Jin Dahaad. Physiology: Jin Dahaad is an enormous monster with a long, serpentine body and four limbs. Its head is small, with small grey eyes mostly obscured beneath metalic facial plates, and a bottom jaw capable of splitting in two, as well as several sets of metallic, jagged horns forming a \"hood\" near where the head meets the neck. Abilities: The Jin Dahaad is the powerful apex predator of the Iceshard Cliffs, and becomes most active during the region's Inclemency, the Frostwinds. The titanic monster uses its own enormous body as a living [https://en.wikipedia.org/wiki/Heat_sink heat sink], shunting heat to the coppery metallic plates on its head, neck, chest, limbs, and tail to drastically lower both its internal body temperature and that of the surroundings. Behavior: The Jin Dahaad is the powerful apex predator of the Iceshard Cliffs, and becomes most active during the region's Inclemency, the Frostwinds. The titanic monster uses its own enormous body as a living [https://en.wikipedia.org/wiki/Heat_sink heat sink], shunting heat to the coppery metallic plates on its head, neck, chest, limbs, and tail to drastically lower both its internal body temperature and that of the surroundings.",
+    "type": "???",
+    "title": "Jin Dahaad",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Lala Barina",
+    "value": "Lala Barina. Physiology: Lala Barina is a large temnoceran with a unique appearance. Its six legs are jointed and are covered in sharp-looking spikes. Abilities: Lala Barina can spin a scarlet, glowing silk from their mouths, which they can use for attacking and binding prey or locomotion. They also use it to construct massive scarlet colored nests within the Scarlet Forest. Behavior: Lala Barina can spin a scarlet, glowing silk from their mouths, which they can use for attacking and binding prey or locomotion. They also use it to construct massive scarlet colored nests within the Scarlet Forest.",
+    "type": "Temnoceran",
+    "title": "Lala Barina",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Nu Udra",
+    "value": "Nu Udra. Physiology: Nu Udra is a massive monster heavily resembling an octopus. It has six large limbs which it uses for locomotion and attacking, with its remaining two limbs being reduced and used to shield its mouth. Abilities: Much about Nu Udra's ecology is a mystery, although it is known to be most active during the \"Firespring\" inclemency of the Oilwell Basin. As the apex predator of the Oilwell Basin, it is big and powerful enough to subdue and defeat powerful monsters like Ajarakan, able to hold three with its tentacles at once; it employs this grappling attack to pull hunters towards it so it can finish them off with fire from its siphon. Behavior: Much about Nu Udra's ecology is a mystery, although it is known to be most active during the \"Firespring\" inclemency of the Oilwell Basin. As the apex predator of the Oilwell Basin, it is big and powerful enough to subdue and defeat powerful monsters like Ajarakan, able to hold three with its tentacles at once; it employs this grappling attack to pull hunters towards it so it can finish them off with fire from its siphon.",
+    "type": "Cephalopod",
+    "title": "Nu Udra",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Xu Wu",
+    "value": "Xu Wu. Physiology: Xu Wu is an eight-limbed cephalopod with a body structure similar to an octopus. Six of its limbs are long and flexible, located on the sides of its body, while another pair, heavily reduced, is located in front of its body. Abilities: Xu Wu secretes golden mucus from its limbs that harden into razor-sharp blades. It can swipe these blades and stab at enemies or fling them as projectiles. Behavior: Xu Wu secretes golden mucus from its limbs that harden into razor-sharp blades. It can swipe these blades and stab at enemies or fling them as projectiles.",
+    "type": "Cephalopod",
+    "title": "Xu Wu",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Zoh Shia",
+    "value": "Zoh Shia. Physiology: Zoh Shia's initial appearance takes the form of an \"angelic\" dragon. Its body covered in a sleek, paste-white shell of pure Wylk (\"Wyvern Milk\") crystal with a smooth, featureless face and numerous crystal formations all over its body and wing arms that curve upwards like feathers. Abilities: Zoh Shia was the ultimate secret weapon of the Ancient Civilization of Wyveria, created to defend the empire against an unknown threat. However, the Elder Dragon-like Construct instead turned out to be too powerful to control and ended up causing the fall of the Ancient Civilization thousands of years ago. Behavior: Zoh Shia was the ultimate secret weapon of the Ancient Civilization of Wyveria, created to defend the empire against an unknown threat. However, the Elder Dragon-like Construct instead turned out to be too powerful to control and ended up causing the fall of the Ancient Civilization thousands of years ago.",
+    "type": "Construct",
+    "title": "Zoh Shia",
+    "description": "",
+    "useForCharacterCreation": false
   }
 ]
